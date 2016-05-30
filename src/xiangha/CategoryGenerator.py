@@ -8,7 +8,7 @@ import codecs
 
 def generateCategory(categoryFile, categoryFolder):
     
-    content = codecs.open(categoryFile).readlines()
+    content = codecs.open(categoryFile).read()
     
     if len(content) == 0:
         print("The length of the content is 0")

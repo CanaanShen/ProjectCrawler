@@ -34,7 +34,7 @@ class XiangHaCrawler:
 
 if __name__ == '__main__':
     
-    rootURL = r"http://www.xiangha.com/shicai/%E7%8C%AA%E8%82%89"
+    rootURL = r"http://s1.cdn.xiangha.com/shicai/201411/171926236560.jpg/MTUweDE1MA"
     outRootDir = r"../../data"
     
     if not os.path.exists(outRootDir):
