@@ -1,0 +1,59 @@
+<content>
+
+    <id>
+        500
+    </id>
+
+    <foodname>
+        姜黄
+    </foodname>
+
+    <firstcategory>
+        药食
+    </firstcategory>
+
+    <secondcategory>
+        药食
+    </secondcategory>
+
+    <alias>
+        黄姜、毛黄姜、黄丝郁金
+    </alias>
+
+    <unsuit>
+        血虚无气滞血瘀者慎用，孕妇忌用。
+    </unsuit>
+
+    <suit>
+    </suit>
+
+    <ingredient>
+
+    </ingredient>
+
+    <introduction>
+        姜黄，中药名。为姜科植物姜黄Curcuma longa L.的干燥根茎。冬季茎叶枯萎时采挖，洗净，煮或蒸至透心，晒干，除去须根。
+        本品为不规则或类圆形的厚片。外表皮深黄色，有时可见环节。切面棕黄色至金黄色，角质样，内皮层环纹明显，纤维束呈点状散在。气香特异，味微苦、辛。
+    </introduction>
+
+    <effect>
+        破血行气，痛经止痛。
+    </effect>
+
+    <nutrition>
+
+    </nutrition>
+
+    <cuisine>
+
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201601/16115741966.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

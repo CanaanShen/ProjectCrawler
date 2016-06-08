@@ -1,0 +1,170 @@
+<content>
+
+    <id>
+        406
+    </id>
+
+    <foodname>
+        黄米
+    </foodname>
+
+    <firstcategory>
+        五谷杂粮
+    </firstcategory>
+
+    <secondcategory>
+        五谷类
+    </secondcategory>
+
+    <alias>
+        黍、糜子、夏小米
+    </alias>
+
+    <unsuit>
+        燥热者忌食。
+    </unsuit>
+
+    <suit>
+        一般人群均可食用。适宜于体弱多病，面生疔疮者食用；适宜阳盛阴虚，夜不得眠，久泄胃弱，疗冻疮、疥疮、毒热、毒肿者食用。（体弱多病、面生疔疮者，每餐以50克为宜，不宜长期大量服用）
+    </suit>
+
+    <ingredient>
+        <element>
+            <elename>
+                热量（大卡）
+            </elename>
+            <elevalue>
+                342
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                蛋白质（克）
+            </elename>
+            <elevalue>
+                9.7
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                脂肪（克）
+            </elename>
+            <elevalue>
+                1.5
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                碳水化合物（克）
+            </elename>
+            <elevalue>
+                76.9
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                膳食纤维（克）
+            </elename>
+            <elevalue>
+                4.4
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                维生素B1（毫克）
+            </elename>
+            <elevalue>
+                0.09
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                维生素B2（毫克）
+            </elename>
+            <elevalue>
+                0.13
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                烟酸（毫克）
+            </elename>
+            <elevalue>
+                1.3
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                维生素E（毫克）
+            </elename>
+            <elevalue>
+                4.61
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                钠（毫克）
+            </elename>
+            <elevalue>
+                3.3
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                锌（毫克）
+            </elename>
+            <elevalue>
+                2.07
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                铜（毫克）
+            </elename>
+            <elevalue>
+                0.9
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                锰（毫克）
+            </elename>
+            <elevalue>
+                0.23
+            </elevalue>
+        </element>
+    </ingredient>
+
+    <introduction>
+        黄米又称黍、糜子、夏小米，有糯质和非糯质之别，糯质黍多作以醇酒，非糯质黍，称为穄，以食用为主。原产中国北方，是古代黄河流域重要的粮食作物之一。照字典的解释，是去了壳的黍子的果实，比小米稍大，颜色淡黄，煮熟后很黏。黄米可用于煮粥、做糕、做米饭和酿酒。黄米、小米同出北方，但在北方人眼里，黄米是要高于小米的。人们拿它当江米使，有些地方还拿它做糕待客。
+        糜、黍在植株形态上区别较小，由糜子加工成的米没有糯性，陕北老百姓称其为“黄米”或“糜米”，由黍子加工成的米有糯性，陕北老百姓称其为“软米”。蒙古族喜欢食用的“炒米”由糜米制作而成，东北人喜欢吃的“年糕”是由软米制作而成。
+    </introduction>
+
+    <effect>
+        1.养阴补虚
+        黄米补虚损，益精气，润肺补肾，用于肺肾阴虚。适宜与久病体虚或是虚劳的补益。
+        2.润肺
+        黄米滋阴润肺，去除肺燥肺热。使人呼吸畅通舒适。
+        3.通便
+        黄米可以润滑肠道，刺激排便。
+        4.安神
+        可治阳盛阴虚，夜不得眠，久泄胃弱，疗冻疮、疥疮、毒热、毒肿等症。
+    </effect>
+
+    <nutrition>
+        黄米富含蛋白质、碳水化合物、B族维生素、维生素E、锌、铜、锰等营养元素，具有益阴、利肺、利大肠之功效。
+    </nutrition>
+
+    <cuisine>
+        黄米面可做糕点，尤以炸糕、驴打滚最为有名。炸糕是北方人节日喜庆必备的佳品，驴打滚是非常有名的大众化小吃，黄米亦可酿酒。
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201310/091413526853.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

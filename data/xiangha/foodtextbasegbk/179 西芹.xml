@@ -1,0 +1,123 @@
+<content>
+
+    <id>
+        179
+    </id>
+
+    <foodname>
+        西芹
+    </foodname>
+
+    <firstcategory>
+        蔬菜
+    </firstcategory>
+
+    <secondcategory>
+        茎叶花类
+    </secondcategory>
+
+    <alias>
+        西洋芹菜、美芹
+    </alias>
+
+    <unsuit>
+        脾胃虚寒、肠滑不固者、血压偏低者忌食。婚育期男士应少吃芹菜。
+    </unsuit>
+
+    <suit>
+        一般人群均可食用。
+    </suit>
+
+    <ingredient>
+        <element>
+            <elename>
+                热量（大卡）
+            </elename>
+            <elevalue>
+                12
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                蛋白质（克）
+            </elename>
+            <elevalue>
+                0.6
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                脂肪（克）
+            </elename>
+            <elevalue>
+                0.1
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                碳水化合物（克）
+            </elename>
+            <elevalue>
+                4.8
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                膳食纤维（克）
+            </elename>
+            <elevalue>
+                2.6
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                维生素B6（毫克）
+            </elename>
+            <elevalue>
+                0.05
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                叶酸（微克）
+            </elename>
+            <elevalue>
+                29.8
+            </elevalue>
+        </element>
+    </ingredient>
+
+    <introduction>
+        西芹又称洋芹、美芹，是从欧洲引进的芹菜品种。芹菜分为本芹(中国类型)和洋芹(西芹类型)两大类。本芹（即中国芹菜）西芹和本芹(中国芹菜)具有相同的营养和食疗价值。本芹，中国芹菜的简称，为伞形科一、二年生草本植物，叶柄较细长，有白芹、青芹，品种很多。近看看它的照片，菜场里通常没有叶子，只卖茎。西芹又称洋芹、美芹，是从欧洲引进的芹菜品种，植株紧凑粗大，叶柄宽厚，实心。质地脆嫩，有芳香气味。可以分黄色种、绿色种和杂色种群三种。西芹是外国种，芹菜是中国种。两种都能降血压，但唐芹效力较佳。两种都含纤维，能通大便，但西芹纤维较丰富。
+    </introduction>
+
+    <effect>
+        1.平肝降压
+        芹菜含酸性的降压成分，对兔、犬静脉注射有明显降压作用。临床对于原发性、妊娠性及更年期高血压均有效。
+        2.镇静安神
+        从芹菜子中分离出的一种碱性成分，对动物有镇静作用，对人体能起安定作用，有利于安定情绪，消除烦躁。
+        3.利尿消肿
+        芹菜含有利尿有效成分，消除体内钠潴留，利尿消肿。临床上以芹菜水煎可治疗乳糜尿。
+        4.防癌抗癌
+        芹菜是高纤维食物，它经肠内消化作用产生一种木质素或肠内脂的物质，这类物质是一种抗氧化剂，高浓度时可抑制肠内细菌产生的致癌物质。它还可以加快粪便在肠内的运转时间，减少致癌物与结肠粘膜的接触，达到预防结肠癌的目的。
+        5.养血补虚
+        芹菜含铁量较高，能补充妇女经血的损失，食之能避免皮肤苍白、干燥、面色无华，而且可使目光有神，头发黑亮。
+    </effect>
+
+    <nutrition>
+        西芹含有丰富蛋白质、胡萝卜素、碳水化合物、脂肪、B族维生素、维生素C、糖类、氨基酸及矿物质和膳食纤，其中磷和钙的含量较高。另外，芹菜叶中营养成分要高于芹菜茎。
+    </nutrition>
+
+    <cuisine>
+        将西芹先放沸水中焯烫(焯水后要马上过凉)，除了可以使成菜颜色翠绿，还可以减少炒菜的时间，来减少油脂对蔬菜“入侵”的时间。
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201508/061006017585.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

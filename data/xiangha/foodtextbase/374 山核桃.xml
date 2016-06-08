@@ -1,0 +1,207 @@
+<content>
+
+    <id>
+        374
+    </id>
+
+    <foodname>
+        山核桃
+    </foodname>
+
+    <firstcategory>
+        果品类
+    </firstcategory>
+
+    <secondcategory>
+        干果
+    </secondcategory>
+
+    <alias>
+        小核桃、山蟹、山核
+    </alias>
+
+    <unsuit>
+        肺炎、支气管扩张等患者忌食。
+    </unsuit>
+
+    <suit>
+        一般人群均可食用。
+    </suit>
+
+    <ingredient>
+        <element>
+            <elename>
+                热量（大卡）
+            </elename>
+            <elevalue>
+                596
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                蛋白质（克）
+            </elename>
+            <elevalue>
+                7.9
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                不饱和脂肪酸（克）
+            </elename>
+            <elevalue>
+                44.7
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                碳水化合物（克）
+            </elename>
+            <elevalue>
+                34.6
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                膳食纤维（克）
+            </elename>
+            <elevalue>
+                7.8
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                维生素B1（毫克）
+            </elename>
+            <elevalue>
+                0.02
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                维生素B2（毫克）
+            </elename>
+            <elevalue>
+                0.09
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                烟酸（毫克）
+            </elename>
+            <elevalue>
+                1
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                维生素E（毫克）
+            </elename>
+            <elevalue>
+                14.08
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                钙（毫克）
+            </elename>
+            <elevalue>
+                133
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                磷（毫克）
+            </elename>
+            <elevalue>
+                222
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                钾（毫克）
+            </elename>
+            <elevalue>
+                241
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                钠（毫克）
+            </elename>
+            <elevalue>
+                430.3
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                镁（毫克）
+            </elename>
+            <elevalue>
+                5
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                铁（毫克）
+            </elename>
+            <elevalue>
+                5.4
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                锌（毫克）
+            </elename>
+            <elevalue>
+                12.59
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                铜（毫克）
+            </elename>
+            <elevalue>
+                0.45
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                锰（毫克）
+            </elename>
+            <elevalue>
+                0.15
+            </elevalue>
+        </element>
+    </ingredient>
+
+    <introduction>
+        山核桃是一种落叶乔木，属胡桃科山核桃属，约有20个种，中国为原产地之一。山核桃的果实由于具有极高的营养价值和独特的口感风味，得到了消费者的认可，逐渐成为一种广受欢迎的高档坚果。
+    </introduction>
+
+    <effect>
+        1.补气益血
+        山核桃味甘性平，能补气益血，调燥化痰，温补肾肺，定喘。经常吃山核桃能滋养血脉、增进食欲、乌黑须发，而且还能医治性功能减退、神经衰弱、记忆衰退等疾患，所以民间有“常食核桃油，白发老翁戏牦牛”之谚语。
+        2.滋补养生
+        山核桃对各种年龄段的人都有滋补养生的功能，孕妇多吃有利胎儿的骨骼发育；儿童常吃有利于生长发育、增强记忆、保护视力；青年人常吃可使身体健美、肌肤光润；中老年人常吃，可保心养肺、益智延寿。
+    </effect>
+
+    <nutrition>
+        1.山核桃中含有亚油酸、亚麻酸及多种微量元素。人们若能经常摄入核桃食品，便可起到降低血液中胆固醇的作用。
+        2.核桃还富含钙、磷、铁、钾、镁、锌、锰等矿物质及多种维生素，常食不仅有健脑的作用，同时还有预防高血压、心脑血管等疾病的功效。
+        3.核桃中富含的维生素E，常食可以提高人体皮肤的生理活性，有助于美容。
+    </nutrition>
+
+    <cuisine>
+
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201508/101451555651.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

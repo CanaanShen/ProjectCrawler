@@ -1,0 +1,70 @@
+<content>
+
+    <id>
+        99
+    </id>
+
+    <foodname>
+        鲷鱼
+    </foodname>
+
+    <firstcategory>
+        鱼类
+    </firstcategory>
+
+    <secondcategory>
+        咸水鱼
+    </secondcategory>
+
+    <alias>
+        加吉鱼、班加吉、加真鲷、铜盆鱼
+    </alias>
+
+    <unsuit>
+        痛风患者忌食。
+    </unsuit>
+
+    <suit>
+        一般人群均可食用。
+    </suit>
+
+    <ingredient>
+        <element>
+            <elename>
+                热量（大卡）
+            </elename>
+            <elevalue>
+                110
+            </elevalue>
+        </element>
+    </ingredient>
+
+    <introduction>
+        鲷鱼，又叫加吉鱼，属于鱼纲鲷科。体高侧扁，长五十厘米以上，体呈银红色，有淡蓝色的斑点，尾鳍后绿黑色，头大、口小，上下颌牙前部圆锥形，后部臼齿状，体被栉鳞，背鳍和臀鳍具硬棘。中国沿海均产，但以辽宁大东沟，河北秦皇岛、山海关，山东烟台、龙口、青岛为主要产区，山海关产的品质最好。
+        加吉鱼分红加吉和黑加吉两种，红加吉的学名叫真鲷，黑加吉即黑鲷。加吉鱼名字的由来，还有一段有趣的故事呢。相传，唐太宗李世民东征，来到登州(现在的山东蓬莱)。一天，他择吉日渡海游览海上仙山(现今的长山岛)，在海岛上品尝了长相漂亮味道鲜美的鱼之后，便问随行的文武官员，此鱼何名？群臣不敢胡说，于是作揖答道：“皇上赐名才是。”太宗大喜，想到是择吉日渡海，品尝鲜鱼又为吉日增添光彩，为此赐名“加吉鱼”。
+    </introduction>
+
+    <effect>
+        1.美容护肤
+        服用红鲷鱼中提取的胶原蛋白，不但能延缓皮肤衰老，减少皱纹、色斑等岁月问题，更能改善人体新陈代谢，让人具有更年轻的身体状态。
+        2.补肾养血
+        鲷鱼具有益肝,健脾,和胃,补肾,润肠,养颜护肤,通血,调经,养阴补虚等功效。
+    </effect>
+
+    <nutrition>
+        营养丰富，富含蛋白质、钙、钾、硒等营养元素，为人体补充丰富蛋白质及矿物质。
+    </nutrition>
+
+    <cuisine>
+
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201310/100951298341.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

@@ -1,0 +1,90 @@
+<content>
+
+    <id>
+        332
+    </id>
+
+    <foodname>
+        香瓜
+    </foodname>
+
+    <firstcategory>
+        果品类
+    </firstcategory>
+
+    <secondcategory>
+        水果
+    </secondcategory>
+
+    <alias>
+        甘瓜、甜瓜
+    </alias>
+
+    <unsuit>
+        出血及体虚者，脾胃虚寒、腹胀便溏者忌食。
+    </unsuit>
+
+    <suit>
+        一般人群均可食用。尤适宜夏季烦热口渴、口鼻生疮、中暑者。
+    </suit>
+
+    <ingredient>
+        <element>
+            <elename>
+                热量（大卡）
+            </elename>
+            <elevalue>
+                26
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                蛋白质（克）
+            </elename>
+            <elevalue>
+                0.4
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                脂肪（克）
+            </elename>
+            <elevalue>
+                0.1
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                碳水化合物（克）
+            </elename>
+            <elevalue>
+                6.2
+            </elevalue>
+        </element>
+    </ingredient>
+
+    <introduction>
+        瓜科植物的果实肉质，具多室及多种子，和浆果很像，但是这些果实的花托与外果皮愈合，常形成厚厚的外皮，在分类上特别称之为“瓜果”，香瓜就是一个典型的例子。香瓜原产于非洲热带沙漠地区，大约在北魏时期随着西瓜一同传到中国，明朝开始广泛种植，目前我国各地普遍栽培。
+    </introduction>
+
+    <effect>
+        香瓜甘、寒、无毒；瓜蒂苦、寒、有毒。入胃、肺、大肠。香瓜清热解暑止渴；香瓜子清热解毒利尿；香瓜蒂催吐胸膈痰涎及致毒食物，或作外用药。香瓜治暑热烦渴；香瓜子治肠痈、肺痈；香瓜蒂外用治急性黄疸型传染性肝炎、鼻炎、鼻中瘪肉。
+    </effect>
+
+    <nutrition>
+        香瓜是夏令消暑瓜果，其营养价值可与西瓜媲美。据测定，香瓜除了水分和蛋白质的含量低于西瓜外，其他营养成分均不少于西瓜，而芳香物质、矿物质、糖分和维生素C的含量则明显高于西瓜。多食甜瓜，有利于人体心脏和肝脏以及肠道系统的活动，促进内分泌和造血机能。祖国医学确认甜瓜具有“消暑热，解烦渴，利小便”的显著功效。另外，各种香瓜均含有苹果酸、葡萄糖、氨基酸、甜菜茄、维生素C等丰富营养，对感染性高烧、口渴等，都具有很好的疗效。
+    </nutrition>
+
+    <cuisine>
+
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201508/101718319000.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

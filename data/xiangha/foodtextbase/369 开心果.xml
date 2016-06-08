@@ -1,0 +1,109 @@
+<content>
+
+    <id>
+        369
+    </id>
+
+    <foodname>
+        开心果
+    </foodname>
+
+    <firstcategory>
+        果品类
+    </firstcategory>
+
+    <secondcategory>
+        干果
+    </secondcategory>
+
+    <alias>
+        阿月浑子、胡棒子、无名子
+    </alias>
+
+    <unsuit>
+        肥胖、高血脂者慎食。
+    </unsuit>
+
+    <suit>
+        一般人群均可食用。
+    </suit>
+
+    <ingredient>
+        <element>
+            <elename>
+                热量（大卡）
+            </elename>
+            <elevalue>
+                614
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                蛋白质（克）
+            </elename>
+            <elevalue>
+                20.6
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                脂肪（克）
+            </elename>
+            <elevalue>
+                53
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                碳水化合物（克）
+            </elename>
+            <elevalue>
+                21.9
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                膳食纤维（克）
+            </elename>
+            <elevalue>
+                8.2
+            </elevalue>
+        </element>
+    </ingredient>
+
+    <introduction>
+        开心果，为漆树科落叶小乔木无名木的果实。“开心果”以“开心解郁”的功效而得名，是现在人们生活中十分常见的休闲干果。它主要产于叙利亚、伊拉克、伊朗、前苏联西南部和南欧，我国仅在新疆等边远地区有栽培。开心果果仁含有维生素E等成分，有抗衰老的作用，能增强体质。古代波斯国国王视之为“仙果”。开心果在我国作为食疗滋补品应用，已有千年以上的历史了。
+        传说五世纪时的波希战争中，波斯人英勇无比，在恶劣的环境中愈战愈勇，最终打败了希腊人，其“秘密武器”就是士兵们吃了一种神奇的干果—开心果。因此，古代波斯国国王将开心果视为“仙果”。开心果也被称为是“美国花生”。
+    </introduction>
+
+    <effect>
+        性温，味辛、涩；温肾暖脾，补益虚损，调中顺气，能治疗神经衰弱、浮肿、贫血、营养不良、慢性泻痢等症。　
+        1.祛压降脂
+        开心果富含精氨酸，它不仅可以缓解动脉硬化的发生，有助于降低血脂，还能降低心脏病发作危险，降低胆固醇，缓解急性精神压力反应等。
+        2.明目
+        开心果紫红色的果衣，含有花青素，这是一种天然抗氧化物质，而翠绿色的果仁中则含有丰富的叶黄素，它不仅仅可以抗氧化，而且对保护视网膜也很有好处。
+        3.减肥
+        开心果每天吃上28克开心果，大概是49颗左右，不仅不用担心发胖，还有助于控制体重。这是因为吃饱的感觉通常需要20分钟，吃开心果可以通过剥壳延长食用时间，让人产生饱腹感和满足感，从而帮助减少食量和控制体重。
+        4.抗衰老
+        开心果营养丰富，其种仁含蛋白质约20%，含糖15%～18%，还可以榨油。果仁还含有维生素E，有抗衰老的作用，能增强体质。
+        5.润肠通便
+        开心果由于开心果中含有丰富的油脂，因此有润肠通便的作用，有助于机体排毒。
+    </effect>
+
+    <nutrition>
+        开心果果仁是高营养的食品，每100果仁含维生素A20微克，叶酸59微克，含铁3毫克，含磷440毫克，含钾970毫克，含钠270毫克，含钙120毫克，同时还含有烟酸、泛酸、矿物质等。种仁含油率高达45.1％。由于开心果中含有丰富的油脂，因此有润肠通便的作用，有助于机体排毒。
+    </nutrition>
+
+    <cuisine>
+
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201310/111437207027.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

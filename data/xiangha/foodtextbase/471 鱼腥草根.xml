@@ -1,0 +1,101 @@
+<content>
+
+    <id>
+        471
+    </id>
+
+    <foodname>
+        鱼腥草根
+    </foodname>
+
+    <firstcategory>
+        药食
+    </firstcategory>
+
+    <secondcategory>
+        药食
+    </secondcategory>
+
+    <alias>
+        折耳根
+    </alias>
+
+    <unsuit>
+        性寒，凡属脾胃虚寒或虚寒性病证者均忌食。
+    </unsuit>
+
+    <suit>
+        适宜肺部感染，包括肺脓疡，大叶性肺炎，肺痈，肺结核，急性支气管炎咳嗽，气急，吐黄脓痰，或痰中带血之人食用；适宜黄疽发热，包括急性胆囊炎之人食用；适宜妇女子宫内膜炎，宫颈炎，附件炎，带下病腥臭症状的患者。
+    </suit>
+
+    <ingredient>
+        <element>
+            <elename>
+                热量（大卡）
+            </elename>
+            <elevalue>
+                39
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                蛋白质（克）
+            </elename>
+            <elevalue>
+                2.1
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                碳水化合物（克）
+            </elename>
+            <elevalue>
+                19.5
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                膳食纤维（克）
+            </elename>
+            <elevalue>
+                11.8
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                叶酸（微克）
+            </elename>
+            <elevalue>
+                41.2
+            </elevalue>
+        </element>
+    </ingredient>
+
+    <introduction>
+        折耳根，又名鱼腥草。为三白草科多年生草本植物蕺菜的干燥水上部分。名见《名医别录》。唐苏颂说:"生湿地，山谷阴处亦能蔓生，叶如荞麦而肥，茎紫赤色，江左人好生食，关中谓之菹菜，叶有腥气，故俗称：鱼腥草。"夏季茎叶茂盛花穗多时采收，洗净，阴干用或鲜用。除具有食用价值外，鱼腥草入药具有清热解毒、消痈排脓、利尿通淋的作用，在我国传统医学中具有较为广泛的应用。
+    </introduction>
+
+    <effect>
+        味辛，性微寒；归肺、膀胱、大肠经。具有清热解毒，化痰排脓消痈，利尿消肿通淋的作用。主治肺热喘咳，肺痈吐脓，喉蛾，热痢，疟疾，水肿，痈肿疮毒，热淋，湿疹，脱肛等病症。临床广泛用于治疗肺炎、咯血、上呼吸道感染、慢性支气管炎、感冒发烧、肺癌、宫颈糜烂、肾病综合征、鼻炎、化脓性中耳炎、流行性腮腺炎等。
+    </effect>
+
+    <nutrition>
+        1.折耳根有特异气味，营养价值较高；含有蛋白质、脂肪和丰富的碳水化合物，同时含有甲基正壬酮、羊脂酸和月桂油烯等。
+        2.鱼腥草主含挥发油，癸酰乙醛鱼腥草素等多种成份，对各种致病杆菌、球菌、流感病毒、钩端螺旋体等有抑制抗菌作用，并能提高人体免疫调节功能。
+        3.所含钾盐、槲皮甙均有利尿作用。
+    </nutrition>
+
+    <cuisine>
+        1.我国食用蕺菜的习惯始于古代，凉拌侧耳根是民间的一道传统佳肴。
+        2.久食之，发虚弱，损阳气，消精髓。不宜久食。
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201210/2910812.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

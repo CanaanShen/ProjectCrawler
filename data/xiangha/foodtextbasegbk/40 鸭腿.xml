@@ -1,0 +1,62 @@
+<content>
+
+    <id>
+        40
+    </id>
+
+    <foodname>
+        鸭腿
+    </foodname>
+
+    <firstcategory>
+        肉类
+    </firstcategory>
+
+    <secondcategory>
+        鸭肉
+    </secondcategory>
+
+    <alias>
+    </alias>
+
+    <unsuit>
+    </unsuit>
+
+    <suit>
+        一般人群均可食用。
+    </suit>
+
+    <ingredient>
+
+    </ingredient>
+
+    <introduction>
+        鸭肉是一种美味佳肴，适于滋补，是各种美味名菜的主要原料。人们常言“鸡鸭鱼肉”四大荤，鸭肉蛋白质含量比畜肉含量高得多，脂肪含量适中且分布较均匀。
+    </introduction>
+
+    <effect>
+        鸭子吃的食物多为水生物，故其肉性昧甘、寒，入肺胃肾经，有滋补、养胃、补肾、除痨热骨蒸、消水肿、止热痢、止咳化痰等作用。
+    </effect>
+
+    <nutrition>
+        1.鸭腿中的脂肪酸熔点低，易于消化。
+        2.所含B族维生素和维生素E较其他肉类多，能有效抵抗脚气病，神经炎和多种炎症，还能抗衰老。
+        3.鸭腿中含有较为丰富的烟酸，它是构成人体内两种重要辅酶的成分之一，对心肌梗死等心脏疾病患者有保护作用。
+    </nutrition>
+
+    <cuisine>
+        1.烹调时加入少量盐，肉汤会更鲜美。
+        2.公鸭肉性微寒，母鸡肉性微温。入药以老而白、白而骨乌者为佳。用老而肥大之鸭同海参炖食，具有很大的滋补功效，炖出的鸭汁，善补五脏之阴和虚痨之热。
+        3.鸭肉与海带共炖食，可软化血管，降低血压，对老年性动脉硬化和高血压、心脏病有较好的疗效。
+        4.鸭肉与竹笋共炖食，可治疗老年人痔疮下血。因此，民间认为鸭是“补虚劳的圣药”。
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201310/081646509021.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

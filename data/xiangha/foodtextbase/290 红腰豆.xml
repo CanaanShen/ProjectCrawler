@@ -1,0 +1,81 @@
+<content>
+
+    <id>
+        290
+    </id>
+
+    <foodname>
+        红腰豆
+    </foodname>
+
+    <firstcategory>
+        豆类
+    </firstcategory>
+
+    <secondcategory>
+        豆类
+    </secondcategory>
+
+    <alias>
+    </alias>
+
+    <unsuit>
+    </unsuit>
+
+    <suit>
+    </suit>
+
+    <ingredient>
+        <element>
+            <elename>
+                热量（大卡）
+            </elename>
+            <elevalue>
+                125
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                蛋白质（克）
+            </elename>
+            <elevalue>
+                9
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                碳水化合物（克）
+            </elename>
+            <elevalue>
+                22
+            </elevalue>
+        </element>
+    </ingredient>
+
+    <introduction>
+        红腰豆原产于南美洲，是乾豆中营养最丰富的一种，含丰富的维他命A、B、C及E，也含丰富的铁质和钾等矿物质。红腰豆有补血、增强免疫力、帮助细胞修补及防衰老等功效。
+    </introduction>
+
+    <effect>
+        红腰豆温甘，红腰豆补血益气，提高免疫力，降糖消渴，抗衰抗辐射。红腰豆适合健康体质平和质，气虚体质，阳虚体质，瘀血体质。
+    </effect>
+
+    <nutrition>
+        红腰豆是豆类中营养较为丰富的一种，含丰富的维他命A、B、C及E，也含丰富的抗氧物、蛋白质、食物纤维及铁质、镁、磷等多种营养素，有补血、增强免疫力、帮助细胞修补及防衰老等功效。而最值得一提是它不含脂肪但含高纤维，能帮助降低胆固醇及控制血糖，糖尿病人也适合进食。素食者也十分适宜多进食红腰豆，因为他们不吃肉类，而肉类本身含有铁质、蛋白质等营养素，因此素食者可透过进食红腰豆来补充缺少了的铁质，从而帮助制造红血球，预防缺铁性贫血。
+    </nutrition>
+
+    <cuisine>
+        1.红腰豆煲稔后可以加在沙律中或饭菜内，也可用它煮有味饭、炆咖喱或做蔬菜浓汤，为家人（特别是成长中的儿童）多添营养。
+        2.把红腰豆煮全熟
+        豆类都有植物血球凝集素，红腰豆所含有的植物血球凝集素会刺激消化道粘膜，并破坏消化道细胞，降低其吸收营养成分的功能，如果毒素进入血液，还会破坏红血球及其凝血作用，导致过敏反应。
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201310/081844525006.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

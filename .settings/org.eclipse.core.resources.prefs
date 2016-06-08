@@ -1,4 +1,7 @@
 eclipse.preferences.version=1
-encoding//src/xiangha/ContentExtractor.py=UTF-8
+encoding//src/xiangha=UTF-8
+encoding//src/xiangha/ContentExtractor.py=utf-8
 encoding//src/xiangha/Tester.py=UTF-8
 encoding//src/xiangha/XiangHaCrawler.py=utf-8
+encoding/<project>=UTF-8
+encoding/src=UTF-8

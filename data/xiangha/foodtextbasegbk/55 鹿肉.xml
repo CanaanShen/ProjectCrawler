@@ -1,0 +1,108 @@
+<content>
+
+    <id>
+        55
+    </id>
+
+    <foodname>
+        鹿肉
+    </foodname>
+
+    <firstcategory>
+        肉类
+    </firstcategory>
+
+    <secondcategory>
+        其他肉类
+    </secondcategory>
+
+    <alias>
+        梅花鹿肉、马鹿肉
+    </alias>
+
+    <unsuit>
+        有外伤、阴虚阳亢或有热者忌食；炎热季节忌食。
+    </unsuit>
+
+    <suit>
+        一般人群均可食用。尤适宜新婚夫妇、肾气日衰的老人、手脚冰凉、肾阳虚者、头昏耳鸣、腰脊疼痛、阳痿、羸弱虚瘦、血脉不活、容颜欠佳的患者。
+    </suit>
+
+    <ingredient>
+        <element>
+            <elename>
+                热量（大卡）
+            </elename>
+            <elevalue>
+                95
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                蛋白质（克）
+            </elename>
+            <elevalue>
+                19.7
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                脂肪（克）
+            </elename>
+            <elevalue>
+                1.3
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                碳水化合物（克）
+            </elename>
+            <elevalue>
+                0.3
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                维生素B6（毫克）
+            </elename>
+            <elevalue>
+                0.1
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                叶酸（微克）
+            </elename>
+            <elevalue>
+                18.8
+            </elevalue>
+        </element>
+    </ingredient>
+
+    <introduction>
+        鹿肉，一般为梅花鹿或马鹿的肉，是高级野味，食用为肉类之极品。其肉质细嫩、味道美、瘦肉多、结缔组织少，营养价值比牛、羊、猪肉都高得多，含有较丰富的蛋白质、脂肪、无机盐、糖和一定量的维生素，且易于被人体消化吸收。
+        梅花鹿又称药鹿，马鹿又称八叉鹿、黄臀赤鹿。分布于我国东北、内蒙古、西北、西南等地区，有人工饲养。杀鹿时，取肉洗净鲜用。
+    </introduction>
+
+    <effect>
+        味甘，性温。能益气血，补虚羸，补肾益精。用于虚损羸瘦，气血不足，体倦乏力，或产后缺乳；肾虚阳衰，肾精不足，腰脊酸软，畏寒肢冷，阳痿精少。
+        中国传统医学认为，鹿肉属于纯阳之物，补益肾气之功为所有肉类之首，故对于新婚夫妇和肾气日衰的老人，吃鹿肉是很好的补益食品，对那些经常手脚冰凉的人也有很好的温煦作用。鹿肉高蛋白、低脂肪、低胆固醇的特点，对人体的血液循环系统、神经系统有良好的调节作用。还有补脾和胃，养肝补血，壮阳益精之功效。可用于治疗虚劳羸瘦、产后无乳。
+    </effect>
+
+    <nutrition>
+        鹿肉含有较丰富的蛋白质、脂肪、无机盐、糖和一定量的维生素。其高蛋白、低脂肪、低胆固醇的特点，对人体的血液循环系统、神经系统有良好的调节作用。
+    </nutrition>
+
+    <cuisine>
+        鹿肉可干烧、红烧或红扒。鹿肉也同牛羊肉一样属于红肉之列，多食、久食对预防胃肠疾病不利。
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201310/081721184072.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

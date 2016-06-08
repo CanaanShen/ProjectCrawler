@@ -1,0 +1,91 @@
+<content>
+
+    <id>
+        470
+    </id>
+
+    <foodname>
+        鱼腥草叶
+    </foodname>
+
+    <firstcategory>
+        药食
+    </firstcategory>
+
+    <secondcategory>
+        药食
+    </secondcategory>
+
+    <alias>
+        鱼腥草、蕺菜、野花麦、臭草、臭菜、红桔朝
+    </alias>
+
+    <unsuit>
+        凡属脾胃虚寒或虚寒性病证者均忌食。
+    </unsuit>
+
+    <suit>
+        适宜肺部感染，包括肺脓疡，大叶性肺炎，肺痈，肺结核，急性支气管炎咳嗽，气急，吐黄脓痰，或痰中带血之人食用；适宜黄疽发热，包括急性胆囊炎之人食用；适宜妇女子宫内膜炎，宫颈炎，附件炎，带下病腥臭症状的患者。
+    </suit>
+
+    <ingredient>
+        <element>
+            <elename>
+                热量（大卡）
+            </elename>
+            <elevalue>
+                13
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                蛋白质（克）
+            </elename>
+            <elevalue>
+                2.1
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                碳水化合物（克）
+            </elename>
+            <elevalue>
+                10.7
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                膳食纤维（克）
+            </elename>
+            <elevalue>
+                9.6
+            </elevalue>
+        </element>
+    </ingredient>
+
+    <introduction>
+        鱼腥草叶，又称蕺菜，为三白草科多年生草本，是中国著名的传统药用植物。蕺菜全株具有很高的药用价值，常用做清热解毒、化痰止咳等。它的茎、叶、根营养丰富，是鲜嫩爽口、开胃消食的美味佳蔬。在中国长江以南和华北、西北各地均有出产，是贵州一大野菜，妇幼老弱特别爱吃，具有浓厚的地方特色。
+    </introduction>
+
+    <effect>
+        辛，微寒。入肺经。清热解毒，消痈肿。用于肺痈，痰热壅滞，咳吐脓血，以及百日咳等病症。用于各种实热性的痈毒肿痛等症。
+    </effect>
+
+    <nutrition>
+        蕺菜含有蛋白质、脂肪、碳水化合物、羊脂酸和月桂油烯等成分。
+    </nutrition>
+
+    <cuisine>
+        久食之，发虚弱，损阳气，消精髓。不宜久食。
+        鱼腥草清热解毒的作用颇佳，常与桔梗、鲜芦根、瓜蒌皮、冬瓜子、生苡仁、桃仁、象贝等用同用，治肺痈胸痛、咳吐脓血等症；与百部、鹅儿不食草、麦冬、蜂蜜等药配伍，可用于百日咳。
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201210/201770.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

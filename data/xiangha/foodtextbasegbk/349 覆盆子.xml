@@ -1,0 +1,92 @@
+<content>
+
+    <id>
+        349
+    </id>
+
+    <foodname>
+        覆盆子
+    </foodname>
+
+    <firstcategory>
+        果品类
+    </firstcategory>
+
+    <secondcategory>
+        水果
+    </secondcategory>
+
+    <alias>
+        悬钩子、覆盆、覆盆莓、树梅、树莓、野莓、木莓、乌藨子
+    </alias>
+
+    <unsuit>
+        肾虚火旺、小便短赤者、怀孕初期妇女慎食。
+    </unsuit>
+
+    <suit>
+        一般人群均可食用。适宜肝亏虚者、阳痿者、遗精者、不孕不育者、小便频繁者、视物不清者。
+    </suit>
+
+    <ingredient>
+        <element>
+            <elename>
+                热量（大卡）
+            </elename>
+            <elevalue>
+                52
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                蛋白质（克）
+            </elename>
+            <elevalue>
+                1.22
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                脂肪（克）
+            </elename>
+            <elevalue>
+                0.65
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                碳水化合物（克）
+            </elename>
+            <elevalue>
+                11.95
+            </elevalue>
+        </element>
+    </ingredient>
+
+    <introduction>
+        覆盆子，为蔷薇科悬钩子属的木本植物，是一种水果，果实味道酸甜，植株的枝干上长有倒钩刺。覆盆子有很多别名，例如：悬钩子、覆盆、覆盆莓、树梅、树莓、野莓、木莓、乌藨子。覆盆子的果实是一种聚合果，有红色，金色和黑色，在欧美作为水果，在中国大量分布但少为人知，仅在东北地区有少量栽培，市场上比较少见。树莓果实为聚合浆果，柔嫩多汁，色泽宜人，营养丰富，是目前风靡世界的“第三代水果”，在国际市场上被誉为黄金水果。覆盆子植物可入药，有多种药物价值，其果实有补肾壮阳的作用。覆盆子油属于不饱和脂肪酸，可促进前列腺分泌苛尔蒙。
+    </introduction>
+
+    <effect>
+        味酸、甘，性平。益肾，固精，缩尿。用于肾虚遗尿，小便频数，阳痿早泄，遗精滑精。
+    </effect>
+
+    <nutrition>
+
+    </nutrition>
+
+    <cuisine>
+        1.以辅料形式添加到汤、粥中。
+        2.阳痿早泄、遗精滑精者，即可单用研末服，亦可与沙苑子、山?萸、芡实、龙骨等补肾涩精药配伍。
+        3.肝肾亏损，精血不足，目视昏花者，可单用久服，亦可与桑椹子、枸杞子、怀生地等相配。
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201508/101741277397.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

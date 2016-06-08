@@ -1,0 +1,97 @@
+<content>
+
+    <id>
+        264
+    </id>
+
+    <foodname>
+        元蘑
+    </foodname>
+
+    <firstcategory>
+        蔬菜
+    </firstcategory>
+
+    <secondcategory>
+        菌菇类
+    </secondcategory>
+
+    <alias>
+        亚侧耳、冬蘑、黄蘑
+    </alias>
+
+    <unsuit>
+    </unsuit>
+
+    <suit>
+    </suit>
+
+    <ingredient>
+        <element>
+            <elename>
+                热量（大卡）
+            </elename>
+            <elevalue>
+                146
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                蛋白质（克）
+            </elename>
+            <elevalue>
+                12.3
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                脂肪（克）
+            </elename>
+            <elevalue>
+                1.5
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                碳水化合物（克）
+            </elename>
+            <elevalue>
+                70.3
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                膳食纤维（克）
+            </elename>
+            <elevalue>
+                49.6
+            </elevalue>
+        </element>
+    </ingredient>
+
+    <introduction>
+        元蘑是长白山区独有的菌类，它是蘑菇中仅次于猴头蘑的上品蘑，营养成份是一般蔬菜的十几倍，目前一般认为元蘑无法成功养殖，其实不然，但在东北，元蘑养殖已经初具规模，而且产量高。较之野生元蘑，养殖元蘑的营养价值当然是逊色的。而野生元蘑通常会有少量虫蛀的痕迹，中秋过后从野外采摘的元蘑相对而言虫蛀较少，营养价值很高。
+        子实体丛生或叠生，肉质。菌盖宽5一21cm,扁半球形,后平展成扇形、肾形或半圆形。元蘑的形状像扇子，直径7～15厘米，它的颜色变化很大，幼时菌面深褐色，以后呈暗灰色或淡灰褐野生元蘑色，长成后变为黄褐色，菌肉肥厚、白色；菌柄极短而偏生，基部有白色茸毛。菌肉白色，味极鲜。晒干后，成黄色大块，温水泡便恢复鲜时形状。
+    </introduction>
+
+    <effect>
+        元蘑含有人体必需的多种氨酸和维生素，能增强机体抵抗能力、益智开心、益气不饥，延年轻身等作用。元蘑入药，具有舒筋活络、强筋壮骨的功能，主治腰腿疼痛、手足麻木、筋络不舒等症。
+    </effect>
+
+    <nutrition>
+        元蘑含有丰富的蛋白质、脂肪、糖类、钙、磷等营养成分，滋味鲜美，有较高的食用价值。
+    </nutrition>
+
+    <cuisine>
+        可炒、可爆、可烧、可扒、可炖汤，其味道鲜美，口感滑嫩。可与精肉、腌菜、笋、火腿肉、肚片合炒，也可放入肉类中煲汤。
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201403/271515456536.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

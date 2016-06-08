@@ -1,0 +1,180 @@
+<content>
+
+    <id>
+        198
+    </id>
+
+    <foodname>
+        马齿苋
+    </foodname>
+
+    <firstcategory>
+        蔬菜
+    </firstcategory>
+
+    <secondcategory>
+        茎叶花类
+    </secondcategory>
+
+    <alias>
+        马齿草、马苋、长命菜、马齿龙芽、酱瓣豆草、瓜子菜、五行草、灰苋、马踏草、安乐菜、酸苋、耐旱菜
+    </alias>
+
+    <unsuit>
+        凡脾胃索虚，腹泻便溏之人忌食；怀孕妇女，尤其是有习惯性流产的孕妇忌食。
+    </unsuit>
+
+    <suit>
+        一般人群均可食用。尤适宜肠胃道感染者，皮肤粗糙干燥，维生素A缺乏症，角膜软化症，眼干燥症，夜盲症者，小儿单纯性腹泻、小儿百日咳者，钩虫病患者，妇女赤白带下及孕妇临产时，矽肺患者。
+    </suit>
+
+    <ingredient>
+        <element>
+            <elename>
+                热量（大卡）
+            </elename>
+            <elevalue>
+                27
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                蛋白质（克）
+            </elename>
+            <elevalue>
+                2.3
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                脂肪（克）
+            </elename>
+            <elevalue>
+                0.5
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                碳水化合物（克）
+            </elename>
+            <elevalue>
+                3.9
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                膳食纤维（克）
+            </elename>
+            <elevalue>
+                0.7
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                维生素A（微克）
+            </elename>
+            <elevalue>
+                372
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                胡萝卜素（微克）
+            </elename>
+            <elevalue>
+                2230
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                维生素B1（毫克）
+            </elename>
+            <elevalue>
+                0.03
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                维生素B2（毫克）
+            </elename>
+            <elevalue>
+                0.11
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                烟酸（毫克）
+            </elename>
+            <elevalue>
+                0.7
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                维生素C（毫克）
+            </elename>
+            <elevalue>
+                23
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                钙（毫克）
+            </elename>
+            <elevalue>
+                85
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                磷（毫克）
+            </elename>
+            <elevalue>
+                56
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                铁（毫克）
+            </elename>
+            <elevalue>
+                1.5
+            </elevalue>
+        </element>
+    </ingredient>
+
+    <introduction>
+        
+    </introduction>
+
+    <effect>
+        性寒、味酸，归肝经、大肠经。有清热利湿、解毒消肿、消炎、止渴、利尿作用。
+        1.利水、消肿、降低血压
+        马齿苋含有大量的钾盐，有良好的利水消肿作用；钾离子还可直接作用于血管壁上，使血管壁扩张，阻止动脉管壁增厚，从而起到降低血压的作用。
+        2.消除尘毒
+        马齿苋能消除尘毒，防止吞噬细胞变性和坏死，还可以防止淋巴管发炎和阻止纤维性变化，杜绝矽结节形成，对白癜风也有一定的疗效。
+        3.防治溃疡
+        马齿觉还含有较多的胡萝卜素，能促进溃疡病的愈合。
+        4.杀菌消炎
+        马齿苋对痢疾杆菌、伤寒杆菌和大肠杆菌有较强的抑制作用，可用于各种炎症的辅助治疗，素有“天然抗生素”之称。
+        5.防治心脏病
+        马齿苋中含有一种丰富的Y－3脂肪酸，它能抑制人体内血清胆固醇和甘油三酯酸的生成，帮助血管内皮细胞合成的前列腺素增多，抑制血小板形成血栓素A2，使血液粘度下降，促使血管扩张，可以预防血小板聚集、冠状动脉痉挛和血栓形成，从而起到防治心脏病的作用。
+    </effect>
+
+    <nutrition>
+        马齿苋还含有丰富的SL3脂肪酸及维生素A样物质：SL3脂肪酸是形成细胞膜，尤其是脑细胞膜与眼细胞膜所必需的物质；维生素A样物质能维持上皮组织如皮肤、角膜及结合膜的正常机能，参与视紫质的合成，增强视网膜感光性能，也参与体内许多氧化过程。
+    </nutrition>
+
+    <cuisine>
+        马齿苋作为一种野菜，中国老百姓食用已久，确实别具风味。夏秋季节，采拔茎叶茂盛、幼嫩多汁者，除去根部，洗后烫软，将汁轻轻挤出，拌人食盐、米醋、酱油、生姜、大蒜、麻油等佐料和调味品，做凉菜吃，味道鲜美，滑润可口。也可烙饼，做馅蒸食。我国许多地方的群众，至今还有将马齿苋洗净，烫过，切碎，晒干，贮为冬菜食用的习惯。
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201508/071026037924.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

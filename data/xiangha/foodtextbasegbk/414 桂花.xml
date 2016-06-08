@@ -1,0 +1,64 @@
+<content>
+
+    <id>
+        414
+    </id>
+
+    <foodname>
+        桂花
+    </foodname>
+
+    <firstcategory>
+        药食
+    </firstcategory>
+
+    <secondcategory>
+        药食
+    </secondcategory>
+
+    <alias>
+        木樨、月桂、金桂、岩桂、九里香、七里香
+    </alias>
+
+    <unsuit>
+        体质偏热，火热内盛者慎食。
+    </unsuit>
+
+    <suit>
+        一般人群均可食用。尤适宜口臭者、牙痛者、慢性支气管炎患者。
+    </suit>
+
+    <ingredient>
+
+    </ingredient>
+
+    <introduction>
+        木犀科木犀属植物桂花，以花、果实及根入药。秋季采花；冬季采果；四季采根，分别晒干。桂花是一种具有观赀陛和药用价值的花，以桂花做原料制作的桂
+    </introduction>
+
+    <effect>
+        1.花的功效
+        辛，温。散寒破结，化痰止咳。用于牙痛，咳喘痰多，经闭腹痛。
+        2.果的功效
+        辛、甘，温。暖胃，平肝，散寒。用于虚寒胃痛。
+        3.根的功效
+        甘、微涩，平。祛风湿，散寒。用于风湿筋骨疼痛，腰痛，肾虚牙痛。
+    </effect>
+
+    <nutrition>
+
+    </nutrition>
+
+    <cuisine>
+        桂花味香，持久，可制糕点、糖果，并可酿酒。
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201310/121604397769.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

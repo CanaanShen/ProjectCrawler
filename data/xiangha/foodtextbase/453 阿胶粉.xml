@@ -1,0 +1,58 @@
+<content>
+
+    <id>
+        453
+    </id>
+
+    <foodname>
+        阿胶粉
+    </foodname>
+
+    <firstcategory>
+        药食
+    </firstcategory>
+
+    <secondcategory>
+        药食
+    </secondcategory>
+
+    <alias>
+    </alias>
+
+    <unsuit>
+    </unsuit>
+
+    <suit>
+    </suit>
+
+    <ingredient>
+
+    </ingredient>
+
+    <introduction>
+        阿胶粉是以阿胶原液为原料，采用真空干燥技术成粉，入口喷香，入水易化，最适于加蜂蜜、牛奶、奶粉、红茶等伴侣做成各式各样的时尚养生茶饮。
+        阿胶因始产自东阿而得名。中国现存最早的药物学专著《神农本草经》将阿胶列为“上品”，明代李时珍著《本草纲目》载：“阿胶本经上品。弘景曰：出东阿，故名阿胶”。
+        正宗阿胶的制作，制胶用水非常讲究，所谓“桔生淮南则为桔，生于淮北则为枳”。清末曹炳章著《增订伪药条辨》载：“阿胶出山东东阿县，以纯驴皮、阿井水煎之，故名阿胶”，“其色光洁，味甘咸，气清香，此真阿胶也”。
+    </introduction>
+
+    <effect>
+        阿胶具有抗贫血作用，对骨髓造血系统的造血功能有促进和保护作用，降血压和扩张血管的作用，能提高免疫力，能促使钙的吸收，预防骨质疏松，有抗疲劳、耐缺氧、耐寒冷、抗辐射损伤、增强记忆作用等。
+    </effect>
+
+    <nutrition>
+        阿胶由胶原蛋白组成，其水解可得蛋白质、多肽及多种氨基酸。其蛋白类含量约为60%～80%（批次之间有差异），含有18种氨基酸(包括7种人体必需而又不能合成的氨基酸)
+    </nutrition>
+
+    <cuisine>
+        倒入80°C—90°C的热水，将阿胶粉倒入进热水内，自然溶解3—5分钟后，搅拌均匀即可。若先搅拌或用热水冲阿胶粉，因是纯阿胶极易成团，降低溶解度。
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201508/121850305691.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

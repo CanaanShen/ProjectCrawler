@@ -1,0 +1,89 @@
+<content>
+
+    <id>
+        339
+    </id>
+
+    <foodname>
+        百香果
+    </foodname>
+
+    <firstcategory>
+        果品类
+    </firstcategory>
+
+    <secondcategory>
+        水果
+    </secondcategory>
+
+    <alias>
+        受难果、巴西果、藤桃、西番莲、鸡蛋果
+    </alias>
+
+    <unsuit>
+    </unsuit>
+
+    <suit>
+    </suit>
+
+    <ingredient>
+        <element>
+            <elename>
+                热量（大卡）
+            </elename>
+            <elevalue>
+                97
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                蛋白质（克）
+            </elename>
+            <elevalue>
+                2.2
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                脂肪（克）
+            </elename>
+            <elevalue>
+                0.7
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                碳水化合物（克）
+            </elename>
+            <elevalue>
+                23.38
+            </elevalue>
+        </element>
+    </ingredient>
+
+    <introduction>
+        百香果又称西番莲，是西番莲科西番莲属植物，是一种热带藤本攀附果树，果实甜酸可口，风味浓郁，芳香怡人。目前已知西番莲果实含有超过132种以上的芳香物质，是世界上已知最芳香的水果之一，有“果汁之王”的美誉。全属有400余种，大都原产美洲热带地区，我国原产13种。它们喜光，喜温暖至高温湿润的气候，不耐寒。生长快，开花期长，开花量大，适宜于北纬24度以南的地区种植。
+    </introduction>
+
+    <effect>
+        1.食用：西番莲果实香气浓郁，甜酸可口，能生津止渴，提神醒脑，食用后能增进食欲，促进消化腺分泌，有助消化。
+        2.药用：为西番莲科植物西番莲的全草，夏、秋季地上部生长茂盛时采全草，晒干。味苦；性温。除风；除湿；活血；止痛。主感冒头痛；鼻塞流涕；风湿关节痛；痛经；神经痛；失眼；下痢；骨折。
+    </effect>
+
+    <nutrition>
+        西番莲果实含有多种维生素，能降低血脂，防治动脉硬化，降低血压。内含多达165种化合物，17种氨基酸和抗癌的有效成分，能防治细胞老化、癌变，有抗衰老，养容颜的功效。
+    </nutrition>
+
+    <cuisine>
+
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201508/101727188727.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

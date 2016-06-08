@@ -1,0 +1,58 @@
+<content>
+
+    <id>
+        10
+    </id>
+
+    <foodname>
+        猪耳朵
+    </foodname>
+
+    <firstcategory>
+        肉类
+    </firstcategory>
+
+    <secondcategory>
+        猪肉
+    </secondcategory>
+
+    <alias>
+        猪耳
+    </alias>
+
+    <unsuit>
+    </unsuit>
+
+    <suit>
+    </suit>
+
+    <ingredient>
+
+    </ingredient>
+
+    <introduction>
+
+    </introduction>
+
+    <effect>
+        补虚损、健脾胃、气血虚损、身体瘦弱。
+    </effect>
+
+    <nutrition>
+        猪耳含有蛋白质、脂肪、碳水化合物、维生素及钙、磷、铁等，具有补虚损、健脾胃的功效，适用于气血虚损、身体瘦弱者食用。
+        猪耳很有营养，并且口感非常好，尤其是当凉菜吃的“卤猪耳”，吃到嘴里是又柔韧又脆，味道鲜香不腻，且富含胶质。
+    </nutrition>
+
+    <cuisine>
+
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201310/081341115111.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

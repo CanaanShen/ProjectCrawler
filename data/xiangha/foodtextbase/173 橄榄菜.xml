@@ -1,0 +1,66 @@
+<content>
+
+    <id>
+        173
+    </id>
+
+    <foodname>
+        橄榄菜
+    </foodname>
+
+    <firstcategory>
+        蔬菜
+    </firstcategory>
+
+    <secondcategory>
+        茎叶花类
+    </secondcategory>
+
+    <alias>
+    </alias>
+
+    <unsuit>
+    </unsuit>
+
+    <suit>
+    </suit>
+
+    <ingredient>
+        <element>
+            <elename>
+                热量（大卡）
+            </elename>
+            <elevalue>
+                320
+            </elevalue>
+        </element>
+    </ingredient>
+
+    <introduction>
+        橄榄菜是潮汕地区所特有的风味小菜，取橄榄甘醇之味，芥菜丰腴之叶煎制而成。
+        橄榄菜制作工艺可追溯至宋明时代，经加工制作后具“清、鲜、爽、嫩、滑”等特点，可说是名闻遐迩的潮州菜系中的一朵奇葩。橄榄菜素色泽乌艳，油香浓郁，美味诱人而成为潮汕人日常居家的小菜美食
+        熬制橄榄菜的方法：将橄榄压破，浸去涩汁或煮熟后才浸在水里两天，让涩汁沥干后，在锅里用油和盐反复翻炒，中间再加进咸菜叶（要老咸菜叶较好），用慢火熬几个小时，便成为黑得像墨的乌橄榄菜。冷却后装进坛中。这种菜的油要下得多，很帮助消化，很开胃，只取一些放在碟子中佐餐，坛里的水不能混上生水，才不发霉，可以保存几个月。
+    </introduction>
+
+    <effect>
+        橄榄味甘、酸，性平。能清肺利咽，生津，解毒。用于咽喉肿痛；心烦口渴，或饮酒过度；食河豚、鱼、鳖引起的轻微中毒或肠胃不适。此外，亦有用于癫痫的。
+    </effect>
+
+    <nutrition>
+        富含橄榄油珍贵营养成份和多种维生素及人体必需的钙、碘，还含有铁、锌、镁等多种微量元素。
+        营养学家认为，橄榄既是蔬菜也是水果，营养价值很高。橄榄含有67%的水分、23%的油脂、5%的蛋白质和1%的钙、铁、磷等矿物质，同时还含有维生素A、维生素D、维生素K和维生素E等多种维生素。榄榄油中所含的维生素E是血管保护剂，可降低胆固醇和甘油三酯。
+    </nutrition>
+
+    <cuisine>
+
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201508/051947163648.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

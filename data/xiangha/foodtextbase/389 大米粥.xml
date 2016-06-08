@@ -1,0 +1,57 @@
+<content>
+
+    <id>
+        389
+    </id>
+
+    <foodname>
+        大米粥
+    </foodname>
+
+    <firstcategory>
+        五谷杂粮
+    </firstcategory>
+
+    <secondcategory>
+        米面制品
+    </secondcategory>
+
+    <alias>
+    </alias>
+
+    <unsuit>
+    </unsuit>
+
+    <suit>
+    </suit>
+
+    <ingredient>
+
+    </ingredient>
+
+    <introduction>
+        大米粥是中国经常食用的家常饭，特别是早餐。大米性味甘平，有和胃气、补脾虚、壮筋骨、和五脏的功效。
+    </introduction>
+
+    <effect>
+        大米性味甘平,有和胃气、补脾虚、壮筋骨、和五脏的功效。
+    </effect>
+
+    <nutrition>
+        大米是中国人的主食之一，由稻子的子实脱壳而成。稻米中氨基酸的组成比较全，蛋白质主要是米精蛋白，易于消化吸收，无论是家庭用餐还是去餐馆，米饭都是必不可少的。
+        大米可提供丰富B族维生素；大米具有补中益气、健脾养胃、益精强志、和五脏、通血脉、聪耳明目、止烦、止渴、止泻的功效；米粥具有补脾、和胃、清肺功效。
+    </nutrition>
+
+    <cuisine>
+
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201508/121843165840.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

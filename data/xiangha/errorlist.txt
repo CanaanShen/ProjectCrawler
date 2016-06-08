@@ -1,0 +1,16 @@
+398 Þ²Ã×   'gbk' codec can't encode character '\u200b' in position 39: illegal multibyte sequence
+534 ¶¹½¬   'gbk' codec can't encode character '\ue004' in position 321: illegal multibyte sequence
+346 ³È   'gbk' codec can't encode character '\ue5e4' in position 777: illegal multibyte sequence
+109 Ïº   'gbk' codec can't encode character '\u223c' in position 167: illegal multibyte sequence
+116 Ð¡ÁúÏº   'gbk' codec can't encode character '\u200b' in position 427: illegal multibyte sequence
+37 ÎÚ¼¦  error reason:  'NoneType' object has no attribute 'findAll'
+37 ÎÚ¼¦
+430 ÜÍÊµ  error reason:  'NoneType' object has no attribute 'findAll'
+430 ÜÍÊµ
+497 ½©²Ï   'gbk' codec can't encode character '\u359e' in position 165: illegal multibyte sequence
+87 öÑÓã   'gbk' codec can't encode character '\u4ca0' in position 26: illegal multibyte sequence
+71 ÀðÓã   'gbk' codec can't encode character '\u223c' in position 349: illegal multibyte sequence
+Program ends
+
+
+Þ²Ã×

@@ -1,0 +1,167 @@
+<content>
+
+    <id>
+        504
+    </id>
+
+    <foodname>
+        白糖
+    </foodname>
+
+    <firstcategory>
+        调味品
+    </firstcategory>
+
+    <secondcategory>
+        调味料
+    </secondcategory>
+
+    <alias>
+        糖、砂糖、石蜜、白霜糖、白砂糖
+    </alias>
+
+    <unsuit>
+        糖尿病、高血压、肾病、肥胖症患者忌食。
+    </unsuit>
+
+    <suit>
+        一般人群均可食用。尤适宜低血糖患者、孕妇。
+    </suit>
+
+    <ingredient>
+        <element>
+            <elename>
+                热量（大卡）
+            </elename>
+            <elevalue>
+                392
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                蛋白质（克）
+            </elename>
+            <elevalue>
+                0.1
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                碳水化合物（克）
+            </elename>
+            <elevalue>
+                99.9
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                钙（毫克）
+            </elename>
+            <elevalue>
+                6
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                磷（毫克）
+            </elename>
+            <elevalue>
+                3
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                钾（毫克）
+            </elename>
+            <elevalue>
+                131
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                钠（毫克）
+            </elename>
+            <elevalue>
+                1.4
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                镁（毫克）
+            </elename>
+            <elevalue>
+                2
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                铁（毫克）
+            </elename>
+            <elevalue>
+                0.2
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                锌（毫克）
+            </elename>
+            <elevalue>
+                0.03
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                硒（微克）
+            </elename>
+            <elevalue>
+                0.38
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                铜（毫克）
+            </elename>
+            <elevalue>
+                0.02
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                锰（毫克）
+            </elename>
+            <elevalue>
+                0.09
+            </elevalue>
+        </element>
+    </ingredient>
+
+    <introduction>
+        白砂糖，是从甘蔗或甜菜中提取糖汁，经过滤、沉淀、蒸发、结晶、脱色和干燥等工艺而制成。为白色粒状晶体，纯度高，蔗糖含量在99%以上，按其晶粒大小又分粗砂、中砂和细砂。糖是重要的调味品，能增加菜肴的甜味及鲜味，增添制品的色泽，为制作菜肴特别是甜菜品种的主要调味原料。广东、福建、台湾等省和东北地区是我国主要产糖区。
+        糖是用甘蔗或甜菜等植物加工而成的一种调味品，其主要成分是蔗糖。白砂糖是食糖中质量最好的一种。其颗粒为结晶状，均匀，颜色洁白，甜味纯正，甜度稍低于红糖。烹调中常用。绵白糖为粉末状，适合于烹调之用，甜度与白砂糖差不多。绵白糖有精制绵白糖和土法制的绵白糖两种。前者色泽洁白，晶粒细软，质量较好；后者色泽微黄稍暗，质量较差。白砂糖和绵白糖只是结晶体大小不同，白砂糖的结晶颗粒大，含水分很少，而绵白糖的结晶颗粒小，含水分较多。
+    </introduction>
+
+    <effect>
+        白砂糖味甘、性平，归脾、肺经。有润肺生津、止咳、和中益肺、舒缓肝气、滋阴、调味、除口臭、疗疮去酒毒、解盐卤毒之功效。
+        适当食用白糖可提高人体对钙的吸收，提供机体能量，维持心脏和神经系统正常功能，保肝解毒。现代医学研究发现，白糖还能改变伤口愈合的速度，可促进组织细胞的的生长。
+    </effect>
+
+    <nutrition>
+        白糖的蔗糖糖分含量一般在95%以上，纯度较高。
+    </nutrition>
+
+    <cuisine>
+        1.炒菜时不小心把盐放多了，加入适量白糖，就可解咸。
+        2.糖很容易生螨，存放日久的糖不要生吃。
+        3.婴幼儿和老人吃食物时，不要蘸着生白糖吃。正确的吃法是先高温加热3~5分钟后再进食。
+        4.如果是制作海绵蛋糕或戚风蛋糕最好用白砂糖，以颗粒细密为佳，因为颗粒大的糖往往由于糖的使用量较高或搅拌时间短而不能溶解，如蛋糕成品内仍有白糖的颗粒存在，则会导致蛋糕的品质下降，在条件允许时，最好使用细砂糖。
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201306/151356010.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

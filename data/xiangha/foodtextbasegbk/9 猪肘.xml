@@ -1,0 +1,61 @@
+<content>
+
+    <id>
+        9
+    </id>
+
+    <foodname>
+        猪肘
+    </foodname>
+
+    <firstcategory>
+        肉类
+    </firstcategory>
+
+    <secondcategory>
+        猪肉
+    </secondcategory>
+
+    <alias>
+        蹄膀
+    </alias>
+
+    <unsuit>
+        湿热痰滞内蕴者、肥胖、血脂较高者慎食。
+    </unsuit>
+
+    <suit>
+        一般人都可食用。
+    </suit>
+
+    <ingredient>
+
+    </ingredient>
+
+    <introduction>
+        
+    </introduction>
+
+    <effect>
+        猪肘味甘咸、性平；有和血脉、润肌肤、填肾精、健腰脚的作用。
+    </effect>
+
+    <nutrition>
+        1.猪肉为人类提供优质蛋白质和必需的脂肪酸。猪肉可提供血红素（有机铁）和促进铁吸收的半胱氨酸，能改善缺铁性贫血。
+        2.猪蹄膀营养很丰富，含较多的蛋白质，特别是含有大量的胶原蛋白质，和肉皮一样，是使皮肤丰满、润泽，强体增肥的食疗佳品。
+    </nutrition>
+
+    <cuisine>
+        适宜凉拌、烧、制汤、炖、卤、煨等。
+        修割猪肘时皮面要留长一点，猪肘的皮面含有丰富的胶质，加热后收缩性较大，而肌肉组织的收缩性则较小，如果皮面与肌肉并齐或是皮面小于肌肉,加热后皮面会收缩变小而脱落,致使肌肉裸露而散碎.因此皮面要适当地留长一点，加热后皮面收缩，恰好包裹住肌肉又不至于脱落，菜肴形体整齐美观。
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201310/081340478958.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

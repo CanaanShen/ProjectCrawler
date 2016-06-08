@@ -1,0 +1,65 @@
+<content>
+
+    <id>
+        550
+    </id>
+
+    <foodname>
+        大麦茶
+    </foodname>
+
+    <firstcategory>
+        休闲食品
+    </firstcategory>
+
+    <secondcategory>
+        饮品
+    </secondcategory>
+
+    <alias>
+    </alias>
+
+    <unsuit>
+    </unsuit>
+
+    <suit>
+        一般人群均可食用。尤适宜胃气虚弱、消化不良者。
+    </suit>
+
+    <ingredient>
+
+    </ingredient>
+
+    <introduction>
+        大麦茶是中国、日本、韩国等民间广泛流传的一种传统清凉饮料，把大麦炒制成焦黄，食用前，只需要用热水冲泡2～3分钟就可浸出浓郁的香茶。
+    </introduction>
+
+    <effect>
+        大麦甘咸，凉。入脾、胃经。和胃，宽肠，利水。治食滞泄泻，小便淋痛，水肿，汤火伤。
+        1.治食滞
+        饮食过度，胸闷腹胀，炒黑研磨服，有化炎消胀，调中止泻之功。
+        2.益气健胃
+        小儿食积，面黄肌瘦，老弱之人，食少乏力，用大麦加糖服，益气健胃。
+        3.平胃气
+        消化道溃疡，以大麦为主食，可平胃气，止隐痛。
+        4.清暑生津
+        暑热烦渴，用大麦煎水茶，清暑生津，除烦解渴。
+    </effect>
+
+    <nutrition>
+
+    </nutrition>
+
+    <cuisine>
+
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201312/111402484119.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

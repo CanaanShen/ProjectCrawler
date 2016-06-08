@@ -1,0 +1,57 @@
+<content>
+
+    <id>
+        510
+    </id>
+
+    <foodname>
+        辣根
+    </foodname>
+
+    <firstcategory>
+        调味品
+    </firstcategory>
+
+    <secondcategory>
+        调味料
+    </secondcategory>
+
+    <alias>
+        山葵萝卜、马萝卜、西洋山葵菜、西洋葵菜
+    </alias>
+
+    <unsuit>
+    </unsuit>
+
+    <suit>
+    </suit>
+
+    <ingredient>
+
+    </ingredient>
+
+    <introduction>
+        
+    </introduction>
+
+    <effect>
+        味辛；性温。归胃；胆；膀胱经。治消化不良；小便不利；胆囊炎；关节炎。
+    </effect>
+
+    <nutrition>
+
+    </nutrition>
+
+    <cuisine>
+        作调味品或食用。
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201209/1413172.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

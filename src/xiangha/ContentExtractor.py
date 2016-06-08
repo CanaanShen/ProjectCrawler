@@ -1,3 +1,5 @@
+# -*- coding:utf-8 -*-  
+
 '''
 
 @author: Yueshen
@@ -32,11 +34,11 @@ def extractContent(inRootDir, outRootDir):
                     continue
                 num = numName[0]
                 name = numName[1]
-                
+                                
                 outXMLFilePath = os.path.join(outRootDir, htmlFile + ".xml")
 #                 if  os.path.exists(outXMLFilePath):
 #                     continue
-                fileHandler = open(outXMLFilePath, "w")
+                fileHandler = codecs.open(outXMLFilePath, "w", "utf-8")
 
                 fileHandler.write("<content>\n\n")
                     
@@ -44,9 +46,9 @@ def extractContent(inRootDir, outRootDir):
                 fileHandler.write(secondIndent + str(num) + "\n")
                 fileHandler.write(firstIndent + "</id>\n\n")
                     
-                fileHandler.write(firstIndent + "<name>\n")
+                fileHandler.write(firstIndent + "<foodname>\n")
                 fileHandler.write(secondIndent + str(name) + "\n")
-                fileHandler.write(firstIndent + "</name>\n\n")
+                fileHandler.write(firstIndent + "</foodname>\n\n")
                 
                 fileHandler.write(firstIndent + "<firstcategory>\n")
                 fileHandler.write(secondIndent + folder + "\n")
@@ -68,9 +70,9 @@ def extractContent(inRootDir, outRootDir):
                         fileHandler.write("\n")
                         fileHandler.write(firstIndent + "</alias>\n\n")
 
-                        fileHandler.write(firstIndent + "<taboo>\n")
+                        fileHandler.write(firstIndent + "<unsuit>\n")
                         fileHandler.write("\n")
-                        fileHandler.write(firstIndent + "</taboo>\n\n")
+                        fileHandler.write(firstIndent + "</unsuit>\n\n")
 
                         fileHandler.write(firstIndent + "<suit>\n")
                         fileHandler.write("\n")
@@ -90,7 +92,7 @@ def extractContent(inRootDir, outRootDir):
                         #for
                         fileHandler.write(firstIndent + "</alias>\n\n")
                         
-                        fileHandler.write(firstIndent + "<taboo>\n")
+                        fileHandler.write(firstIndent + "<unsuit>\n")
                         for pTag in pList:
                             pText = pTag.text
                             if "禁忌人群：" in pText:
@@ -99,7 +101,7 @@ def extractContent(inRootDir, outRootDir):
                                 break
                             #if
                         #for
-                        fileHandler.write(firstIndent + "</taboo>\n\n")
+                        fileHandler.write(firstIndent + "</unsuit>\n\n")
                         
                         fileHandler.write(firstIndent + "<suit>\n")
                         for pTag in pList:
@@ -129,15 +131,15 @@ def extractContent(inRootDir, outRootDir):
                                 fileHandler.write(secondIndent + "<element>\n")
                                 spanTag = liTag.find('span')
                                 name = spanTag.text
-                                fileHandler.write(thirdIndent + "<name>\n")
+                                fileHandler.write(thirdIndent + "<elename>\n")
                                 fileHandler.write(fourthIndent + name + "\n")
-                                fileHandler.write(thirdIndent + "</name>\n")
+                                fileHandler.write(thirdIndent + "</elename>\n")
                                 
                                 emTag = liTag.find('em')
                                 value = emTag.text
-                                fileHandler.write(thirdIndent + "<value>\n")
+                                fileHandler.write(thirdIndent + "<elevalue>\n")
                                 fileHandler.write(fourthIndent + value + "\n")
-                                fileHandler.write(thirdIndent + "</value>\n")
+                                fileHandler.write(thirdIndent + "</elevalue>\n")
                                 
                                 fileHandler.write(secondIndent + "</element>\n")
                             #for
@@ -171,7 +173,6 @@ def extractContent(inRootDir, outRootDir):
                     except Exception as e:
                         print(htmlFile, " ", e)
                         fileHandler.write("\n")
-                        fileHandler.write(firstIndent + "</introduction>\n\n")
                     
                     fileHandler.write(firstIndent + "</introduction>\n\n")
          
@@ -195,11 +196,10 @@ def extractContent(inRootDir, outRootDir):
                     except Exception as e:
                         print(htmlFile, " ", e)
                         fileHandler.write("\n")
-                        fileHandler.write(firstIndent + "</effect>\n\n")
                     
                     fileHandler.write(firstIndent + "</effect>\n\n")
                     
-                    fileHandler.write(firstIndent + "<nutritive>\n")
+                    fileHandler.write(firstIndent + "<nutrition>\n")
                     try:
                         mark = 0
                         for i in range(0, h2Size):
@@ -219,9 +219,8 @@ def extractContent(inRootDir, outRootDir):
                     except Exception as e:
                         print(htmlFile, " ", e)
                         fileHandler.write("\n")
-                        fileHandler.write(firstIndent + "</nutritive>\n\n")
                     
-                    fileHandler.write(firstIndent + "</nutritive>\n\n")
+                    fileHandler.write(firstIndent + "</nutrition>\n\n")
                     
                     fileHandler.write(firstIndent + "<cuisine>\n")
                     try:
@@ -244,7 +243,6 @@ def extractContent(inRootDir, outRootDir):
                     except Exception as e:
                         print(htmlFile, " ", e)
                         fileHandler.write("\n")
-                        fileHandler.write(firstIndent + "</cuisine>\n\n")
                     
                     fileHandler.write(firstIndent + "</cuisine>\n\n")
 

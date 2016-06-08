@@ -1,0 +1,148 @@
+<content>
+
+    <id>
+        337
+    </id>
+
+    <foodname>
+        桔子
+    </foodname>
+
+    <firstcategory>
+        果品类
+    </firstcategory>
+
+    <secondcategory>
+        水果
+    </secondcategory>
+
+    <alias>
+        橘子
+    </alias>
+
+    <unsuit>
+        多食易“上火”，从而促发口腔炎，牙周炎等症；肠胃功能欠佳者多吃易发生胃粪石的困扰；风寒咳嗽、痰饮咳嗽者不宜食用。
+    </unsuit>
+
+    <suit>
+        一般人群均可食用。
+    </suit>
+
+    <ingredient>
+        <element>
+            <elename>
+                热量（大卡）
+            </elename>
+            <elevalue>
+                43
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                脂肪（克）
+            </elename>
+            <elevalue>
+                10.2
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                碳水化合物（克）
+            </elename>
+            <elevalue>
+                10.2
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                维生素A（微克）
+            </elename>
+            <elevalue>
+                82
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                胡萝卜素（微克）
+            </elename>
+            <elevalue>
+                490
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                维生素C（毫克）
+            </elename>
+            <elevalue>
+                35
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                钙（毫克）
+            </elename>
+            <elevalue>
+                24
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                磷（毫克）
+            </elename>
+            <elevalue>
+                18
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                钾（毫克）
+            </elename>
+            <elevalue>
+                128
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                镁（毫克）
+            </elename>
+            <elevalue>
+                14
+            </elevalue>
+        </element>
+    </ingredient>
+
+    <introduction>
+        桔子为芸香科植物福橘或朱橘等多种橘类的成熟果实。桔子常与柑子一起被统称为柑橘，颜色鲜艳，酸甜可口，是日常生活中最常见的水果之一。
+        桔子有特殊的构造，外果皮相当坚硬，生时绿色，成熟时有黄、橙、红等色；中果皮乳白或浅黄色；果肉皮成薄膜状，分成八～十数室，每室皆含有多量汁液，为可食用部分。桔子常被称为懒人水果，其不必洗、不需削皮的特性，吃来确实方便，加上外皮金黄色泽，一直是华人眼中讨喜的水果。桔子是柑桔类的代表之一，维他命C含量当然不在话下，只要吃三个橘子，就可以满足一天人体所需的维他命C。桔子的果实内皮纤维很多，可以防止便秘；它的营养成分很高，其含有苹果酸、柠檬酸等多种有机酸，对于身体的新陈代谢、增强心肺功能都有帮助。
+    </introduction>
+
+    <effect>
+        桔子堪称是水果之中的宝贝，因为它的全身都是“宝”。
+        1.桔皮：桔子的外果皮晒干后叫“陈皮”(因入药以陈的药效好，故名陈皮)，具有理气燥湿、化痰止咳、健脾和胃的功效，常用于防治胸胁胀痛、疝气、乳胀、乳房结块、胃痛、食积等症。
+        2.桔络：即桔瓤上面的白色网状丝络，有通络化痰、顺气活血之功效，常用于治疗痰滞咳嗽等症。因为桔络含有丰富的维生素P，所以能有效防治高血压，老年人多食，有益健康。
+        3.桔核：性味苦、无毒，有理气止痛的作用，临床常用来治疗睾丸肿痛、乳腺炎性肿痛等症。
+        4.桔叶：具有疏肝理气、消肿散毒之功效，为治胁痛、乳痛的要药。
+        5.桔红：桔皮刮掉白色的内层，单留表皮称为“桔红”，具有理肺气、祛痰等功效，临床多用于治疗咳嗽、呃逆等症。
+        5.桔子的果肉：味甘酸、性凉，入肺、胃经；具有开胃理气，止渴润肺的功效；治胸隔结气、呕逆少食、胃阴不足、口中干渴、肺热咳嗽及饮酒过度。
+    </effect>
+
+    <nutrition>
+        1.橘子富含维生素C与柠檬酸，前者具有美容作用，后者则具有消除疲劳的作用；
+        2.橘子内侧薄皮含有膳食纤维及果胶，可以促进通便，并且可以降低胆固醇；
+        3.橘皮苷可以加强毛细血管的韧性，降血压，扩张心脏的冠状动脉，故橘子是预防冠心病和动脉硬化的食品，研究证实，食用柑橘可以降低沉积在动脉血管中的胆固醇，有助于使动脉粥样硬化发生逆转；
+        4.在鲜柑橘汁中，有一种抗癌活性很强的物质“诺米灵”，它能使致癌化学物质分解，抑制和阻断癌细胞的生长，能使人体内除毒酶的活性成倍提高，阻止致癌物对细胞核的损伤，保护基因的完好。
+    </nutrition>
+
+    <cuisine>
+        桔子的吃法也有讲究，以烤着吃最好。具体方法是：将桔子（1～2个）洗净后放在40℃～50℃的开水中浸泡1分钟，然后用布擦干放在铁网上，用中火烧烤至微焦为止。这样，桔皮中的成分可以渗透到桔子里面去，且这样处理以后，桔皮也可一起吃下去。每天早、午、晚各食用这样的桔子1个，对动脉硬化、高血压、咳嗽、哮喘、食欲不振、消化不良、胃炎、胃酸过多、便秘等病有一定疗效，并具有护肤美容的作用。
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201508/101724411768.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

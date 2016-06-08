@@ -1,0 +1,57 @@
+<content>
+
+    <id>
+        416
+    </id>
+
+    <foodname>
+        穿心莲
+    </foodname>
+
+    <firstcategory>
+        药食
+    </firstcategory>
+
+    <secondcategory>
+        药食
+    </secondcategory>
+
+    <alias>
+        一见喜、斩蛇剑、苦草、榄核莲
+    </alias>
+
+    <unsuit>
+    </unsuit>
+
+    <suit>
+    </suit>
+
+    <ingredient>
+
+    </ingredient>
+
+    <introduction>
+        爵床科植物穿心莲（圆锥须药草）的干燥地上部分。秋初茎叶茂盛时采割，晒干。在中医药的五行学说中认为苦入心，而穿心莲只要你含入一小片它的叶子，马上可以感受到，那种刻骨铭心的苦，像是直入你的心中，故名穿心莲。生于湿热的平原、丘陵地区。主产广东、福建。现长江南北暖地区均引种栽培，热带、亚热带部分地区有野生。
+    </introduction>
+
+    <effect>
+        味苦，性寒。归心、肺、大肠、膀胱经。清热解毒，凉血，消肿。用于感冒发热，咽喉肿痛，口舌生疮，顿咳劳嗽，泄泻痢疾，热淋涩痛，痈肿疮疡，毒蛇咬伤。
+    </effect>
+
+    <nutrition>
+
+    </nutrition>
+
+    <cuisine>
+
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201209/1922147.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

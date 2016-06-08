@@ -28,13 +28,13 @@ class XiangHaCrawler:
         
         opener.addheaders = header
         content = opener.open(rootURL).read()
-        print(content)
+        print(content.decode('utf-8'))
     #def
 #class
 
 if __name__ == '__main__':
     
-    rootURL = r"http://s1.cdn.xiangha.com/shicai/201411/171926236560.jpg/MTUweDE1MA"
+    rootURL = r"http://www.xiangha.com/shicai/%E8%8A%A1%E5%AE%9E%E7%B1%B3"
     outRootDir = r"../../data"
     
     if not os.path.exists(outRootDir):

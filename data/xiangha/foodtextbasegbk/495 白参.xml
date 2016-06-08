@@ -1,0 +1,59 @@
+<content>
+
+    <id>
+        495
+    </id>
+
+    <foodname>
+        白参
+    </foodname>
+
+    <firstcategory>
+        药食
+    </firstcategory>
+
+    <secondcategory>
+        药食
+    </secondcategory>
+
+    <alias>
+    </alias>
+
+    <unsuit>
+    </unsuit>
+
+    <suit>
+    </suit>
+
+    <ingredient>
+
+    </ingredient>
+
+    <introduction>
+        为人参经特殊加工而成的一种中药，区别于红参。指人参加工的产品中，除红参以外的各种加工，如生晒参、白糖参、白干参等，一般统称为白参。
+    </introduction>
+
+    <effect>
+        1.大补元气：适于元气虚脱。
+        2.补脾益肺：可治脾，肺气虚。
+        3.生津止渴：用于津伤口渴，消渴。
+        4.安神增智：主治气血不足引起的心神不安，失眠健忘，常配养心安神药。
+    </effect>
+
+    <nutrition>
+
+    </nutrition>
+
+    <cuisine>
+
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201601/15184635139.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

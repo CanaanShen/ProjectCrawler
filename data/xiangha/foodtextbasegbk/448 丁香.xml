@@ -1,0 +1,185 @@
+<content>
+
+    <id>
+        448
+    </id>
+
+    <foodname>
+        丁香
+    </foodname>
+
+    <firstcategory>
+        药食
+    </firstcategory>
+
+    <secondcategory>
+        药食
+    </secondcategory>
+
+    <alias>
+        公子香、子丁香、支解香、瘦香娇、雄丁香、如宇香、索瞿香、百里馨
+    </alias>
+
+    <unsuit>
+        胃热引起的呃逆或兼有口渴口苦口干者不宜食用；热性病及阴虚内热者忌食。
+    </unsuit>
+
+    <suit>
+        寒性胃痛、反胃呃逆、呕吐者宜食；口臭者宜食。
+    </suit>
+
+    <ingredient>
+        <element>
+            <elename>
+                热量（大卡）
+            </elename>
+            <elevalue>
+                359
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                蛋白质（克）
+            </elename>
+            <elevalue>
+                0.3
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                脂肪（克）
+            </elename>
+            <elevalue>
+                17.2
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                碳水化合物（克）
+            </elename>
+            <elevalue>
+                67.4
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                膳食纤维（克）
+            </elename>
+            <elevalue>
+                16.7
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                维生素B2（毫克）
+            </elename>
+            <elevalue>
+                0.07
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                维生素E（毫克）
+            </elename>
+            <elevalue>
+                4.27
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                钙（毫克）
+            </elename>
+            <elevalue>
+                137
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                磷（毫克）
+            </elename>
+            <elevalue>
+                10
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                钾（毫克）
+            </elename>
+            <elevalue>
+                47
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                钠（毫克）
+            </elename>
+            <elevalue>
+                122.1
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                铁（毫克）
+            </elename>
+            <elevalue>
+                0.2
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                锌（毫克）
+            </elename>
+            <elevalue>
+                1.01
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                硒（微克）
+            </elename>
+            <elevalue>
+                12.6
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                铜（毫克）
+            </elename>
+            <elevalue>
+                0.76
+            </elevalue>
+        </element>
+    </ingredient>
+
+    <introduction>
+        丁香为桃金娘科植物丁香的花蕾（药用丁香和观赏用的丁香花是两个截然不同的植物），以花蕾和其果实入药。花蕾称公丁香或雄丁香，果实称母丁香或雌丁香。在花蕾开始呈白色，渐次变绿色，最后呈鲜红色时可采集。将采得的花蕾除去花梗晒干即成。
+        丁香，木犀科丁香属落叶灌木或小乔木。因花筒细长如钉且香故名。著名的庭园花木。花序硕大、开花繁茂，花色淡雅、芳香，习性强健，栽培简易，因而在园林中广泛栽培应用。花两性，呈顶生或侧生的圆锥花序。花色紫、淡紫或蓝紫，也有白色紫红及蓝紫色，以白色和紫色为居多。
+        丁香分布马来群岛及非洲，我国广东、广西等地有栽培。药材主产于坦桑尼亚、马来西亚、印度尼西亚等地。我国广东有少数出产。通常在9月至次年3月间，花蕾由青转为鲜红色时采收，晒干。
+    </introduction>
+
+    <effect>
+        温中、暖肾、降逆。治呃逆、呕吐、反胃、痢疾、心腹冷痛、痃癖、疝气、癣症。
+        治疗牙痛、支气管炎，神经痛、胃酸，抗呼吸系统及泌尿系统感染，减轻痢疾所造成之不适与疼痛，改善衰弱体质与贫血，催情（性无能、冷感），驱虫。促进血液循环，治疗皮肤溃疡及伤口发炎，治疗疥癣，改善粗糙肌肤。
+    </effect>
+
+    <nutrition>
+        丁香花蕾含挥发油即丁香油。
+    </nutrition>
+
+    <cuisine>
+        1.丁香主要用于肉类、糕点、腌制食品、炒货、蜜饯、饮料的制作配制调味品。
+        2.胃寒呃逆，脉迟者，可与柿蒂、人参、生姜配伍。
+        3.久患心腹冷痛者，可与肉桂、干姜等相伍。
+        4.肾阳虚衰，阳痿遗精，阴冷不孕，腰膝冷痛者，可与肉桂、附子、鹿角胶等相配。
+        5.少腹寒疝腹痛者可与川楝子、附子、小茴香等相合。
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201210/14214252.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

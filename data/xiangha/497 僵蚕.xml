@@ -1,0 +1,58 @@
+<content>
+
+    <id>
+        497
+    </id>
+
+    <foodname>
+        僵蚕
+    </foodname>
+
+    <firstcategory>
+        药食
+    </firstcategory>
+
+    <secondcategory>
+        药食
+    </secondcategory>
+
+    <alias>
+        白僵蚕、僵虫、天虫
+    </alias>
+
+    <unsuit>
+        阴虚火旺者禁服。
+    </unsuit>
+
+    <suit>
+    </suit>
+
+    <ingredient>
+
+    </ingredient>
+
+    <introduction>
+		僵蚕，中药名。为蚕蛾科昆虫家蚕4～5龄的幼虫感染（或人工接种）白僵菌而致死的干燥体。分布于江苏、浙江、四川、广东等地。具有息风止痉，祛风止痛，化痰散结之功效。常用于肝风夹痰，惊痫抽搐，小儿急惊，破伤风，中风口，风热头痛，目赤咽痛，风疹瘙痒，发颐痄腮。
+    </introduction>
+
+    <effect>
+        息风止痉，祛风止痛，化痰散结。
+    </effect>
+
+    <nutrition>
+
+    </nutrition>
+
+    <cuisine>
+
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201601/151852389316.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

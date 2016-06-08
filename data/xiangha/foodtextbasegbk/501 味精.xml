@@ -1,0 +1,204 @@
+<content>
+
+    <id>
+        501
+    </id>
+
+    <foodname>
+        味精
+    </foodname>
+
+    <firstcategory>
+        调味品
+    </firstcategory>
+
+    <secondcategory>
+        调味料
+    </secondcategory>
+
+    <alias>
+        味素、味之素
+    </alias>
+
+    <unsuit>
+        高血压患者不易多食。
+    </unsuit>
+
+    <suit>
+        一般人群均可食用。
+    </suit>
+
+    <ingredient>
+        <element>
+            <elename>
+                热量（大卡）
+            </elename>
+            <elevalue>
+                268
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                蛋白质（克）
+            </elename>
+            <elevalue>
+                40.1
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                脂肪（克）
+            </elename>
+            <elevalue>
+                0.2
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                碳水化合物（克）
+            </elename>
+            <elevalue>
+                26.5
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                维生素B1（毫克）
+            </elename>
+            <elevalue>
+                0.08
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                烟酸（毫克）
+            </elename>
+            <elevalue>
+                0.3
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                维生素C（毫克）
+            </elename>
+            <elevalue>
+                26.5
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                钙（毫克）
+            </elename>
+            <elevalue>
+                100
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                磷（毫克）
+            </elename>
+            <elevalue>
+                4
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                钾（毫克）
+            </elename>
+            <elevalue>
+                4
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                钠（毫克）
+            </elename>
+            <elevalue>
+                8160
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                镁（毫克）
+            </elename>
+            <elevalue>
+                7
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                铁（毫克）
+            </elename>
+            <elevalue>
+                1.2
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                锌（毫克）
+            </elename>
+            <elevalue>
+                0.31
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                硒（微克）
+            </elename>
+            <elevalue>
+                0.98
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                铜（毫克）
+            </elename>
+            <elevalue>
+                0.12
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                锰（毫克）
+            </elename>
+            <elevalue>
+                0.67
+            </elevalue>
+        </element>
+    </ingredient>
+
+    <introduction>
+        味精又称味素，是调味料的一种，主要成分为谷氨酸钠。味精的主要作用是增加食品的鲜味，在中国菜里用的最多，也可用于汤和调味汁。
+    </introduction>
+
+    <effect>
+        1.增加食物的鲜味
+        味精对人体没有直接的营养价值，但它能增加食品的鲜味，引起人们食欲，有助于提高人体对食物的消化率。
+        2.缓解神经衰弱
+        味精中的主要成分谷氨酸钠还具有治疗慢性肝炎、肝昏迷、神经衰弱、癫痫病、胃酸缺乏等病的作用。
+    </effect>
+
+    <nutrition>
+        味精的主要成分是谷氨酸钠，谷氨酸是脑组织氧化代谢的氨基酸之一，对改进和维持丘脑的机能是十分重要的。正常人每日摄钠1-2克便可满足生理的需要（联合国推荐每人每天摄入食盐为8克以下，食盐主要成分为氯化钠），如过食则可造成体内水钠潴留，导致血管管腔变细，血管阻力加大，血容量增多，加重心、肾负担，致使血压升高。另外，味精中还含有少量氯化钠。
+    </nutrition>
+
+    <cuisine>
+        要注意的是如果在100℃以上的高温中使用味精，鲜味剂谷氨酸钠会转变为对人体有致癌性的焦谷氨酸钠。由于炒菜时油温一般在150℃－200℃，这会使味精变成有毒性的焦化谷氨酸钠，所以，对于加入味精的“半成品”配菜的烹饪，应以蒸、煮为妥。 还有如果在碱性环境中，味精会起化学反应产生一种叫谷氨酸二钠的物质。所以要适当地使用和存放。
+        摄取过量可能导致胃癌和内其它人类内脏疾病。
+        1.不要在滚烫的锅中加入，而要在菜肴快出锅时加入。因为谷氨酸钠在温度高于120℃时，会变为焦点谷氨酸钠，食后对人体有害，且难以排出体外。
+        2.不宜在酸性食物中添加味精，如糖醋鱼、糖醋里脊等。味精呈碱性，在酸性食物中添加会引起化学反应，使菜肴走味。
+        3.在含有碱性的原料中不宜使用味精，味精遇碱会化合成谷氨酸二钠，会产生氨水臭味, 使鲜味降低，甚至失去其鲜味。
+        4.注意咸淡程度。如果太咸，味精就可能吃不出鲜味，食盐与味精的比例在3：1或4：1范围内，即可达到圆润柔和的口味，作凉拌菜时宜先溶解后再加入。因为味精的溶解温度为85℃，低于此温度，味精难以分解。
+        5.高汤、鸡肉、鸡蛋、水产制出的菜肴中不用再放味精。
+        6.孕妇及婴幼儿不宜吃味精，因为味精可能会引起胎儿缺陷；老人和儿童也不宜多食。患有高血压的人如果食用味精过多，会使血压更高。所以，高血压患者不但要限制食盐的摄入量，而且还要严格控制味精的摄入。
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201403/13111656669.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

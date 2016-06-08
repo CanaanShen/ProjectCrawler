@@ -1,0 +1,60 @@
+<content>
+
+    <id>
+        477
+    </id>
+
+    <foodname>
+        干姜
+    </foodname>
+
+    <firstcategory>
+        药食
+    </firstcategory>
+
+    <secondcategory>
+        药食
+    </secondcategory>
+
+    <alias>
+        白姜、均姜、干生姜
+    </alias>
+
+    <unsuit>
+        阴虚内热、血热妄行者忌食。
+    </unsuit>
+
+    <suit>
+    </suit>
+
+    <ingredient>
+
+    </ingredient>
+
+    <introduction>
+        干姜，为姜科植物姜的干燥根茎。多年生草本，高40～100cm，栽培时很少开花。我国大部分地区有栽培。主产四川、贵州。 采制 冬季采挖，除去茎叶及须根，洗净晒干或低温干燥。
+    </introduction>
+
+    <effect>
+        味辛，性热。归脾、胃、心、肺经。温中散寒，回阳通脉，燥湿消痰，温肺化饮。于脘腹冷痛，呕吐腹泻；肺寒久咳气喘，痰多清稀。
+    </effect>
+
+    <nutrition>
+        干姜含挥发油2%～3%，为淡黄色或黄绿色的油状液体；干姜含多量姜辣烯酮，少量姜辣醇，微量姜酮；生姜含多量姜辣醇，少量姜辣烯酮，无姜酮。
+    </nutrition>
+
+    <cuisine>
+        1.用于脘腹冷痛，寒呕，冷泻。本品辛热燥烈，主入脾胃而长于温中散寒、健运脾阳。 治胃寒呕吐，脘腹冷痛，每配高良姜用，如二姜丸。治脾胃虚寒，脘腹冷痛，呕吐泄泻，多与党参、白术等同用，如理中丸。
+        2.用于亡阳证。本品性味辛热，能回阳通脉。故可用治心肾阳虚，阴寒内盛所致之亡阳厥逆，脉微欲绝者，每与附子相须为用，如四逆汤。
+        3.用于寒饮咳喘，形寒背冷，痰多清稀之证。本品辛热，善能温肺化饮，常与细辛、五味子、麻黄等同用，如小青龙汤。
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201306/151541563.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

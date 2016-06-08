@@ -1,0 +1,172 @@
+<content>
+
+    <id>
+        454
+    </id>
+
+    <foodname>
+        土三七
+    </foodname>
+
+    <firstcategory>
+        药食
+    </firstcategory>
+
+    <secondcategory>
+        药食
+    </secondcategory>
+
+    <alias>
+        菊叶三七、水三七、紫背三七、血当归、破血丹
+    </alias>
+
+    <unsuit>
+    </unsuit>
+
+    <suit>
+    </suit>
+
+    <ingredient>
+        <element>
+            <elename>
+                热量（大卡）
+            </elename>
+            <elevalue>
+                45
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                蛋白质（克）
+            </elename>
+            <elevalue>
+                2.1
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                脂肪（克）
+            </elename>
+            <elevalue>
+                0.7
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                碳水化合物（克）
+            </elename>
+            <elevalue>
+                9
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                膳食纤维（克）
+            </elename>
+            <elevalue>
+                1.5
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                维生素A（微克）
+            </elename>
+            <elevalue>
+                423
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                胡萝卜素（微克）
+            </elename>
+            <elevalue>
+                2540
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                维生素B1（毫克）
+            </elename>
+            <elevalue>
+                0.05
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                维生素B2（毫克）
+            </elename>
+            <elevalue>
+                0.07
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                烟酸（毫克）
+            </elename>
+            <elevalue>
+                0.9
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                维生素C（毫克）
+            </elename>
+            <elevalue>
+                90
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                钙（毫克）
+            </elename>
+            <elevalue>
+                315
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                磷（毫克）
+            </elename>
+            <elevalue>
+                39
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                铁（毫克）
+            </elename>
+            <elevalue>
+                3.2
+            </elevalue>
+        </element>
+    </ingredient>
+
+    <introduction>
+        土三七为菊科植物菊叶三的根或全草，菊叶三七多年生草本，生于沟边及村舍旁肥湿土中，全国大部分地区有栽培。秋冬挖根，除去残茎、须根及泥土晒干。夏秋采全草，洗净，鲜用或晒干。
+    </introduction>
+
+    <effect>
+        味甘、微苦，性温。散瘀止血，解毒消肿。用于吐血，衄血，尿血，便血，功能性子宫出血，产后瘀血腹痛，大骨节病；外用治跌打损伤，痈疖疮疡，蛇咬伤，外伤出血。
+    </effect>
+
+    <nutrition>
+
+    </nutrition>
+
+    <cuisine>
+        1.治跌打，风痛：土三七鲜根二至三钱。黄酒煎服。
+        2.治吐血：土三七根，捣碎调童便服。
+        3.治痨伤后腰痛：土三七煎蛋吃。
+        4.治产后血气痛：土三七捣细，泡开水加酒兑服。
+        5.治蛇咬伤：三七草根捣烂敷患处。
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201210/920556.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

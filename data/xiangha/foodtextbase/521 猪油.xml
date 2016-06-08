@@ -1,0 +1,124 @@
+<content>
+
+    <id>
+        521
+    </id>
+
+    <foodname>
+        猪油
+    </foodname>
+
+    <firstcategory>
+        调味品
+    </firstcategory>
+
+    <secondcategory>
+        调味料
+    </secondcategory>
+
+    <alias>
+        大油、荤油
+    </alias>
+
+    <unsuit>
+        老年人、肥胖和心脑血管病患者、外感诸病、大便滑泻者慎食。
+    </unsuit>
+
+    <suit>
+        一般人群均可食用。尤适宜寒冷地区。
+    </suit>
+
+    <ingredient>
+        <element>
+            <elename>
+                热量（大卡）
+            </elename>
+            <elevalue>
+                897
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                脂肪（克）
+            </elename>
+            <elevalue>
+                99.6
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                碳水化合物（克）
+            </elename>
+            <elevalue>
+                0.2
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                胆固醇（毫克）
+            </elename>
+            <elevalue>
+                93
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                维生素A（微克）
+            </elename>
+            <elevalue>
+                27
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                维生素B1（毫克）
+            </elename>
+            <elevalue>
+                0.02
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                维生素B2（毫克）
+            </elename>
+            <elevalue>
+                0.03
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                维生素E（毫克）
+            </elename>
+            <elevalue>
+                5.21
+            </elevalue>
+        </element>
+    </ingredient>
+
+    <introduction>
+        猪油，为猪科动物猪的脂肪油，在西方被称为猪脂肪。猪油色泽白或黄白，具有猪油的特殊香味，深受人们欢迎。很多人都认为炒菜若不用猪油菜就不香。猪油的熔点较羊油、牛油为低，一般低于人的体温，容易被人体吸收。它是饮食业使用最普遍的食用油。
+    </introduction>
+
+    <effect>
+        猪油味甘、性凉； 有补虚、润燥、解毒的作用；可治脏腑枯涩、大便不利、燥咳、皮肤皲裂等症；可药用内服、熬膏或入丸剂。
+        外用作膏油涂敷患部。
+    </effect>
+
+    <nutrition>
+        动物油的油脂与一般植物油相比，有不可替代的特殊香味，可以增进人们的食欲。特别与萝卜、粉丝及豆制品相配时，可以获得用其他调料难以达到的美味。
+        动物油中含有多种脂肪酸，饱和脂肪酸和不饱和脂肪酸的含量相当，几乎平分秋色，具有一定的营养，并且能提供极高的热量。
+    </nutrition>
+
+    <cuisine>
+        猪油不宜用于凉拌和炸食。用它调味的食品要趁热食用，放凉后会有一种油腥气，影响人的食欲。
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201210/23145149.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

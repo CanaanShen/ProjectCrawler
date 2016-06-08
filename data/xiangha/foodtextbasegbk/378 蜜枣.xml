@@ -1,0 +1,62 @@
+<content>
+
+    <id>
+        378
+    </id>
+
+    <foodname>
+        蜜枣
+    </foodname>
+
+    <firstcategory>
+        果品类
+    </firstcategory>
+
+    <secondcategory>
+        干果
+    </secondcategory>
+
+    <alias>
+    </alias>
+
+    <unsuit>
+    </unsuit>
+
+    <suit>
+        一般人群均可食用
+    </suit>
+
+    <ingredient>
+
+    </ingredient>
+
+    <introduction>
+        蜜枣属于干果类，用割枣机，把大青枣周身割一次，使得容易吸糖，然后放入锅中用白糖煮，晒干，就成了平时吃的蜜枣。也可用于泡茶，有一股枣的清香。
+    </introduction>
+
+    <effect>
+        清心润肺
+    </effect>
+
+    <nutrition>
+        1. 枣能提高人体免疫力，并可抑制癌细胞，药理研究发现，红枣能促进白细胞的生成，降低血清胆固醇，提高血清白蛋白，保护肝脏。红枣中还含有抑制癌细胞，甚至可使癌细胞向正常细胞转化的物质；
+        2. 经常食用鲜枣的人很少患胆结石，这是因为鲜枣中丰富的维生素C，使体内多余的胆固醇转变为胆汁酸，胆固醇少了，结石形成的概率也就随之减少；
+        3. 枣中富含钙和铁，它们对防治骨质疏松产贫血有重要作用，中老年人更年期经常会骨质疏松，正在生长发育高峰的青少年和女性容易发生贫血，大枣对他们会有十分理想的食疗作用，其效果通常是药物不能比拟的；
+        4. 对病后体虚的人也有良好的滋补作用；
+        5. 枣所含的芦丁，是一种使血管软化，从而使血压降低的物质，对高血压病有防治功效；
+        6. 枣还可以抗过敏、除腥臭怪味、宁心安神、益智健脑、增强食欲，更加年轻。
+    </nutrition>
+
+    <cuisine>
+
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201601/141803332448.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

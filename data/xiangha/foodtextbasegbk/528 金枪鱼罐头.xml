@@ -1,0 +1,66 @@
+<content>
+
+    <id>
+        528
+    </id>
+
+    <foodname>
+        金枪鱼罐头
+    </foodname>
+
+    <firstcategory>
+        休闲食品
+    </firstcategory>
+
+    <secondcategory>
+        食品
+    </secondcategory>
+
+    <alias>
+    </alias>
+
+    <unsuit>
+        泻痢者忌食。
+    </unsuit>
+
+    <suit>
+        一般人可食用。
+    </suit>
+
+    <ingredient>
+        <element>
+            <elename>
+                维生素D（微克）
+            </elename>
+            <elevalue>
+                232
+            </elevalue>
+        </element>
+    </ingredient>
+
+    <introduction>
+        金枪鱼罐头是水产类罐头的一个重要品种，加工罐头的金枪鱼品种主要是长鳍金枪鱼和黄鳍金枪鱼，品种有原汁金枪鱼、五香金枪鱼、油浸金枪鱼、茄汁金枪鱼等品种。由于金枪鱼肌肉中含硫蛋白质较多，因此一般采用抗硫抗酸两用全涂料马口铁罐。
+        2000年估计全球金枪鱼罐头生产量为17000万箱(约150万吨)，美国、泰国、西班牙、日本、意大利、菲律宾、法国等是金枪鱼罐头的主要生产国，而美国、法国、意大利、美国、西班牙、德国又是金枪鱼罐头的主要消费国。
+    </introduction>
+
+    <effect>
+        美容；减肥；护肝脏；防止动脉硬化；降低胆固醇。
+    </effect>
+
+    <nutrition>
+        高蛋白，低脂肪。
+    </nutrition>
+
+    <cuisine>
+
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201508/121842019330.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

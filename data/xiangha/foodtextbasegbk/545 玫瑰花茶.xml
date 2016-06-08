@@ -1,0 +1,58 @@
+<content>
+
+    <id>
+        545
+    </id>
+
+    <foodname>
+        玫瑰花茶
+    </foodname>
+
+    <firstcategory>
+        休闲食品
+    </firstcategory>
+
+    <secondcategory>
+        饮品
+    </secondcategory>
+
+    <alias>
+        徘徊花
+    </alias>
+
+    <unsuit>
+    </unsuit>
+
+    <suit>
+        一般人群均可食用。
+    </suit>
+
+    <ingredient>
+
+    </ingredient>
+
+    <introduction>
+        玫瑰花茶是用鲜玫瑰花和茶叶的芽尖按比例混合，利用现代高科技工艺窨制而成的高档茶，其香气具浓，轻之别，和而不猛。
+    </introduction>
+
+    <effect>
+        玫瑰花是一种珍贵的药材，味甘微苦、性温，最明显的功效就是理气解郁、活血散淤和调经止痛。对于心脑血管，高血压，心脏病及妇科有显著疗效。
+    </effect>
+
+    <nutrition>
+        富含香茅醇、橙花醇、香叶醇、苯乙醇等多挥发性香气成分，因此泡出的玫瑰花茶具有甜美的香气。长饮此品有清热解毒、促进代谢、和肝养胃之功效，它还有平衡激素的作用，有助于女性的美丽与健康。
+    </nutrition>
+
+    <cuisine>
+
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201508/12185333692.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

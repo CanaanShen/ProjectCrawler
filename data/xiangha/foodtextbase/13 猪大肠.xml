@@ -1,0 +1,212 @@
+<content>
+
+    <id>
+        13
+    </id>
+
+    <foodname>
+        猪大肠
+    </foodname>
+
+    <firstcategory>
+        肉类
+    </firstcategory>
+
+    <secondcategory>
+        猪肉
+    </secondcategory>
+
+    <alias>
+        肥肠
+    </alias>
+
+    <unsuit>
+        感冒期间忌食；因其性寒，凡脾虚便溏者亦忌。
+    </unsuit>
+
+    <suit>
+        般人都可食用。尤适宜大肠病变，如痔疮、便血、脱肛、小便频多者。
+    </suit>
+
+    <ingredient>
+        <element>
+            <elename>
+                热量（大卡）
+            </elename>
+            <elevalue>
+                196
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                蛋白质（克）
+            </elename>
+            <elevalue>
+                6.9
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                脂肪（克）
+            </elename>
+            <elevalue>
+                18.7
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                胆固醇（毫克）
+            </elename>
+            <elevalue>
+                137
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                维生素A（微克）
+            </elename>
+            <elevalue>
+                7
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                维生素B1（毫克）
+            </elename>
+            <elevalue>
+                0.06
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                维生素B2（毫克）
+            </elename>
+            <elevalue>
+                0.11
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                烟酸（毫克）
+            </elename>
+            <elevalue>
+                1.9
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                维生素E（毫克）
+            </elename>
+            <elevalue>
+                0.5
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                钙（毫克）
+            </elename>
+            <elevalue>
+                10
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                磷（毫克）
+            </elename>
+            <elevalue>
+                56
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                钾（毫克）
+            </elename>
+            <elevalue>
+                44
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                钠（毫克）
+            </elename>
+            <elevalue>
+                116.3
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                镁（毫克）
+            </elename>
+            <elevalue>
+                8
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                铁（毫克）
+            </elename>
+            <elevalue>
+                1
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                锌（毫克）
+            </elename>
+            <elevalue>
+                0.98
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                硒（微克）
+            </elename>
+            <elevalue>
+                16.95
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                铜（毫克）
+            </elename>
+            <elevalue>
+                0.06
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                锰（毫克）
+            </elename>
+            <elevalue>
+                0.07
+            </elevalue>
+        </element>
+    </ingredient>
+
+    <introduction>
+        猪肠是用于输送和消化食物的，有很强的韧性，并不象猪肚那样厚，还有适量的脂肪。根据猪肠的功能可分为大肠、小肠和肠头，它们的脂肪含量是不同的，小肠最瘦，肠头最肥。
+        用猪大肠治疗大肠病变，有润肠治燥，调血痢脏毒的作用，古代医家常用于痔疮、大便出血或血痢。如《仁斋直指方》和 《奇效良方》中的猪脏丸，《本草蒙筌》中的连壳丸等，皆是用于治疗直肠病变的名方，其中均用到猪大肠。
+    </introduction>
+
+    <effect>
+        猪大肠有润燥、补虚、止渴止血之功效。可用于治疗虚弱口渴、脱肛、痔疮、便血、便秘等症。
+        另外，猪大肠性寒，味甘；有润肠，去下焦风热，止小便数的作用。
+    </effect>
+
+    <nutrition>
+
+    </nutrition>
+
+    <cuisine>
+        猪大肠适于烧、烩、卤、炸，如“浇大肠段”、“卤五香大肠”、“炸肥肠”、“九转肥肠”、“炸斑指”等。
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201310/081341534484.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

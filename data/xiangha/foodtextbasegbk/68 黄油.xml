@@ -1,0 +1,184 @@
+<content>
+
+    <id>
+        68
+    </id>
+
+    <foodname>
+        黄油
+    </foodname>
+
+    <firstcategory>
+        蛋奶类
+    </firstcategory>
+
+    <secondcategory>
+        乳制品
+    </secondcategory>
+
+    <alias>
+        白脱油
+    </alias>
+
+    <unsuit>
+        孕妇、肥胖者、糖尿病患者忌食。
+    </unsuit>
+
+    <suit>
+        一般人群均可食用。
+    </suit>
+
+    <ingredient>
+        <element>
+            <elename>
+                热量（大卡）
+            </elename>
+            <elevalue>
+                888
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                蛋白质（克）
+            </elename>
+            <elevalue>
+                1.4
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                脂肪（克）
+            </elename>
+            <elevalue>
+                98
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                胆固醇（毫克）
+            </elename>
+            <elevalue>
+                296
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                维生素B2（毫克）
+            </elename>
+            <elevalue>
+                0.02
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                钙（毫克）
+            </elename>
+            <elevalue>
+                35
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                磷（毫克）
+            </elename>
+            <elevalue>
+                8
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                钾（毫克）
+            </elename>
+            <elevalue>
+                39
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                钠（毫克）
+            </elename>
+            <elevalue>
+                40.3
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                镁（毫克）
+            </elename>
+            <elevalue>
+                7
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                铁（毫克）
+            </elename>
+            <elevalue>
+                0.8
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                锌（毫克）
+            </elename>
+            <elevalue>
+                0.11
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                硒（微克）
+            </elename>
+            <elevalue>
+                1.6
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                铜（毫克）
+            </elename>
+            <elevalue>
+                0.01
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                锰（毫克）
+            </elename>
+            <elevalue>
+                0.05
+            </elevalue>
+        </element>
+    </ingredient>
+
+    <introduction>
+        黄油是将牛奶中的稀奶油和脱脂乳分离后，稀奶油经搅拌而成的。黄油从制作工艺来分，可以分为生黄油(从生牛奶直接制作)，超细黄油(只能采用巴氏菌消毒过的未经冷藏牛奶或奶油)，细质黄油(采用部分冷冻过的牛奶)。在口味上，还可以分为原味，半盐和加盐的黄油。黄油与奶酪的最大区别在于成分，黄油的脂肪含量更高。
+        黄油分食品黄油和润滑黄油，润滑黄油又称润滑脂，是润滑油的一种。这里重点介绍食品黄油：蒙古语称“希日陶苏”，其味道独特纯香，含有丰富的营养物质，是牧民招待宾客的佳品。黄油可以从奶皮子里提，可以从白油中提，也可以从鲜奶凝结出的油皮中提取。
+    </introduction>
+
+    <effect>
+        1.增加饱腹感
+        黄油富含脂肪，维持体温和保护内脏；提供必需脂肪酸；促进这些脂溶性维生素的吸收；饱腹感。
+        2.促进身体发育
+        黄油富含铜，铜是人体健康不可缺少的微量营养素，对于血液、中枢神经和免疫系统，头发、皮肤和骨骼组织以及脑子和肝、心等内脏的发育和功能有重要影响。
+        3.改善贫血
+        适量食用天然黄油可改善因食用不饱和脂肪酸或人造黄油而导致的贫血症状。
+    </effect>
+
+    <nutrition>
+        黄油营养是奶制品之首，主要成分是脂肪，其含量远高于奶油，其含量在90%左右，剩下的主要是水分、胆固醇，还含有多种脂溶性维生素，基本不含蛋白质。可炸鱼，煎牛排，烤面包，涂抹面包吃，不仅营养丰富，而且很香醇味美，绵甜可口。
+    </nutrition>
+
+    <cuisine>
+        黄油一般很少被直接食用，通常作为烹调食物的辅料。
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201310/081828068660.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

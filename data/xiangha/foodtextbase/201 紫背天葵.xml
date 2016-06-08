@@ -1,0 +1,114 @@
+<content>
+
+    <id>
+        201
+    </id>
+
+    <foodname>
+        紫背天葵
+    </foodname>
+
+    <firstcategory>
+        蔬菜
+    </firstcategory>
+
+    <secondcategory>
+        茎叶花类
+    </secondcategory>
+
+    <alias>
+        红风菜、血皮菜
+    </alias>
+
+    <unsuit>
+        寒凉虚弱的人请慎食。
+    </unsuit>
+
+    <suit>
+        一般人群均可食用。
+    </suit>
+
+    <ingredient>
+        <element>
+            <elename>
+                热量（大卡）
+            </elename>
+            <elevalue>
+                12
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                蛋白质（克）
+            </elename>
+            <elevalue>
+                1.9
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                碳水化合物（克）
+            </elename>
+            <elevalue>
+                3.8
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                膳食纤维（克）
+            </elename>
+            <elevalue>
+                2.6
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                维生素B6（毫克）
+            </elename>
+            <elevalue>
+                0.08
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                叶酸（微克）
+            </elename>
+            <elevalue>
+                23.7
+            </elevalue>
+        </element>
+    </ingredient>
+
+    <introduction>
+        紫背天葵是秋海棠科秋海棠属的多年生无茎草本植物，为中国的特有物种。分布于中国的江西、海南、香港、广东、湖南、广西、福建、浙江等地，生长于海拔700米至1,120米的地区，一般生长在悬崖石缝中、山地山顶疏林下石上、山顶林下潮湿岩石上及山坡林下。因嫩茎叶富含钙、铁等，营养价值较高，又有清热解毒作用、抗恶性细胞增长等药用价值，故有较长的作为蔬菜栽培的历史。
+    </introduction>
+
+    <effect>
+        1.清热解毒
+        具清热解毒、润肺止咳、散瘀消肿、生津止渴之功效，治外感高热、中暑发烧，肺热咳嗽，伤风声嘶，痈肿疮毒，跌打肿痛等症。
+        2.止血补血
+        紫背天葵还具有治疗咳血、血崩、痛经、支气管炎、盆腔炎及缺铁性贫血等病症的功效，在我国南方一些地区更是把紫背天葵作为一种补血的良药，是产后妇女食用的主要蔬菜之一。
+        3.抗病毒
+        此外，紫背天葵可提高抗寄生虫和抗病毒的能力，对肿瘤有一定防效。
+    </effect>
+
+    <nutrition>
+        葵属于药膳同用植物，既可入药，又是一种很好的营养保健品。
+        1.富含造血功能的铁素、维生素A原、黄酮类化合物及酶化剂锰元素，具有活血止血、解毒消肿等功效，对儿童和老人具有较好的保健功能。
+        2.紫背天葵中富含黄酮苷成分，可以延长维生素C的作用，减少血管紫癜。
+    </nutrition>
+
+    <cuisine>
+        1.可凉拌、做汤，也可素炒、荤炒，柔嫩滑爽，风味别具一格。
+        2.在当代，人们常将紫背天葵泡酒、泡水做成药酒或保健茶饮用，具消暑散热、清心润肺的功效。紫背天葵泡水后呈淡紫红色，味微酸带甘甜，郭沫若赞之曰“客来不用茶和酒，紫背天葵酌满情”。
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201508/071029413287.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

@@ -1,0 +1,105 @@
+<content>
+
+    <id>
+        311
+    </id>
+
+    <foodname>
+        山楂
+    </foodname>
+
+    <firstcategory>
+        果品类
+    </firstcategory>
+
+    <secondcategory>
+        水果
+    </secondcategory>
+
+    <alias>
+        红果、棠棣、绿梨、北山楂
+    </alias>
+
+    <unsuit>
+        孕妇、儿童、胃酸分泌过多者、病后体虚及患牙病者不宜食用。
+    </unsuit>
+
+    <suit>
+        一般人群均食用。适宜消化不良者、心血管疾病患者、癌症患者、肠炎患者。
+    </suit>
+
+    <ingredient>
+        <element>
+            <elename>
+                热量（大卡）
+            </elename>
+            <elevalue>
+                98
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                蛋白质（克）
+            </elename>
+            <elevalue>
+                0.5
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                脂肪（克）
+            </elename>
+            <elevalue>
+                0.6
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                碳水化合物（克）
+            </elename>
+            <elevalue>
+                22
+            </elevalue>
+        </element>
+    </ingredient>
+
+    <introduction>
+        山楂为蔷薇科落叶灌木或小乔木植物野山楂或山里红的果实。花白色，果实近球形，红色，味酸甜。我国河北、北京、辽宁、河南、山东、山西、江苏、云南、广西等地都有栽培。品种亦有不同，以个大、肉酸者较佳。
+        山楂，又名山里红、红果、胭脂果，有很高的营养和医疗价值。因老年人常吃山楂制品能增强食欲，改善睡眠，保持骨和血中钙的恒定，预防动脉粥样硬化，使人延年益寿，故山楂被人们视为“长寿食品”。
+    </introduction>
+
+    <effect>
+        1.降血脂
+        防治心血管疾病，降低血压和胆固醇、软化血管及利尿和镇静作用。
+        2.开胃
+        开胃消食，特别对消肉食积滞作用更好，很多助消化的药中都采用了山楂。
+        3.活血化瘀
+        山楂有活血化淤的功效，有助于解除局部淤血状态，对跌打损伤有辅助疗效。
+        4.可治疗腹泻
+        山楂中有平喘化痰、抑制细菌、治疗腹痛腹泻的成分。
+        5.促进子宫的复原
+        山楂对子宫有收缩作用，在孕妇临产时有催生之效，并能促进产后子宫复原。
+        6.抗衰老
+        山楂所含的黄酮类和维生素C、胡萝卜素等物质能阻断并减少自由基的生成，能增强机体的免疫力，有防衰老、抗癌的作用。
+    </effect>
+
+    <nutrition>
+        1.山楂含有较高的热量，含有大量的胡萝卜素、钙质、碳水化合物、山楂酸、果胶等。
+        2.山楂中维生素的含量极高，仅次于红枣和猕猴桃，此外胡萝卜素和钙的含量较高。
+        3.山楂叶中含有黄酮类化合物，为果实含量的20倍。
+    </nutrition>
+
+    <cuisine>
+        1.生山楂要慎吃。生山楂中所含的鞣酸与胃酸结合容易形成胃石，很难消化掉。如果胃石长时间消化不掉就会引起胃溃疡、胃出血甚至胃穿孔。因此，应尽量少吃生的山楂，尤其是胃肠功能弱的人更应该谨慎。医生建议，最好将山楂煮熟后再吃。
+        2.山楂不能空腹吃。
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201508/101527461205.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

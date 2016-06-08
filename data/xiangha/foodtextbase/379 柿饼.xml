@@ -1,0 +1,58 @@
+<content>
+
+    <id>
+        379
+    </id>
+
+    <foodname>
+        柿饼
+    </foodname>
+
+    <firstcategory>
+        果品类
+    </firstcategory>
+
+    <secondcategory>
+        干果
+    </secondcategory>
+
+    <alias>
+        干柿、柿花、柿干
+    </alias>
+
+    <unsuit>
+        脾胃虚寒，痰湿内盛者不宜食。
+    </unsuit>
+
+    <suit>
+    </suit>
+
+    <ingredient>
+
+    </ingredient>
+
+    <introduction>
+        柿饼，中药名。为柿科植物柿的果实经加工而成的饼状食品，有白柿、乌柿两种。
+    </introduction>
+
+    <effect>
+        润肺，涩肠，止血。
+    </effect>
+
+    <nutrition>
+
+    </nutrition>
+
+    <cuisine>
+
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201601/141846291805.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

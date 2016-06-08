@@ -1,0 +1,192 @@
+<content>
+
+    <id>
+        44
+    </id>
+
+    <foodname>
+        鸭掌
+    </foodname>
+
+    <firstcategory>
+        肉类
+    </firstcategory>
+
+    <secondcategory>
+        鸭肉
+    </secondcategory>
+
+    <alias>
+        鸭爪
+    </alias>
+
+    <unsuit>
+        素体虚寒，受凉引起的不思饮食，胃部冷痛、腹泻清稀、腰痛及寒性痛经以及肥胖、动脉硬化、慢性肠炎应少食；感冒患者不宜食用。
+    </unsuit>
+
+    <suit>
+    </suit>
+
+    <ingredient>
+        <element>
+            <elename>
+                热量（大卡）
+            </elename>
+            <elevalue>
+                150
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                蛋白质（克）
+            </elename>
+            <elevalue>
+                26.9
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                脂肪（克）
+            </elename>
+            <elevalue>
+                1.9
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                碳水化合物（克）
+            </elename>
+            <elevalue>
+                6.2
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                胆固醇（毫克）
+            </elename>
+            <elevalue>
+                36
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                维生素A（微克）
+            </elename>
+            <elevalue>
+                11
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                维生素B2（毫克）
+            </elename>
+            <elevalue>
+                0.17
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                烟酸（毫克）
+            </elename>
+            <elevalue>
+                1.1
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                钙（毫克）
+            </elename>
+            <elevalue>
+                24
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                磷（毫克）
+            </elename>
+            <elevalue>
+                91
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                钾（毫克）
+            </elename>
+            <elevalue>
+                28
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                钠（毫克）
+            </elename>
+            <elevalue>
+                61.1
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                镁（毫克）
+            </elename>
+            <elevalue>
+                3
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                铁（毫克）
+            </elename>
+            <elevalue>
+                1.3
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                锌（毫克）
+            </elename>
+            <elevalue>
+                0.54
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                硒（微克）
+            </elename>
+            <elevalue>
+                5.42
+            </elevalue>
+        </element>
+    </ingredient>
+
+    <introduction>
+        鸭掌，即鸭爪，掌为运动之基础器官，筋多，皮厚，无肉。筋多则有嚼劲，皮厚则含汤汁，肉少则易入味。从营养学角度讲，鸭掌多含蛋白质，低糖，少有脂肪，所以可以称鸭掌为绝佳减肥食品。
+    </introduction>
+
+    <effect>
+        鸭肉性味甘、咸、平，微寒，功可滋阴补血、益气利水消肿。
+        1.益气补虚
+        鸭子吃的食物多为水生物，故其肉性味甘、寒，入肺胃肾经，有大补虚劳、滋五脏之阴、清虚劳之热、补血行水、养胃生津、止咳自惊、消螺蛳积、清热健脾、虚弱浮肿等功效;治身体虚弱、病后体虚、营养不良性水肿。
+        2.滋阴
+        公鸭肉性微寒，母鸡肉性微温。入药以老而白、白而骨乌者为佳。用老而肥大之鸭同海参炖食，具有很大的滋补功效，炖出的鸭汁，善补五脏之阴和虚痨之热。
+    </effect>
+
+    <nutrition>
+        1.鸭肉中含有丰富的蛋白质，而且消化高。容易被人体吸收。
+        2.鸭肉中所含B族维生素和维生素E较其他肉类多，能有效抵抗脚气病，神经炎和多种炎症，还能抗衰老。
+        3.鸭肉中蛋白质约为16%~25%，比畜肉含量高得多，鸭肉中的脂肪适中，约为7.5%比猪肉低，脂肪酸中含有不饱和脂肪酸和短链饱和脂肪酸，熔点低，消化吸收比较高。
+        4.鸭肉中含有较为丰富的烟酸，它是构成人体内两种重要辅酶的成分之一，对心肌梗死等心脏疾病患者有保护作用。
+    </nutrition>
+
+    <cuisine>
+
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201403/281740075874.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

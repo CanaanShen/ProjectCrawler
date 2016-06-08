@@ -1,0 +1,154 @@
+<content>
+
+    <id>
+        436
+    </id>
+
+    <foodname>
+        沙参
+    </foodname>
+
+    <firstcategory>
+        药食
+    </firstcategory>
+
+    <secondcategory>
+        药食
+    </secondcategory>
+
+    <alias>
+        南沙参、泡参、泡沙参
+    </alias>
+
+    <unsuit>
+        风寒咳嗽及中寒便溏者禁服；痰热咳嗽者慎服。
+    </unsuit>
+
+    <suit>
+        一般人群均可食用。
+    </suit>
+
+    <ingredient>
+        <element>
+            <elename>
+                热量（大卡）
+            </elename>
+            <elevalue>
+                82
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                蛋白质（克）
+            </elename>
+            <elevalue>
+                0.8
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                脂肪（克）
+            </elename>
+            <elevalue>
+                1.6
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                碳水化合物（克）
+            </elename>
+            <elevalue>
+                21.6
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                膳食纤维（克）
+            </elename>
+            <elevalue>
+                5.4
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                维生素A（微克）
+            </elename>
+            <elevalue>
+                978
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                胡萝卜素（微克）
+            </elename>
+            <elevalue>
+                5870
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                烟酸（毫克）
+            </elename>
+            <elevalue>
+                2.7
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                维生素C（毫克）
+            </elename>
+            <elevalue>
+                104
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                钙（毫克）
+            </elename>
+            <elevalue>
+                585
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                磷（毫克）
+            </elename>
+            <elevalue>
+                180
+            </elevalue>
+        </element>
+    </ingredient>
+
+    <introduction>
+        为桔梗科沙参属植物四叶沙参、杏叶沙参或其同属植物，以根入药。秋季刨采，除去地上部分及须根，刮去粗皮，即时晒干。
+        南沙参与北沙参的区别：
+        据古代文献记载，前人所用沙参，系南沙参。至清代载有沙参分南、北两种。一般认为两药功效相似，均属养阴药，具有养阴清肺，益胃生津的功效。然南沙参又称大沙参、空 沙参，其形粗大，质较疏松，功效较差，专长于入“肺”，偏于清肺祛痰止咳；北沙参，又称北条参、细条参，其形细长，质坚疏密，功效较佳，专长于入“胃”，偏于养阴生津止渴，说法各异 。
+    </introduction>
+
+    <effect>
+        甘，凉。清热养阴，润肺止咳。主治气管炎，百日咳，肺热咳嗽，咯痰黄稠。
+        沙参具有滋阴生津、清热凉血之功，配合放 化疗用于肿瘤患者，尤其是对晚期肿瘤病人血枯阴亏、肺阴虚之肺癌、消化道肿瘤术后气阴两虚或因放疗而伤阴引起的津枯液燥者，具有较好的疗效。
+    </effect>
+
+    <nutrition>
+        现代研究发现，南沙参含生物碱、挥发油等，具有降低体温、镇痛、强心等作用；北沙参含黄酮、 皂甙等，具有祛痰、抗真石、强心等作用。
+        南沙参养阴清热 润肺化痰 治疗阴虚久咳 痨嗽痰血 燥咳痰少；虚热喉痹（润肺止咳）。北沙参胃阴虚津液不足咽干口渴（养胃生津）。
+    </nutrition>
+
+    <cuisine>
+        1.肺热咳嗽者，可单味水煎服。
+        2.若肺热较盛者，可加清肺之桑白皮、地骨皮。
+        3.久嗽不已者，可配止咳化痰之款冬花、炙百部。
+        4.久咳声哑者，再伍养阴敛肺之玄参、诃子。
+        5.若津伤较重，舌绛少津者，是可用鲜沙参与鲜生地、鲜石斛等配伍，以增养阴生津之效。
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201306/071729389.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

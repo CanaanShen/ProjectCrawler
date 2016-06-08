@@ -1,0 +1,60 @@
+<content>
+
+    <id>
+        420
+    </id>
+
+    <foodname>
+        石耳
+    </foodname>
+
+    <firstcategory>
+        药食
+    </firstcategory>
+
+    <secondcategory>
+        药食
+    </secondcategory>
+
+    <alias>
+        石壁花、地耳、石木耳、灵芝、岩菇、脐衣
+    </alias>
+
+    <unsuit>
+        脾胃虚寒的病人忌食。
+    </unsuit>
+
+    <suit>
+        一般人群均可食用。
+    </suit>
+
+    <ingredient>
+
+    </ingredient>
+
+    <introduction>
+        石耳为地衣植物门植物石耳。又名石菇、岩耳、石壁花等。石耳，因其形似耳，并生长在悬崖峭壁阴湿石缝中而得名。石耳含有高蛋白和多种微量元素，是营养价值较高的滋补食品，是一种稀有的名贵山珍。黄山的石耳被称“黄山三石”之一。
+        石耳生于岩石上，体扁平，呈不规则圆形，上面褐色，背面被黑色绒毛。吴瑞云:"石耳生天台、四明、河南宣州、萤山、巴西边缴诸山石崖上"。李时珍云:"庐山亦多，状如地耳，山僧采曝馈远，洗去沙土，作茹，胜于
+    </introduction>
+
+    <effect>
+        石耳性味甘平。具有清肺热、养胃阴、滋肾水、益气活血、补脑强心的功效。对肺热咳嗽、肺燥干咳、胃肠有热、便秘下血，头晕耳鸣，月经不调、冠心病、高血压等均有良好的食疗效果。对身体虚弱、病后体弱的滋补效果最佳。近代研究石耳有明显抗癌作用。民间用男子食之益精增髓，女子食后清宫易孕。
+    </effect>
+
+    <nutrition>
+        常被兵士和探险者用作应急食品，石耳所含热量约为等量蜂蜜、玉米片或玉米粥的11/3倍以上。但其生长缓慢，不能作为粮食作物。
+    </nutrition>
+
+    <cuisine>
+
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201209/229454.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

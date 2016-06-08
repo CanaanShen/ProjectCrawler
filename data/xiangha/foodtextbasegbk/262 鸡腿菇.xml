@@ -1,0 +1,114 @@
+<content>
+
+    <id>
+        262
+    </id>
+
+    <foodname>
+        鸡腿菇
+    </foodname>
+
+    <firstcategory>
+        蔬菜
+    </firstcategory>
+
+    <secondcategory>
+        菌菇类
+    </secondcategory>
+
+    <alias>
+        毛头鬼伞、鸡腿蘑、刺蘑菇
+    </alias>
+
+    <unsuit>
+        痛风患者忌食。
+    </unsuit>
+
+    <suit>
+        一般人群均可食用。尤适宜糖尿病、高血脂、低血糖患者。
+    </suit>
+
+    <ingredient>
+        <element>
+            <elename>
+                热量（大卡）
+            </elename>
+            <elevalue>
+                257
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                蛋白质（克）
+            </elename>
+            <elevalue>
+                26.7
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                脂肪（克）
+            </elename>
+            <elevalue>
+                2
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                碳水化合物（克）
+            </elename>
+            <elevalue>
+                51.8
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                膳食纤维（克）
+            </elename>
+            <elevalue>
+                18.8
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                叶酸（微克）
+            </elename>
+            <elevalue>
+                351.8
+            </elevalue>
+        </element>
+    </ingredient>
+
+    <introduction>
+        鸡腿菇，学名毛头鬼伞，为土生草腐菌类，在日本称之为细裂一夜茸，由于在低温时菇体形似鸡腿，又称为鸡腿菇。在欧洲德、捷、荷等国大量栽培。由于鸡腿菇集营养、保健、食疗于一身，且色、香、味、形俱佳，炒食、炖食、煲汤均久煮不烂，滑嫩清香，因而备受人们青睐。
+    </introduction>
+
+    <effect>
+        味甘滑性平，有益脾胃、清心安神、治痔等功效。经常食用有助消化、增加食欲和治疗痔疮的作用。
+        1.提高免疫力
+        鸡腿菇蛋白质是维持免疫机能最重要的营养素，为构成白血球和抗体的主要成份。
+        2.通便
+        鸡腿菇纤维素可以促进肠壁的蠕动，帮助消化，防止大便干燥。
+        3.安神除烦
+        鸡腿菇含多种氨基酸和维生素，可调节新陈代谢，起到镇静安神的作用。
+        4.降糖消渴
+        鸡腿菇对糖尿病有辅助治疗作用。
+    </effect>
+
+    <nutrition>
+
+    </nutrition>
+
+    <cuisine>
+        鸡腿菇的味道鲜美，营养丰富，但并非所有品种都可食用，而且不能食用的都有毒性。另外，鸡腿菇在采摘后亦不能放得长久，否则当它成熟了之后，亦因为内里的毒素而不能食用；另外，假如鸡腿菇在采摘前已发了毛头，亦不能食用，因为菌内已开始有毒素。鸡腿菇千万不能与酒精饮品一起食用。
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201508/101405253677.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

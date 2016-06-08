@@ -1,0 +1,58 @@
+<content>
+
+    <id>
+        28
+    </id>
+
+    <foodname>
+        羊骨
+    </foodname>
+
+    <firstcategory>
+        肉类
+    </firstcategory>
+
+    <secondcategory>
+        羊肉
+    </secondcategory>
+
+    <alias>
+        羊脊骨、羊骨头、羊胫骨
+    </alias>
+
+    <unsuit>
+        发烧者忌食；素体火盛者慎服。
+    </unsuit>
+
+    <suit>
+    </suit>
+
+    <ingredient>
+
+    </ingredient>
+
+    <introduction>
+        羊骨为牛科动物山羊或绵羊的骨骼。
+    </introduction>
+
+    <effect>
+        羊骨甘，温。入脾、肾经。补肾壮骨，温中止泻。治虚劳羸瘦，腰膝无力，筋骨挛痛，白浊，淋痛，久泻，久痢。
+    </effect>
+
+    <nutrition>
+        因部位、年龄等之不同，骨的化学组成亦有差异。其中变动最大的是水分与脂类。骨质中含有大量的无机物，其中一半以上是磷酸钙。此外，又含少量的碳酸钙、磷酸镁和微量的氟、氯、钠、钾、铁、铝等。氟含量虽然很少，但它是骨的重要成分。骨的有机物有骨胶原、骨类粘蛋白、弹性硬蛋白样物质；尚有中性脂肪（量比较多）、磷脂和少量的糖原等。
+    </nutrition>
+
+    <cuisine>
+        内服：煎汤或煅存性入丸、散。外用：煅存性研末撒。
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201310/081509582724.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

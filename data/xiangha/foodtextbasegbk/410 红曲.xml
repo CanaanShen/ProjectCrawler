@@ -1,0 +1,63 @@
+<content>
+
+    <id>
+        410
+    </id>
+
+    <foodname>
+        红曲
+    </foodname>
+
+    <firstcategory>
+        五谷杂粮
+    </firstcategory>
+
+    <secondcategory>
+        五谷类
+    </secondcategory>
+
+    <alias>
+        红曲霉、紫红曲霉、红大米、红糟、赤曲、红米、福曲、丹曲、红槽
+    </alias>
+
+    <unsuit>
+        脾阴不足、无食积瘀滞者慎用。
+    </unsuit>
+
+    <suit>
+    </suit>
+
+    <ingredient>
+
+    </ingredient>
+
+    <introduction>
+        红曲，为曲霉科真菌红曲霉的菌丝体寄生在粳米上而成的红曲米。
+    </introduction>
+
+    <effect>
+        红曲，味甘，性温；归肝、脾、胃、大肠经。活血化瘀；健脾消食。主饮食积滞；脘腹胀满；赤白下痢；产后恶露不尽；跌打损伤。
+    </effect>
+
+    <nutrition>
+
+    </nutrition>
+
+    <cuisine>
+        1.在烹饪中，红曲米的应用较为广泛，可用于烧菜染色，如江苏名菜樱桃肉、无锡排骨的制作；
+        2.可用于烧腊、酱卤食品，如广东叉烧和某些卤水的制作；
+        3.可用于红肠一类的灌肠上色，以及配制糖醋、西汁等复合味时调色；
+        4.粥饭、面食、腐乳、糕点、糖果、蜜饯等在制作中也经常用到红曲米；
+        5.使用红曲米时需注意，用量不宜多，否则口味发苦，不过可加点糖，起到去酸解苦的作用；
+        6.红曲米的生产工艺包括浸米、蒸饭、晾饭、接种、推曲、搓曲、上铺、喷水拌曲、出曲晒干等工序。一般从米饭培养至出曲，大约需4天左右，红曲米米粒外表便全部呈紫红色，经晾干或烘干即成。而在成品红曲米中，仍有一部分色菌在继续发酵，最终使红曲米中残存的白心红透，所以民间有陈年红曲米比新货好的说法。
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201312/181843312685.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

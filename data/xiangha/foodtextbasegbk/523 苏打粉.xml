@@ -1,0 +1,59 @@
+<content>
+
+    <id>
+        523
+    </id>
+
+    <foodname>
+        苏打粉
+    </foodname>
+
+    <firstcategory>
+        调味品
+    </firstcategory>
+
+    <secondcategory>
+        调味料
+    </secondcategory>
+
+    <alias>
+        碳酸氢钠、重碳酸钠、小苏打、重曹
+    </alias>
+
+    <unsuit>
+        可能产生穿孔的溃疡病患者忌用
+    </unsuit>
+
+    <suit>
+    </suit>
+
+    <ingredient>
+
+    </ingredient>
+
+    <introduction>
+        碳酸氢钠（SodiumBicarbonate），俗称“小苏打”、“苏打粉”、“重曹”，白色细小晶体，在水中的溶解度小于碳酸钠。
+        白色粉末或单斜晶结晶性粉末，无臭、味咸、易溶于水，但比碳酸钠在水中的溶解度小，不溶于乙醇，水溶液呈微碱性。受热易分解。在潮湿空气中缓慢分解。固体50℃以上开始逐渐分解生成碳酸钠、二氧化碳和水，270℃时完全分解。碳酸氢钠是强碱与弱酸中和后生成的酸式盐，溶于水时呈现弱碱性。常利用此特性作为食品制作过程中的膨松剂。碳酸氢钠在作用后会残留碳酸钠，使用过多会使成品有碱味。
+    </introduction>
+
+    <effect>
+        内服后能迅速中和胃酸，其抗酸作用弱而短暂。此外尚有碱化液的作用。 适用于胃酸过多、消化不良及碱化尿液等；静脉给药用于酸中毒；外用滴耳软化盯聍；2％溶液坐浴用于霉菌性阴道炎。
+    </effect>
+
+    <nutrition>
+
+    </nutrition>
+
+    <cuisine>
+        忌与酸性药物配伍。用量过大可致碱中毒。
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201210/2412188.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

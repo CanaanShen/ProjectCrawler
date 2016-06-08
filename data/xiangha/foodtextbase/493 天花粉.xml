@@ -1,0 +1,57 @@
+<content>
+
+    <id>
+        493
+    </id>
+
+    <foodname>
+        天花粉
+    </foodname>
+
+    <firstcategory>
+        药食
+    </firstcategory>
+
+    <secondcategory>
+        药食
+    </secondcategory>
+
+    <alias>
+        栝楼根、花粉、楼根
+    </alias>
+
+    <unsuit>
+    </unsuit>
+
+    <suit>
+    </suit>
+
+    <ingredient>
+
+    </ingredient>
+
+    <introduction>
+        天花粉，中药名。《本草正义》：药肆之所谓天花粉者，即以萎根切片用之，有粉之名，无粉之实。天花粉为葫芦科植物栝蒌的根，是一种中药，为清热泻火类药物，其具体功效是清热泻火，生津止渴，排脓消肿。主治：治热病口渴、消渴、黄疸、肺燥咳血、痈肿、痔痿。对于治疗糖尿病，常用它与滋阴药配合使用，以达到标本兼治的作用。
+    </introduction>
+
+    <effect>
+        清热泻火，生津止渴，消肿排脓。
+    </effect>
+
+    <nutrition>
+
+    </nutrition>
+
+    <cuisine>
+        不宜与乌头类药材同用。
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201601/151742044595.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

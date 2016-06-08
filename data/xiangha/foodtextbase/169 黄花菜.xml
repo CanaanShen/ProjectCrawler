@@ -1,0 +1,135 @@
+<content>
+
+    <id>
+        169
+    </id>
+
+    <foodname>
+        黄花菜
+    </foodname>
+
+    <firstcategory>
+        蔬菜
+    </firstcategory>
+
+    <secondcategory>
+        茎叶花类
+    </secondcategory>
+
+    <alias>
+        金针菜、忘忧草、萱草花、健脑菜
+    </alias>
+
+    <unsuit>
+        皮肤瘙痒症者、哮喘病者、平素痰多者、肠胃病患者忌食。
+    </unsuit>
+
+    <suit>
+        一般人群均可食用。尤适宜孕妇、中老年人、过度劳累者。
+    </suit>
+
+    <ingredient>
+        <element>
+            <elename>
+                热量（大卡）
+            </elename>
+            <elevalue>
+                38
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                蛋白质（克）
+            </elename>
+            <elevalue>
+                2.5
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                脂肪（克）
+            </elename>
+            <elevalue>
+                0.9
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                碳水化合物（克）
+            </elename>
+            <elevalue>
+                6.8
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                膳食纤维（克）
+            </elename>
+            <elevalue>
+                1.8
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                维生素A（微克）
+            </elename>
+            <elevalue>
+                357
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                胡萝卜素（微克）
+            </elename>
+            <elevalue>
+                2140
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                维生素C（毫克）
+            </elename>
+            <elevalue>
+                62
+            </elevalue>
+        </element>
+    </ingredient>
+
+    <introduction>
+        黄花菜，为百合科萱草属植物花蕾干制品的统称，是一种营养价值高、具有多种保健功能的花卉珍品蔬菜。因其花瓣肥厚，色泽金黄，香味浓郁，食之清香、鲜嫩，爽滑同木耳、草菇，营养价值高，被视作“席上珍品”。我国南北各地均有栽培，多分布于中国秦岭以南各地，吉林、广东与内蒙古草原亦有出产。黄花菜的食用部位是其花蕾，花蕾呈细长条状，呈黄色，有芳香气味，每年春、秋两季采收。
+    </introduction>
+
+    <effect>
+        黄花菜性平、味甘、微苦，归肝、脾、肾经；有清热利尿，解毒消肿，止血除烦，宽胸膈，养血平肝，利水通乳，利咽宽胸，清利湿热，发奶等功效；主治眩晕耳鸣、心悸烦闷、小便赤涩、水肿、痔疮便血等病症。
+        1.健脑、抗衰老
+        黄花菜有较好的健脑，抗衰老功效，是因其含有丰富的卵磷脂，这种物质是机体中许多细胞，特别是大脑细胞的组成成分，对增强和改善大脑功能有重要作用，同时能清除动脉内的沉积物，对注意力不集中、记忆力减退、脑动脉阻塞等症状有特殊疗效，故人们称之为“健脑菜”。
+        2.肌肤美容
+        常吃黄花菜还能滋润皮肤，增强皮肤的韧性和弹力，可使皮肤细嫩饱满、润滑柔软，皱褶减少、色斑消退、增添美容、黄花菜还有抗菌免疫功能，具有中轻度的消炎解毒功效，并在防止传染方面有一定的作用。
+        3.降血压
+        另据研究表明，黄花菜能显著降低血清胆固醇的含量，有利于高血压患者的康复，可作为高血压患者的保健蔬菜。
+        4.防治肠道癌瘤
+        黄花菜中还含有效成分能抑制癌细胞的生长，丰富的粗纤维能促进大便的排泄，因此可作为防治肠道癌瘤的食品。　　　　
+    </effect>
+
+    <nutrition>
+        黄花菜味鲜质嫩，营养丰富，含有丰富的花粉、糖、蛋白质、维生素C、钙、脂肪、胡萝卜素、氨基酸等人体所必须的养分，其所含的胡萝卜素甚至超过西红柿的几倍。
+    </nutrition>
+
+    <cuisine>
+        1.不可多食
+        但鲜黄花菜中含有一种“秋水仙碱”的物质，它本身虽无毒，但经过肠胃道的吸收，在体内氧化为“二秋水仙碱”，则具有较大的毒性。所以在食用鲜品时，每次不要多吃。
+        2.吃前浸泡
+        由于鲜黄花菜的有毒成份在高温60度时可减弱或消失，因此食用时，应先将鲜黄花菜用开水焯过，再用清水浸泡2个小时以上，捞出用水洗净后再进行炒食，这样秋水仙碱就能破坏掉，食用鲜黄花菜就安全了。
+        食用干品时，消费者最好在食用前用清水或温水进行多次浸泡后再食用，这样可以去掉残留的有害物，如二氧化硫等。
+        3.不宜单独炒食，应配其他食料。
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201508/051949467354.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

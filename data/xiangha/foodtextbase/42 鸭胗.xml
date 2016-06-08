@@ -1,0 +1,66 @@
+<content>
+
+    <id>
+        42
+    </id>
+
+    <foodname>
+        鸭胗
+    </foodname>
+
+    <firstcategory>
+        肉类
+    </firstcategory>
+
+    <secondcategory>
+        鸭肉
+    </secondcategory>
+
+    <alias>
+        鸭肫、鸭腱头
+    </alias>
+
+    <unsuit>
+        孕妇忌服。
+    </unsuit>
+
+    <suit>
+        一般人群均可食用。尤其适合贫血病患者、食用上腹饱胀、消化不良者。
+    </suit>
+
+    <ingredient>
+        <element>
+            <elename>
+                胆固醇（毫克）
+            </elename>
+            <elevalue>
+                0
+            </elevalue>
+        </element>
+    </ingredient>
+
+    <introduction>
+        鸭胗相当于鸭的胃，又称“鸭肫（zhun）”，形状扁圆，坚硬，两片合成，鸭平时吃进的石头就是存储在此处。鸭胗肉质紧密，紧韧耐嚼，滋味悠长，无油腻感，是老少皆喜爱的佳肴珍品。
+    </introduction>
+
+    <effect>
+        鸭肫味甘、性平、咸，有健胃之效。
+    </effect>
+
+    <nutrition>
+        鸭肫的主要营养成分有碳水化合物、蛋白质、脂肪、烟酸、维生素C、维生素E和钙、镁、铁、钾、磷、钠、硒等矿物质。鸭肫的铁元素含量较丰富，女性可以适当多食用一些。
+    </nutrition>
+
+    <cuisine>
+        鲜鸭肫清洗时要剥去内壁黄皮。
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201310/081647198480.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

@@ -1,0 +1,195 @@
+<content>
+
+    <id>
+        541
+    </id>
+
+    <foodname>
+        黄酒
+    </foodname>
+
+    <firstcategory>
+        休闲食品
+    </firstcategory>
+
+    <secondcategory>
+        饮品
+    </secondcategory>
+
+    <alias>
+        绍兴酒、老酒、加饭酒、甜酒
+    </alias>
+
+    <unsuit>
+        孕妇忌食。
+    </unsuit>
+
+    <suit>
+        一般人群均可食用
+    </suit>
+
+    <ingredient>
+        <element>
+            <elename>
+                热量（大卡）
+            </elename>
+            <elevalue>
+                66
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                蛋白质（克）
+            </elename>
+            <elevalue>
+                1.6
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                维生素B1（毫克）
+            </elename>
+            <elevalue>
+                0.02
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                维生素B2（毫克）
+            </elename>
+            <elevalue>
+                0.05
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                烟酸（毫克）
+            </elename>
+            <elevalue>
+                0.5
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                钙（毫克）
+            </elename>
+            <elevalue>
+                41
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                磷（毫克）
+            </elename>
+            <elevalue>
+                21
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                钾（毫克）
+            </elename>
+            <elevalue>
+                26
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                钠（毫克）
+            </elename>
+            <elevalue>
+                5.2
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                镁（毫克）
+            </elename>
+            <elevalue>
+                15
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                铁（毫克）
+            </elename>
+            <elevalue>
+                0.6
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                锌（毫克）
+            </elename>
+            <elevalue>
+                0.52
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                硒（微克）
+            </elename>
+            <elevalue>
+                0.66
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                铜（毫克）
+            </elename>
+            <elevalue>
+                0.07
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                锰（毫克）
+            </elename>
+            <elevalue>
+                0.27
+            </elevalue>
+        </element>
+    </ingredient>
+
+    <introduction>
+        黄酒是我国最古老的饮料酒。已有4000多年的酿造历史。因最初的黄酒酒液黄亮，色泽澄黄或呈琥珀色，清澈透明，故称为黄酒，经历代人民的辛勤劳动，不断完善酿造工艺，使我国的黄酒在世界上达到了较高水平。深受国内、外人士的喜爱。
+        黄酒主要是以糯米和黍米等谷物为原料，经过特定的加工酿造过程，使原料受到酒药、酒曲、浆水中的多种霉菌、酵母菌等的共同作用而酿成的一类低度原汁酒(压榨酒)。含有糖分、糊精、有机酸、氨基酸、酯类、甘油、维生素等营养物质。它常有芳香，鲜美醇厚，品种多样，形成特有的色、香、味、体。
+        黄酒以大米、黍米为原料，一般酒精含量为14%—20%，属于低度酿造酒。黄酒含有丰富的营养，含有21种氨基酸，其中包括有特中未知氨基酸，而人体自身不能合成必须依靠食物摄取8种必需氨其酸黄酒都具备，故被誉为“液体蛋糕”。中医认为，黄酒气味苦、甘、辛、大热，主行药势，有百邪恶毒、通经络、行血脉、脾胃、养皮肤、散湿气、扶肝、除风下气、活血、利小便等功效。饮用黄酒不仅可以增加食欲，使人心情愉悦，身体舒畅，而且可起到保健作用，适量常饮有助于血液循环，促进新陈代谢，并有补血养颜、舒筋活血、健身强体、延年益寿之功效。
+    </introduction>
+
+    <effect>
+        1.含有丰富氨基酸
+        黄酒的主要成分除乙醇和水外，还含有18种氨基酸，其中有8种是人体自身不能合成而又必需的。这8种氨基酸，在黄酒中的含量比同量啤酒．葡萄酒多一至数倍。
+        2.易于消化
+        黄酒含有许多易被人体消化的营养物质，如：糊精．麦芽糖、葡萄糖、脂类．甘油、高级醇、维生素及有机酸等。这些成分经贮存，最终使黄酒成为营养价值极高的低酒精度饮品。
+        3.舒筋活血
+        黄酒气味苦、甘、辛。冬天温饮黄酒，可活血祛寒、通经活络，有效抵御寒冷刺激，预防感冒。适量常饮有助于血液循环，促进新陈代谢，并可补血养颜。
+        4.美容抗衰老
+        黄酒是B族维生素的良好来源，维生素B1、B2、尼克酸、维生素E都很丰富，长期饮用有利于美容、抗衰老。
+        5.促进食欲
+        锌是能量代谢及蛋白质合成的重要成分，缺锌时，食欲、味觉都会减退，性功能也下降。而黄酒中锌含量不少，如每100毫升绍兴元红黄酒含锌0.85毫克。所以饮用黄酒有促进食欲的作用。
+        6.保护心脏
+        黄酒内含多种微量元素。如每100毫升含镁量为20～30毫克，比白葡萄酒高10倍，比红葡萄酒高5倍；绍兴元红黄酒及加饭酒中每100毫升含硒量为1～1.2微克，比白葡萄酒高约20倍，比红葡萄酒高约12倍。在心血管疾病中，这些微量元素均有防止血压升高和血栓形成的作用。因此，适量饮用黄酒，对心脏有保护作用。
+        7.理想的药引子
+        相比于白酒、啤酒，黄酒酒精度适中，是较为理想的药引子。而白酒虽对中药溶解效果较好，但饮用时刺激较大，不善饮酒者易出现腹泻、瘙痒等现象。啤酒则酒精度太低，不利于中药有效成分的溶出。此外，黄酒还是中药膏、丹、丸、散的重要辅助原料。中药处方中常用黄酒浸泡、烧煮、蒸炙中草药或调制药丸及各种药酒，据统计有70多种药酒需用黄酒作酒基配制。
+    </effect>
+
+    <nutrition>
+        黄酒香气浓郁，甘甜味美，风味醇厚，并含有氨基酸、糖、醋、有机酸和多种维生素等。
+    </nutrition>
+
+    <cuisine>
+        1.黄酒作佐料，在烹制荤菜时，特别是羊肉、鲜鱼时加入少许，不仅可以去腥膻还能增加鲜美的风味。
+        2.烹调时酌量使用，直接饮用以30毫升左右为宜，每次最多不超过200毫升。
+        3.秋季吃蟹搭配饮黄酒，冬季热饮黄酒暖身暖胃。
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201508/121849387256.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

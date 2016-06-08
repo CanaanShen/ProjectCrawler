@@ -1,0 +1,182 @@
+<content>
+
+    <id>
+        370
+    </id>
+
+    <foodname>
+        板栗
+    </foodname>
+
+    <firstcategory>
+        果品类
+    </firstcategory>
+
+    <secondcategory>
+        干果
+    </secondcategory>
+
+    <alias>
+        栗子、毛栗
+    </alias>
+
+    <unsuit>
+        脾胃虚寒、消化不良者忌食；糖尿病人忌食。
+    </unsuit>
+
+    <suit>
+        一般人群均可食用。适宜老人肾虚者食用，对中老年人腰酸腰痛，腿脚无力，小便频多者尤宜；适宜老年气管炎咳喘，内寒泄泻者食用。
+    </suit>
+
+    <ingredient>
+        <element>
+            <elename>
+                热量（大卡）
+            </elename>
+            <elevalue>
+                212
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                蛋白质（克）
+            </elename>
+            <elevalue>
+                4.8
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                脂肪（克）
+            </elename>
+            <elevalue>
+                1.5
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                碳水化合物（克）
+            </elename>
+            <elevalue>
+                42.2
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                膳食纤维（克）
+            </elename>
+            <elevalue>
+                1.2
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                维生素A（微克）
+            </elename>
+            <elevalue>
+                40
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                胡萝卜素（微克）
+            </elename>
+            <elevalue>
+                240
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                维生素B1（毫克）
+            </elename>
+            <elevalue>
+                0.19
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                维生素B2（毫克）
+            </elename>
+            <elevalue>
+                0.13
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                烟酸（毫克）
+            </elename>
+            <elevalue>
+                1.2
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                维生素C（毫克）
+            </elename>
+            <elevalue>
+                36
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                钙（毫克）
+            </elename>
+            <elevalue>
+                15
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                磷（毫克）
+            </elename>
+            <elevalue>
+                91
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                铁（毫克）
+            </elename>
+            <elevalue>
+                1.7
+            </elevalue>
+        </element>
+    </ingredient>
+
+    <introduction>
+        中国有句民谚叫：“七月杨桃八月楂，十月板栗笑哈哈”。板栗，又名栗，素有“千果之王”的美誉，与桃、杏、李、枣并称“五果”，国外称之为“健康食品”，属于健脾补肾、延年益寿的上等果品。其树名栗树，为山毛榉落叶乔木植物，是我国培育最早的果树之一，西汉司马迁在《史记》的《货殖列传》中即有“燕、秦千树栗……此其人皆与千户侯等”的明确记载。板栗树叶披针形或长圆形，叶缘有锯齿。花单性，雌雄同株；雄花为葇荑花序，成熟后总苞裂开，栗果脱落。坚果紫褐色，被黄褐色茸毛，或近光滑，果肉淡黄。果实含糖、淀粉、蛋白质、脂肪及多种维生素、矿物质。
+        美洲栗原来是美国东部的主要树种，但被一种真菌病传染几乎灭绝，欧洲和西亚的栗树种类也容易受感染，但中国和日本的栗树种类对这种真菌有抵抗力，所以现在被美国引种，培养能抗真菌的杂交树种。板栗分布于我国辽宁、北京、河北、山东、河南等地，壳斗大，球形，外生刺，坚果2-3个，生于壳斗中。著名品种有良乡板栗，产于北京郊房山良乡，果小，约5克，味甜，十月中旬成熟；迁西明栗，又名“红皮”、“红毛”，产于河北迁西、兴隆，果中大，7-9.5克，皮红褐，鲜亮，味甜，九月中旬成熟；莱阳红光栗，产于山东莱阳庄头一带，果中大，皮深褐色，有亮光，品质好，味甜面，九月上旬成熟；另有锥栗，亦称珍珠栗，分布于长江流域和江南各地，壳头内包藏一卵形的坚果，味同板栗。
+    </introduction>
+
+    <effect>
+        1.抗衰老
+        栗子中所含的丰富的不饱和脂肪酸和维生素、矿物质，能防治高血压病、冠心病、动脉硬化、骨质疏等疾病，是抗衰老、延年益寿的滋补佳品。
+        2.小儿口舌生疮
+        栗子含有核黄素，常吃栗子对日久难愈的小儿口舌生疮和成人口腔溃疡有益。
+        3.老年人的食用佳品
+        栗子含有丰富的维生素C，能够维持牙齿、骨骼、血管肌肉的正常功用，可以预防和治疗骨质疏松，腰腿酸软，筋骨疼痛、乏力等，延缓人体衰老，是老年人理想的保健果品。
+        4.益气健脾
+        栗子是碳水化合物含量较高的干果品种，能供给人体较多的热能，并能帮助脂肪代谢，具有益气健脾，厚补胃肠的作用。
+    </effect>
+
+    <nutrition>
+        1.栗子中所含的丰富的不饱和脂肪酸和维生素、矿物质，能防治高血压病、冠心病、动脉硬化、骨质疏等疾病，是抗衰老、延年益寿的滋补佳品，素有“干果之王”的美称，与枣、柿子并称为“铁杆庄稼”、“木本粮食”；
+        2.栗子含有核黄素，常吃栗子对日久难愈的小儿口舌生疮和成人口腔溃疡有益；
+        3.栗子是碳水化合物含量较高的干果品种，能供给人体较多的热能，并能帮助脂肪代谢，具有益气健脾，厚补胃肠的作用；
+        4.栗子含有丰富的维生素C，能够维持牙齿、骨骼、血管肌肉的正常功用，可以预防和治疗骨质疏松，腰腿酸软，筋骨疼痛、乏力等，延缓人体衰老，是老年人理想的保健果品。
+    </nutrition>
+
+    <cuisine>
+        1.由于南北方的栗子各有特点，吃法也不尽相同：北方人将栗子放入粗砂与糖稀中炒制成糖炒栗子，南方人则多用栗子做菜煮汤。栗子的用法很多，可用来加水熬汤食用，用于病后体虚、四肢酸软；可用栗子煮粥加白糖食用，具有补肾气、壮筋骨的功效；可每日早晚食用风干栗子数颗，也可用鲜栗子煨熟食用，用于老人肾虚；跌打损伤、淤血肿痛时，可用生栗子肉碾成泥状，涂于患处。
+        2.板栗去皮方法：生栗子洗净后放入器皿中，加精盐少许，用滚沸的开水浸没，盖锅盖。5分钟后，取出栗子切开，栗皮即随栗子壳一起脱落，此法去除栗子皮省时、省力。
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201310/111443238799.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

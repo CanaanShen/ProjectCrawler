@@ -1,0 +1,95 @@
+<content>
+
+    <id>
+        66
+    </id>
+
+    <foodname>
+        松花蛋
+    </foodname>
+
+    <firstcategory>
+        蛋奶类
+    </firstcategory>
+
+    <secondcategory>
+        蛋类
+    </secondcategory>
+
+    <alias>
+        皮蛋、变蛋、灰包蛋
+    </alias>
+
+    <unsuit>
+        少儿、脾阳不足、寒湿下痢者、心血管病、肝肾疾病患者少食。
+    </unsuit>
+
+    <suit>
+        一般人群均可食用。尤适宜火旺者。
+    </suit>
+
+    <ingredient>
+        <element>
+            <elename>
+                热量（大卡）
+            </elename>
+            <elevalue>
+                200
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                蛋白质（克）
+            </elename>
+            <elevalue>
+                2
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                脂肪（克）
+            </elename>
+            <elevalue>
+                10
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                碳水化合物（克）
+            </elename>
+            <elevalue>
+                10
+            </elevalue>
+        </element>
+    </ingredient>
+
+    <introduction>
+        松花蛋也叫皮蛋，是以鸭蛋为原料，利用蛋在碱性溶液中，能使蛋白质凝胶的特性，使之变成富有弹性的固体，腌制加工而成的食品，因为腌制过程中特有的真菌群会在内部表面形成类似松花一样的花纹得名。但是，皮蛋制作如果配方控制不良，会使蛋白质在碱性溶液中反而发生水解，蛋白质变性呈为蛋白，就不能食用。如果蛋壳有裂痕或配方控制不佳，也会让蛋内之硫化氢外溢，变成金黄色。正常的皮蛋是为墨绿色且有松花及富弹性。
+        皮蛋之所以有特殊风味，是因为经过强碱作用后，原本具有的含硫胺基酸被分解产生硫化氢及氨，再加上浸渍液中配料的气味，就产生特有的味道了。而皮蛋的颜色则是因蛋白质在强碱作用下，蛋白部分会呈现红褐或黑褐色，蛋黄则呈现墨绿或澄红色。
+    </introduction>
+
+    <effect>
+        味辛、涩、甘、咸，能泻热、醒酒、去大肠火，治泻痢，能散能敛。
+    </effect>
+
+    <nutrition>
+        松花蛋较鸭蛋含更多矿物质，脂肪和总热量却稍有下降，它能刺激消化器官，增进食欲，促进营养的消化吸收，中和胃酸，清凉，降压。具有润肺、养阴止血、凉肠、止泻、降压之功效。此外，松花蛋还有保护血管的作用。同时还有提高智商，保护大脑的功能。
+    </nutrition>
+
+    <cuisine>
+        1.直接沾佐料吃，如酱油、酱油膏、辣椒酱等。
+        2.直接拌姜片或啤酒食用。
+        3.制成各种料理，如皮蛋豆腐、糖醋皮蛋、三色蛋、皮蛋瘦肉粥、翡翠皮蛋羹等。
+        松花蛋最好蒸煮后食用。在食用松花蛋时，加点点陈醋，醋能杀菌，又能中和松花蛋的一部分碱性，吃起来也更有味。
+        但皮蛋这种食物少吃无妨，多吃却对身体有不良影响。因为皮蛋是透过混合纯碱、石灰、盐和氧化铅，将鸭蛋包裹而腌制的，当中含有铅，所以如果经常食用，有机会引起铅中毒。 这会导致失眠、不能集中注意力、贫血、关节痛、思维缓慢、脑功能受影响等症状。此外，铅更会取代钙质，影响钙的摄取，可能造成缺钙。
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201310/081827521359.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

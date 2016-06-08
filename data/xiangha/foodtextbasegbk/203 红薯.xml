@@ -1,0 +1,149 @@
+<content>
+
+    <id>
+        203
+    </id>
+
+    <foodname>
+        红薯
+    </foodname>
+
+    <firstcategory>
+        蔬菜
+    </firstcategory>
+
+    <secondcategory>
+        根茎类
+    </secondcategory>
+
+    <alias>
+        山芋、红芋、番薯、甘薯、白薯、白芋、地瓜、红苕
+    </alias>
+
+    <unsuit>
+        湿阻脾胃、气滞食积者应慎食。
+    </unsuit>
+
+    <suit>
+        一般人群都可食用。适宜糖尿病患者。
+    </suit>
+
+    <ingredient>
+        <element>
+            <elename>
+                热量（大卡）
+            </elename>
+            <elevalue>
+                119
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                钙（毫克）
+            </elename>
+            <elevalue>
+                23
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                磷（毫克）
+            </elename>
+            <elevalue>
+                121
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                钾（毫克）
+            </elename>
+            <elevalue>
+                97
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                钠（毫克）
+            </elename>
+            <elevalue>
+                2.4
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                铁（毫克）
+            </elename>
+            <elevalue>
+                1.1
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                锌（毫克）
+            </elename>
+            <elevalue>
+                1.45
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                硒（微克）
+            </elename>
+            <elevalue>
+                2.5
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                铜（毫克）
+            </elename>
+            <elevalue>
+                0.19
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                锰（毫克）
+            </elename>
+            <elevalue>
+                1.36
+            </elevalue>
+        </element>
+    </ingredient>
+
+    <introduction>
+        红薯，又称甘薯、番薯、山芋等，为旋花科一年生植物。不同地区人们对它的称呼也不同，河南人称其为红薯，上海人和天津人称其为山芋，山东人称其为地瓜，江苏南部称其为山芋其他地区称其为红薯而徐州地区称其为白芋，陕西人称为红芋，四川人和贵州人称其为红苕，北京人称其为白薯，江西人称其为番薯，福建人称其为红薯河北人称山药或者红山药。同一地区不同区域人们对它的称呼也不尽相同，比如山东大部分地区虽称其为地瓜，但鲁南枣庄、济宁附近的当地人又习惯把它叫作“芋头”，而真正的芋头则被叫作“毛芋头”。
+        红薯原产美洲，欧洲第一批红薯是由哥伦布于1492年带回，然后经葡萄牙人传入非洲，并由太平洋群岛传入亚洲。红薯最初引入中国是在明朝万历年间，当时福建华侨陈振龙常到吕宋（现今菲律宾）经商，发现吕宋出产的红薯产量最高，于是他就耐心地向当地农民学习种植之法。后来经过陈氏家族的推广，红薯在全国普遍栽种。
+    </introduction>
+
+    <effect>
+        1.抗癌
+        有效地抑制结肠癌和乳腺癌的发生。
+        2.通便减肥
+        吃红薯能有效地阻止糖类变为脂肪，有利于减肥、健美。红薯含有大量膳食纤维，在肠道内无法被消化吸收，能刺激肠道，增强蠕动，通便排毒，尤其对老年性便秘有较好的疗效。
+        3.提高免疫力
+        红薯叶有提高免疫力、止血、降糖、解毒、防治夜盲症等保健功能。
+        4.抗衰老
+        抑制黑色素的产生，防止雀斑和老人斑的出现。红著还能抑制肌肤老化，保持肌肤弹性，减缓机体的衰老进程。
+    </effect>
+
+    <nutrition>
+        1.红薯含有膳食纤维、胡萝卜素、维生素A、维生素B、维生素C、维生素E以及钾、铁、铜、硒、钙、等10余种微量元素。营养价值很高，被营养学家们称为营养最均衡的保健食品。
+        2.里面β-胡萝卜素、维生素E和维生素C尤多。特别是红薯含有丰富的赖氨酸，而大米、面粉恰恰缺乏赖氨酸。红薯与米面混吃，可以得到更为全面的蛋白质补充。就总体营养而言，红薯可谓是粮食和蔬菜中的佼佼者。欧美人赞它是「第二面包」，前苏联科学家说它是未来的「宇航食品」，法国人称它是当之无愧的「高级保健食品」。
+        3.每100克鲜红薯仅含0．2克脂肪，产生99千卡热量，大概为大米1／3，是很好的低脂肪、低热能食品。
+        4.红薯中含有一种类似雌性激素的物质，对保护人体皮肤，延缓衰老有一定的作用。
+    </nutrition>
+
+    <cuisine>
+        红薯虽好，但所含淀粉粒较大，不经高温破坏难以消化，而且它的气化酶，容易刺激胃液分泌，产生二氧化碳，就会引起腹胀打嗝、吐酸水。可将切成块状的红薯放在盐水里浸泡l0分钟，再蒸煮就可以了。所以，红薯一定要蒸熟煮透再吃。
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201508/071032232830.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

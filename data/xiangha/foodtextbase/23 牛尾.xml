@@ -1,0 +1,81 @@
+<content>
+
+    <id>
+        23
+    </id>
+
+    <foodname>
+        牛尾
+    </foodname>
+
+    <firstcategory>
+        肉类
+    </firstcategory>
+
+    <secondcategory>
+        牛肉
+    </secondcategory>
+
+    <alias>
+    </alias>
+
+    <unsuit>
+        消化系统疾病患者慎食。
+    </unsuit>
+
+    <suit>
+        一般人群均可食用。
+    </suit>
+
+    <ingredient>
+        <element>
+            <elename>
+                热量（大卡）
+            </elename>
+            <elevalue>
+                147
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                蛋白质（克）
+            </elename>
+            <elevalue>
+                17.43
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                脂肪（克）
+            </elename>
+            <elevalue>
+                8.06
+            </elevalue>
+        </element>
+    </ingredient>
+
+    <introduction>
+        牛尾为黄牛或水牛的尾巴，是一种独具特色的畜肉烹调原料之一。牛尾的一端粗如拳头，另一端却如食指般细，边上的肉也由厚到薄，牛尾外面有一层筋膜，肉里布满毛细血管般的脂肪和筋质，而这些脂肪和筋质却能调节干柴的牛尾瘦肉，使之更加松软和滑嫩。牛尾是牛身上活动最频繁的部位，因而其肉的味道最为鲜美。牛尾营养价值很高，富含胶质，风味十足，美味又滋养。牛尾补骨汤能补气补钙、强壮筋骨。牛尾汤在西餐厅的菜谱上经常会见到以牛尾为主的经典菜肴：牛尾浓汤、红酒烩牛尾等。
+    </introduction>
+
+    <effect>
+        牛尾性味甘平，富含胶质、多筋骨少膏脂，风味十足，能益血气、补精髓、强体魄、滋容颜。现代营养学因其低脂肪高蛋白，富含多种营养物质，而视其为健康营养食品。
+    </effect>
+
+    <nutrition>
+        牛尾含有蛋白质、脂肪、维生素等成分。
+    </nutrition>
+
+    <cuisine>
+        宜炖食。牛尾熬的时间长，胶原就出来了，汤就稠了。
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201310/081422308377.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

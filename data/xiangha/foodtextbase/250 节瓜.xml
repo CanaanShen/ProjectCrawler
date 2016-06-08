@@ -1,0 +1,59 @@
+<content>
+
+    <id>
+        250
+    </id>
+
+    <foodname>
+        节瓜
+    </foodname>
+
+    <firstcategory>
+        蔬菜
+    </firstcategory>
+
+    <secondcategory>
+        瓜果类
+    </secondcategory>
+
+    <alias>
+        毛瓜
+    </alias>
+
+    <unsuit>
+    </unsuit>
+
+    <suit>
+        一般人群均可食用。尤适宜肾脏病、浮肿病、糖尿病患者。
+    </suit>
+
+    <ingredient>
+
+    </ingredient>
+
+    <introduction>
+        节瓜，属葫芦科一年生攀援草本植物，是冬瓜的一个变种。节瓜原产我国南部，是我国的特产蔬菜之一，在岭南各地栽培历史悠久，栽培面积较大。在海南，节瓜栽培也有多年历史。节瓜根系较强大，但比冬瓜弱。茎蔓生，五棱。茎节腋芽容易发生侧蔓，故分枝力强。
+        节瓜的老瓜、嫩瓜均可食用，是一种营养丰富，口感鲜美，炒食做汤皆宜的瓜类。嫩瓜肉质柔滑、清淡，烹调以嫩瓜为佳。在香港，花瓣新鲜未干的嫩节瓜，更被视为高档蔬菜看待。 老瓜耐贮运，可调节市场供应。嫩瓜肉质柔滑、清淡。老瓜和嫩瓜均可供炒、煮食或作汤用，但以嫩瓜为佳。它还具有清热、清暑、解毒、利尿、消肿等功效，是炎热夏季的理想蔬菜。
+    </introduction>
+
+    <effect>
+        节瓜味甘，性平，能生津，止渴，解暑湿，健脾胃，通利大小便；对肾脏病、浮肿病、糖尿病的治疗也有一定的辅助作用。
+    </effect>
+
+    <nutrition>
+        节瓜含有碳水化合物、蛋白质、维他命A、维他命B1、维他命B2、维他命C、核黄素、果糖、胡萝卜素以及磷质、钙质和铁质等矿物质，营养丰富。中医亦认为节瓜不寒不热，相较于冬瓜的寒凉，很具“正气”。
+    </nutrition>
+
+    <cuisine>
+
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201403/271429475814.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

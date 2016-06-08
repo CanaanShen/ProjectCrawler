@@ -1,0 +1,114 @@
+<content>
+
+    <id>
+        530
+    </id>
+
+    <foodname>
+        麦芽糖
+    </foodname>
+
+    <firstcategory>
+        休闲食品
+    </firstcategory>
+
+    <secondcategory>
+        食品
+    </secondcategory>
+
+    <alias>
+        饴糖、糖稀、胶饴
+    </alias>
+
+    <unsuit>
+        湿热内郁、中满吐逆、糖尿病患者忌食。
+    </unsuit>
+
+    <suit>
+        一般人群均可食用。
+    </suit>
+
+    <ingredient>
+        <element>
+            <elename>
+                热量（大卡）
+            </elename>
+            <elevalue>
+                331
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                蛋白质（克）
+            </elename>
+            <elevalue>
+                0.2
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                脂肪（克）
+            </elename>
+            <elevalue>
+                0.2
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                碳水化合物（克）
+            </elename>
+            <elevalue>
+                82
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                维生素B1（毫克）
+            </elename>
+            <elevalue>
+                0.1
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                维生素B2（毫克）
+            </elename>
+            <elevalue>
+                0.17
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                烟酸（毫克）
+            </elename>
+            <elevalue>
+                2.1
+            </elevalue>
+        </element>
+    </ingredient>
+
+    <introduction>
+        麦芽糖是米、大麦、粟或玉蜀黍等粮食经发酵制成的糖类食品。甜味不大，能增加菜肴品种的色泽和香味。全国各地均产。有软硬两种，软者为黄褐色浓稠液体，粘性很大，称胶饴；硬者系软糖经搅拌，混入空气后凝固而成，为多孔之黄白色糖饼，称白饴糖。药用以胶饴为佳。麦芽糖属双糖类，白色针状结晶，易溶于水。味甜但不及蔗糖，有健脾胃、润肺止咳的功效。
+    </introduction>
+
+    <effect>
+        麦芽糖有着食用价值之余，亦有其食疗功效，它性温味甘，与水溶解后会化作葡萄糖，作为医学上的营养料，可用作养颜、补脾益气、润肺止咳、缓急止痛、滋润内脏、开胃除烦、通便秘等，主治脾胃虚弱、气短乏力、纳食减少、虚寒腹痛、肺燥咳嗽、干咳少痰、咽痛。
+    </effect>
+
+    <nutrition>
+
+    </nutrition>
+
+    <cuisine>
+        溶化饮，入汤药，噙咽，或入糖果等。饴糖主要用于加工焦糖酱色及糖果、果汁饮料，造酒、罐头、豆酱、酱油，药用等方面。药用以秋饴糖为佳。
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201508/121848404743.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

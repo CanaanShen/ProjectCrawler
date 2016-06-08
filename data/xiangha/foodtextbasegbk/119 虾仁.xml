@@ -1,0 +1,98 @@
+<content>
+
+    <id>
+        119
+    </id>
+
+    <foodname>
+        虾仁
+    </foodname>
+
+    <firstcategory>
+        水产
+    </firstcategory>
+
+    <secondcategory>
+        虾
+    </secondcategory>
+
+    <alias>
+    </alias>
+
+    <unsuit>
+        宿疾者、正值上火之时、大量服用维生素C者，患过敏性鼻炎、支气管炎、反复发作性过敏性皮炎的老年人，患有皮肤疥癣者忌食。
+    </unsuit>
+
+    <suit>
+        一般人群均可食用。尤适宜中老年人、孕妇、心血管病患者、肾虚阳痿、男性不育症、腰脚无力之人。
+    </suit>
+
+    <ingredient>
+        <element>
+            <elename>
+                热量（大卡）
+            </elename>
+            <elevalue>
+                48
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                蛋白质（克）
+            </elename>
+            <elevalue>
+                10.4
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                脂肪（克）
+            </elename>
+            <elevalue>
+                0.7
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                维生素B6（毫克）
+            </elename>
+            <elevalue>
+                0.01
+            </elevalue>
+        </element>
+    </ingredient>
+
+    <introduction>
+        虾仁，选用活虾为原料，用清水洗净虾体，去掉虾头、虾尾和虾壳。剥壳后的纯虾肉即为虾仁。虾仁菜肴因为清淡爽口，易于消化，老幼皆宜，而深受食客欢迎。
+    </introduction>
+
+    <effect>
+        1.病后调养
+        虾仁对身体虚弱以及病后需要调养的人是极好的食物。
+        2.保护心血管
+        能很好的保护心血管系统，它可减少血液中胆固醇含量，防止动脉硬化，同时还能扩张冠状动脉，有利于预防高血压及心肌梗死。
+        3.通乳汁
+        虾仁的通乳作用较强，并且富含磷、钙、对小儿、孕妇尤有补益功效。
+        4.消除"时差症"
+        虾仁体内很重要的一种物质就是虾青素，就是表面红颜色的成分，虾青素是目前发现的最强的一种抗氧化剂，颜色越深说明虾青素含量越高。广泛用在化妆品、食品添加、以及药品。日本大阪大学的科学家最近发现，虾体内的虾青素有助于消除因时差反应而产生的“时差症”。
+    </effect>
+
+    <nutrition>
+        1.虾中含有20%的蛋白质，是蛋白质含量很高的食品之一，是鱼、蛋、奶的几倍甚至十几倍，虾和鱼肉相比，所含的人体必需氨基酸缬氨酸并不高，但却是营养均衡的蛋白质来源，另外，虾类含有甘氨酸，这种氨基酸的含量越高，虾的甜味就越高。
+        2.虾和鱼肉禽肉相比，脂肪含量少，并且几乎不含作为能量来源的动物糖质，虾中的胆固醇含量较高，同时含有丰富的能降低人体血清胆固醇的牛磺酸，虾含有丰富的钾、碘、镁、磷等微量元素和维生素A等成分。
+    </nutrition>
+
+    <cuisine>
+        1.在烹制虾仁之前，先把料酒、葱、姜与虾仁一起浸泡。
+        2.在用滚水汤煮虾仁时，在水中放一根肉桂棒，既可以去虾仁腥味，又不影响虾仁的鲜味。
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201310/10103136777.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

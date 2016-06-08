@@ -1,0 +1,59 @@
+<content>
+
+    <id>
+        53
+    </id>
+
+    <foodname>
+        熏肉
+    </foodname>
+
+    <firstcategory>
+        肉类
+    </firstcategory>
+
+    <secondcategory>
+        肉制品
+    </secondcategory>
+
+    <alias>
+    </alias>
+
+    <unsuit>
+    </unsuit>
+
+    <suit>
+        一般人群均可食用。
+    </suit>
+
+    <ingredient>
+
+    </ingredient>
+
+    <introduction>
+        熏肉，是用木炭和木屑熏制的肉，因为去除了肉内水分与浮流油脂，虽然维生素会有些损失，但是蛋白质含量与矿物质比鲜肉中含量大，营养价值仍然高。熏肉的品种有熏五花肉、熏猪头、熏猪蹄、熏排骨、熏下水等10多种。
+        熏肉的做法是，将肉按一定的规格划成块，撒上盐，搭在木架上用松柴烟熏干，这样就可保存较长时间。还有一种制法是将羊的内脏掏空，烧掉毛，皮连肉一起剁成块，撒上盐，熏干，可以保存到次年的6-7月份。另将牛、羊瘦肉撒上盐灌进肠衣内，两头扎紧，晾干，称腊肠。马肠和腊肠脂肪丰富，熏烤熟后，味道香美，并能保存根长时间。
+        很多人说熏肉含有致癌物质，但这种物质并不是腌制熏肉所用的亚硝酸盐，而是腌制不彻底而导致亚硝酸与肉反应产生的亚酰胺，或是在熏制时烟中有害物质未除去附在肉表面上的焦炭与焦油。那些看上去颜色淡而干净的熏肉，美味而安全。
+    </introduction>
+
+    <effect>
+
+    </effect>
+
+    <nutrition>
+
+    </nutrition>
+
+    <cuisine>
+
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201310/081716461090.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

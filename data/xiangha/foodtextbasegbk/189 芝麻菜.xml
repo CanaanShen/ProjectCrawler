@@ -1,0 +1,91 @@
+<content>
+
+    <id>
+        189
+    </id>
+
+    <foodname>
+        芝麻菜
+    </foodname>
+
+    <firstcategory>
+        蔬菜
+    </firstcategory>
+
+    <secondcategory>
+        茎叶花类
+    </secondcategory>
+
+    <alias>
+        紫花南芥、芸芥、德国芥菜、火箭生菜
+    </alias>
+
+    <unsuit>
+    </unsuit>
+
+    <suit>
+    </suit>
+
+    <ingredient>
+        <element>
+            <elename>
+                热量（大卡）
+            </elename>
+            <elevalue>
+                25
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                蛋白质（克）
+            </elename>
+            <elevalue>
+                2.58
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                脂肪（克）
+            </elename>
+            <elevalue>
+                0.66
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                碳水化合物（克）
+            </elename>
+            <elevalue>
+                3.65
+            </elevalue>
+        </element>
+    </ingredient>
+
+    <introduction>
+        芝麻菜，为十字花科芝麻菜属一年生植物，植株具有很浓的芝麻香味，故名芝麻菜。原生地于东亚与地中海，属十字花科，芝麻属。幼苗或嫩叶部分供食用，具有很浓的芝麻香味，口感滑嫩，可炒食、上汤或凉拌。
+    </introduction>
+
+    <effect>
+        1.在药膳中芝麻菜是一种上佳的防病治病蔬菜，经常食用有较强的防癌症攻效，可促进细胞活性。
+        2.有降肺气、利肺水等功能，对久咳有特效。芝麻菜可治疗尿频。芝麻菜中药称之为"金堂葶苈"。
+        3.芝麻菜的种子药用还有催吐、健胃、利尿、消炎等作用。
+        4.能治疗肝、肾虚、头眩、病后脱发、津枯血燥、大便秘结、润燥滑肠功能等。
+    </effect>
+
+    <nutrition>
+        含草酸、酒石酸、苹果酸、丙酮酸、对氨基苯磺酸、精氨酸、天冬氨酸、脯氨酸、蛋氨酸、亮氨酸、谷氨酸、甘氨酸、丙氨酸、胱氨酸、半脱氨酸、蔗糖、山梨糖、乳糖、葡萄糖胺、山梨糖醇、甘露醇、侧金盏花醇以及钾、钙、钠、铁、氯、磷、锰等。
+    </nutrition>
+
+    <cuisine>
+
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201508/061856311148.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

@@ -1,0 +1,198 @@
+<content>
+
+    <id>
+        270
+    </id>
+
+    <foodname>
+        松蘑
+    </foodname>
+
+    <firstcategory>
+        蔬菜
+    </firstcategory>
+
+    <secondcategory>
+        菌菇类
+    </secondcategory>
+
+    <alias>
+        松菇、松蕈、鸡丝菌、松口蘑
+    </alias>
+
+    <unsuit>
+    </unsuit>
+
+    <suit>
+        一般人群均可食用。尤适宜糖尿病患者、电脑工作者、妇女、癌症患者。
+    </suit>
+
+    <ingredient>
+        <element>
+            <elename>
+                热量（大卡）
+            </elename>
+            <elevalue>
+                112
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                蛋白质（克）
+            </elename>
+            <elevalue>
+                20.3
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                脂肪（克）
+            </elename>
+            <elevalue>
+                3.2
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                碳水化合物（克）
+            </elename>
+            <elevalue>
+                48.2
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                膳食纤维（克）
+            </elename>
+            <elevalue>
+                47.8
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                维生素B1（毫克）
+            </elename>
+            <elevalue>
+                0.01
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                维生素B2（毫克）
+            </elename>
+            <elevalue>
+                1.48
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                维生素E（毫克）
+            </elename>
+            <elevalue>
+                3.09
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                钙（毫克）
+            </elename>
+            <elevalue>
+                14
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                磷（毫克）
+            </elename>
+            <elevalue>
+                50
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                钾（毫克）
+            </elename>
+            <elevalue>
+                93
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                钠（毫克）
+            </elename>
+            <elevalue>
+                4.3
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                铁（毫克）
+            </elename>
+            <elevalue>
+                86
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                锌（毫克）
+            </elename>
+            <elevalue>
+                6.22
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                硒（微克）
+            </elename>
+            <elevalue>
+                98.44
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                铜（毫克）
+            </elename>
+            <elevalue>
+                10.3
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                锰（毫克）
+            </elename>
+            <elevalue>
+                1.63
+            </elevalue>
+        </element>
+    </ingredient>
+
+    <introduction>
+        松蘑，属真菌类担子菌纲伞菌目伞菌科，是名贵食用菌之一，享有盛名，被视为“食用菌之王”。松蘑的菌肉为白色，质细嫩，菌香郁浓，口感滑嫩，是宴会上稀有佳肴。松茸菌营养丰富，还具有较高的药用价值。只能从野外采得，市面售有罐头及新鲜松茸。
+        生长松茸的地方需要具备三个基本条件，即美人松、大理香花、沙壤土，采集较困难，产地老百姓夜间打手电上山，采下后应用冰袋降温，一般只可保鲜三天，所以弥足珍贵。
+        南北方产的松茸因为生长期限和气候条件不同，在品质上有较大的区别，北方松茸颜色发白，质地硬实，香气更浓郁，口感好，营养成分高，易保管。南方松茸颜色稍发黑，水分大潮湿，易腐烂变质，香味不浓，价格较低。
+    </introduction>
+
+    <effect>
+        松蘑，味甘，性温，散寒止痛；消食。主大骨节病；消化不良。
+        松蘑中含有铬和多元醇， 松蘑内的抗氧化矿物质还可以抗肉瘤，中医认为，松蘑具有强身健体、益肠健胃、止痛理气、化痰、止痛、驱虫、抗癌和治疗糖尿病的功效。常吃松蘑可增强机体免疫力，防止过早衰老等功效。松蘑中含有相当量的维生素E，经常食用松蘑，有美颜健肤的功效。
+    </effect>
+
+    <nutrition>
+        1.松蘑中含有铬和多元醇，松蘑内的抗氧化矿物质还可以抗肉瘤，因此，它在健胃、防病、抗癌、治糖尿病方面有辅助治疗作用，还有防止过早衰老的功效；
+        2.松蘑有很好的抗核辐射作用。据俄罗斯研究发现，松蘑能在遭受过核污染的地区很好地生长，而其他生物的生存则不那么乐观；
+        3.松蘑中含有相当量的维生素E，经常食用松蘑，有美颜健肤的功效。
+    </nutrition>
+
+    <cuisine>
+
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201403/271209209975.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

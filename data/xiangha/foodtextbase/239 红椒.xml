@@ -1,0 +1,71 @@
+<content>
+
+    <id>
+        239
+    </id>
+
+    <foodname>
+        红椒
+    </foodname>
+
+    <firstcategory>
+        蔬菜
+    </firstcategory>
+
+    <secondcategory>
+        瓜果类
+    </secondcategory>
+
+    <alias>
+        甜椒、番椒
+    </alias>
+
+    <unsuit>
+        肝火旺盛者不宜多食。
+    </unsuit>
+
+    <suit>
+        一般人群均可食用。
+    </suit>
+
+    <ingredient>
+        <element>
+            <elename>
+                热量（大卡）
+            </elename>
+            <elevalue>
+                19
+            </elevalue>
+        </element>
+    </ingredient>
+
+    <introduction>
+        为茄科植物番椒的果实，一年生或多年生草本。茎直立，多分枝。单叶互生，叶片广卵形，先端渐尖，叶柄较长。花单生于叶腋内，花冠黄色或绿色。果实球形，外具瓣状突起，有红色、绿色和黄色三种。种子扁圆形，淡黄色。花期夏季。原产于中南美洲。16世纪由墨西哥传入欧洲后，广布于法国、西班牙、意大利和匈牙利。我国各地均有栽培。
+    </introduction>
+
+    <effect>
+        1.预防心血管疾病
+        可改善黑斑及雀斑，还有消暑、补血、消除疲劳、预防感冒和促进血液循环等功效，能够使血液中的良好胆固醇增加，使血管强健，使血液循环转為良好，改善动脉硬化以及各种的心血管疾病。
+        2.促进新陈代谢
+        其中的椒类碱能够促进脂肪的新陈代谢，防止体内脂肪积存，从而减肥防病。
+        3.抗老化
+        红甜椒所具有的强大抗氧化作用，可抗白内障、心脏病和癌症，防止身体老化，并且使体内的细胞活化，有著非常明显的效果。
+    </effect>
+
+    <nutrition>
+        味甘，性温。果皮部分含有多种矿物质及维生素C、蛋白质、食用纤维等，种子则含有辣椒碱。
+    </nutrition>
+
+    <cuisine>
+
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201310/101339026860.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

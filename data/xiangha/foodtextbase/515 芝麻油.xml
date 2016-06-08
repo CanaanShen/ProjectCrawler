@@ -1,0 +1,167 @@
+<content>
+
+    <id>
+        515
+    </id>
+
+    <foodname>
+        芝麻油
+    </foodname>
+
+    <firstcategory>
+        调味品
+    </firstcategory>
+
+    <secondcategory>
+        调味料
+    </secondcategory>
+
+    <alias>
+        香油、麻油
+    </alias>
+
+    <unsuit>
+        患有菌痢、急性胃肠炎、腹泻等病症者忌多食。
+    </unsuit>
+
+    <suit>
+        一般人群均可食用。
+    </suit>
+
+    <ingredient>
+        <element>
+            <elename>
+                热量（大卡）
+            </elename>
+            <elevalue>
+                898
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                碳水化合物（克）
+            </elename>
+            <elevalue>
+                0.2
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                维生素E（毫克）
+            </elename>
+            <elevalue>
+                68.53
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                钙（毫克）
+            </elename>
+            <elevalue>
+                9
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                磷（毫克）
+            </elename>
+            <elevalue>
+                4
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                钠（毫克）
+            </elename>
+            <elevalue>
+                1.1
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                镁（毫克）
+            </elename>
+            <elevalue>
+                3
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                铁（毫克）
+            </elename>
+            <elevalue>
+                2.2
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                锌（毫克）
+            </elename>
+            <elevalue>
+                0.17
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                铜（毫克）
+            </elename>
+            <elevalue>
+                0.05
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                锰（毫克）
+            </elename>
+            <elevalue>
+                0.76
+            </elevalue>
+        </element>
+    </ingredient>
+
+    <introduction>
+        芝麻油简称麻油，俗称香油，是以芝麻为原料加工制取的食用植物油，属半干性油，是消费者喜爱的调味品。芝麻油分为普通芝麻油、机榨芝麻油和小磨香油三种工艺。
+        小磨香油
+        简称小磨油，又称小磨香麻油。它以芝麻为原料，用水代法加工制取，具有浓郁的独特香味，是良好的调味油。用水代法加工制取小磨香油在我国已有四百多年历史。小磨香油主要用作佐餐调味，也是一些传统特色食品糕点的主要辅料。按国家标准，分为一级小磨香油和二级小磨香油。产品除国内销售外，每年还有一定数量销往港澳地区和东南亚各国。
+        机制香油
+        又称香麻油、麻油。它以芝麻为原料，通过特定的工艺，用机榨制取，具有显著的芝麻油香味，用途与小磨香油相同。按国家标准，分为一级机制香油和二级机制香油。
+        普通芝麻油
+        俗称大槽麻油。它以芝麻为原料，是用一般压榨法、浸出法或其它方法制取的芝麻油的统称。由于加工方法不同，普通芝麻油的香味清淡，不如小磨香油、机制香油浓郁或显著。一般用作烹调油，也可作为调味油和制做糕点、糖果、食品的主要辅料，按国家标准，分为一级普通芝麻油和二级普通芝麻油。
+    </introduction>
+
+    <effect>
+        1.降压
+        我国以及美国、日本、印度的研究显示，长期食用香油可明显降低高血压的发病率，还会减少高血压患者为降低血压所必须服用的药物数量。
+        2.防治动脉硬化
+        香油中富含有益健康，特别是有益心脏和血管健康的不饱和脂肪酸这些不饱和脂肪酸极易被人体分解吸收和利用，促进胆固醇的代谢，清除动脉血管壁上的沉积物，从而起到软化血管、防治动肪硬化的作用。
+        3.防衰美容
+        《本草纲目》中提到：“长食麻油，可消痹心怡，增强食欲，提神明目而防衰。”这其中就说出了香油的防衰美容的功能。随着人们对香油的逐渐了解和对其功能的深度开发，香油的美容功能已成为美容方面的一个的亮点，香油已经越来越受爱美人士的垂青。
+        4.润肠通便
+        香油大量的油脂，还有很好的润肠通便作用，对便秘有一定的预防作用和疗效。习惯性便秘患者，早晚空腹喝一口香油，能润肠通便。
+        5.减轻烟酒毒害
+        有抽烟习惯和嗜酒的人经常喝点香油，可以减轻烟对牙齿、牙龈、口腔黏膜的直接刺激和损伤，以及肺部烟斑的形成，同时对尼古丁的吸收也有相对的抑制作用。饮酒之前喝点香油，则对口腔、食道、胃贲门和胃黏膜起到一定的保护作用。
+        6.保护嗓子
+        常喝香油能增强声带弹性，使声门张合灵活有力，对声音嘶哑、慢性咽喉炎有良好的恢复作用。
+        7.治疗鼻炎
+        慢性鼻炎患者，用消毒棉球蘸取香油涂于鼻腔患处，可缓解症状。
+        8.辅助治疗气管炎等
+        患有气管炎、肺气肿的人，在晚上临睡前喝口香油能显著减轻咳嗽。
+    </effect>
+
+    <nutrition>
+        无论是机榨芝麻油还是小磨香油，其脂肪酸大体含油酸35.0-49.4%，亚油酸37.7-48.4%，花生酸0.4-1.2%。芝麻油的消化吸收率达98%。芝麻油中不仅不含对人体有害的成分，而且还含有特别丰富的维生素E和比较丰富的亚油酸。经常食用芝麻油可调节毛细血管的渗透作用，加强人体组织对氧的吸收能力，改善血液循环，促进性腺发育，延缓衰老保持春青。所以芝麻油是食用品质好，营养价值高的优良食用油。
+    </nutrition>
+
+    <cuisine>
+
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201210/1021242.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

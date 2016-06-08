@@ -1,0 +1,110 @@
+<content>
+
+    <id>
+        386
+    </id>
+
+    <foodname>
+        小麦面粉
+    </foodname>
+
+    <firstcategory>
+        五谷杂粮
+    </firstcategory>
+
+    <secondcategory>
+        米面制品
+    </secondcategory>
+
+    <alias>
+        小麦粉、面粉
+    </alias>
+
+    <unsuit>
+        病湿热者忌食面条。
+    </unsuit>
+
+    <suit>
+        一般人皆可食用，偏食者尤其适合食用。
+    </suit>
+
+    <ingredient>
+        <element>
+            <elename>
+                热量（大卡）
+            </elename>
+            <elevalue>
+                354
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                蛋白质（克）
+            </elename>
+            <elevalue>
+                13.3
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                脂肪（克）
+            </elename>
+            <elevalue>
+                2.2
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                碳水化合物（克）
+            </elename>
+            <elevalue>
+                73.5
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                维生素B6（毫克）
+            </elename>
+            <elevalue>
+                0.07
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                叶酸（微克）
+            </elename>
+            <elevalue>
+                4.6
+            </elevalue>
+        </element>
+    </ingredient>
+
+    <introduction>
+        小麦经磨制加工后，即成为面粉，也称小麦粉。面粉按加工精度和用途不同分为等级粉和专用粉两大类：
+        等级粉：按加工精度不同可分为特制粉、标准粉、普通粉三类；
+        专用粉：专用粉是利用特殊品种小麦磨制而成的面粉；或根据使用目的的需要，在等级粉的基础上加入食用增白剂、食用膨松剂、食用香精及其他成分，混合均匀而制成的面粉。专用粉的种类多样，配方精确，质量稳定，为提高劳动效率、制作质量较好的面制品提供了良好的原料。
+        包子、饺子、馄饨都是以面粉为皮，辅以各种馅料制成的特色食品。包子外皮松软有弹性，口味鲜美；饺子几乎含有人体所需的各种营养；馄饨皮薄爽滑。三者因馅料、烹饪方法不同，营养成分差异很大，但总的来说，三种食物的总体营养成分搭配合理，都属于“完美的金字塔食品”。但精白面粉缺乏膳食纤维等营养成分，长期食用会影响人体的胃肠功能并造成营养不良。
+    </introduction>
+
+    <effect>
+        养心益肾、健脾厚肠、除热止渴的功效。
+    </effect>
+
+    <nutrition>
+        面粉中所含营养物质主要是淀粉，其次还有蛋白质、脂肪、维生素、矿物质等。
+    </nutrition>
+
+    <cuisine>
+        小麦面粉还可以做成炒面，炒熟或者蒸熟，适合老人小孩吃。吃的时候用开水拌。
+        炒面粉放些葱花蒜苗香菜和盐，做包子馅，也很好吃。
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201310/091502127548.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

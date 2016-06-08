@@ -1,0 +1,197 @@
+<content>
+
+    <id>
+        439
+    </id>
+
+    <foodname>
+        肉桂
+    </foodname>
+
+    <firstcategory>
+        药食
+    </firstcategory>
+
+    <secondcategory>
+        药食
+    </secondcategory>
+
+    <alias>
+        牡桂、紫桂、大桂、辣桂、桂皮、玉桂、菌桂、桂、筒桂
+    </alias>
+
+    <unsuit>
+        肉桂是温热性药物，如有口渴、咽干舌燥、咽喉肿痛、鼻子出血等热性症状及各种急性炎症时，均不宜服用。患有干燥综合征、红斑狼疮、糖尿病、癌症、结核病、更年期综合征、慢性肝病、出血性疾病、大便干燥、痔疮、目赤者忌食。
+    </unsuit>
+
+    <suit>
+        适宜平素畏寒怕冷，四肢手脚发凉、胃寒冷痛、食欲不振、呕吐清水、腹部隐痛喜暖、肠鸣泄泻者食用；妇女产后腹痛、月经期间小腹发凉冷痛以及寒性闭经者；腰膝冷痛，风寒湿性关节炎者；外科阴疽流注、慢性溃疡久不收口者。
+    </suit>
+
+    <ingredient>
+        <element>
+            <elename>
+                热量（大卡）
+            </elename>
+            <elevalue>
+                199
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                蛋白质（克）
+            </elename>
+            <elevalue>
+                11.7
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                脂肪（克）
+            </elename>
+            <elevalue>
+                2.7
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                碳水化合物（克）
+            </elename>
+            <elevalue>
+                71.5
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                膳食纤维（克）
+            </elename>
+            <elevalue>
+                39.6
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                维生素B1（毫克）
+            </elename>
+            <elevalue>
+                0.01
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                维生素B2（毫克）
+            </elename>
+            <elevalue>
+                0.1
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                维生素E（毫克）
+            </elename>
+            <elevalue>
+                7.9
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                钙（毫克）
+            </elename>
+            <elevalue>
+                88
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                磷（毫克）
+            </elename>
+            <elevalue>
+                1
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                钾（毫克）
+            </elename>
+            <elevalue>
+                167
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                钠（毫克）
+            </elename>
+            <elevalue>
+                0.6
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                铁（毫克）
+            </elename>
+            <elevalue>
+                0.4
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                锌（毫克）
+            </elename>
+            <elevalue>
+                0.23
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                硒（微克）
+            </elename>
+            <elevalue>
+                0.8
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                铜（毫克）
+            </elename>
+            <elevalue>
+                0.63
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                锰（毫克）
+            </elename>
+            <elevalue>
+                10.81
+            </elevalue>
+        </element>
+    </ingredient>
+
+    <introduction>
+        肉桂为樟科植物肉桂和大叶清化桂的干皮和枝皮。肉桂常绿乔木，生于常绿阔叶林中，但多为栽培。我国福建、台湾、广东、广西、云南等地的热带及亚热带地区均有栽培，尤以广西栽培为多，大多为人工纯林；大叶清化桂，我国从1962年从越南引种，栽培于丘陵或斜坡山地，在广东、广西等地有大面积栽培。
+        多于秋分后，剥取栽培5至6年的树皮或枝皮，晒1至2天，卷成圆筒状，阴干，称油筒桂（广桂）；剥取10余年的树皮，将两端削成斜面，夹在木制的凹凸板中晒干，称企边桂；将老树干离地30厘米处，作环状剥皮，放木夹内晒至九成干，取出，纵横堆叠，加压，约1个月干燥，称板桂；桂皮加工过程中余下的边条，削去外部栓皮，称桂心；块片称桂碎。
+        1.肉桂干以两侧略内卷呈浅槽状，习称“企边桂”；干以和枝皮呈卷筒状，习称“油筒桂”，长30至50厘米，宽或筒径2至10厘米，厚2至8毫米。外表面灰棕色，略粗糙，有突起的皮孔；内表面棕红色，平滑，指甲刻划显油痕。质坚实而脆，折断面颗粒性，近外层有一条浅黄色切向线纹（石细胞环带）。香气浓烈特异，味甜、辣。以外表细致、皮厚体重、不破碎、油性大，香气浓，甜味浓而微辛、嚼之渣少者为佳。
+        2.南玉桂为植物大叶清化桂的干皮和枝皮，药材性状与肉桂相似，嚼之特别清香，化渣，一般认为质量较好。
+    </introduction>
+
+    <effect>
+        肉桂性大热，味辛、甘。主治：肾阳不足；命门火畏寒肢冷；腰膝酸软；阳痿遗精；小便不利或频数；短气喘促；浮肿尿少诸证；命门火衰；火不归源；戴阳；格阳；及上热下寒；面赤足冷；头晕耳鸣；口舌糜破；脾肾虚寒；脘腹冷痛；食减便溏；肾虚腰痛；寒湿痹痛；寒疝疼痛；宫冷不孕；痛经经闭；产后瘀滞腹痛；阴疽流注；或虚寒痈疡脓成不溃；或溃后不敛。
+    </effect>
+
+    <nutrition>
+
+    </nutrition>
+
+    <cuisine>
+        制调味香料、五香粉。日常所用的五香粉，实际上是由丁香、茴香、桂皮、花椒、干姜等原料研磨而成的粉末状调味品，因具有多种香味，故名“五香粉”。多用于卤菜中，香味浓郁，可增进食欲。
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201210/20161555.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

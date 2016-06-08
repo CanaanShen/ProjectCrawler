@@ -1,0 +1,59 @@
+<content>
+
+    <id>
+        350
+    </id>
+
+    <foodname>
+        黑橄榄
+    </foodname>
+
+    <firstcategory>
+        果品类
+    </firstcategory>
+
+    <secondcategory>
+        水果
+    </secondcategory>
+
+    <alias>
+        油橄榄、乌橄榄、乌榄、木威子、黑榄
+    </alias>
+
+    <unsuit>
+    </unsuit>
+
+    <suit>
+    </suit>
+
+    <ingredient>
+
+    </ingredient>
+
+    <introduction>
+        黑橄榄又称乌橄榄、乌榄、木威子、黑榄，常绿大乔木，高10-16m。有胶粘性芳香的树脂。树皮灰褐色，平滑；小枝褐绿色，无毛。奇数羽状复叶互生，长30-65cm；小叶15-21枚，革质，长圆形至卵状椭圆形，长5-15cm，宽3.5-7cm，先端渐尖或锐尖，基部偏斜，全缘，上面有光泽，无毛，下面平滑；网脉两面均明显。核果卵圆形至椭圆形，两端钝，成熟时紫黑色。
+        黑橄榄分布于我国南部；越南也有。常生于低海拔的山地林中。果实不堪生食，种子即“榄仁”，可榨油食用，制肥皂及润滑油；核壳可制活性炭；木材可作建筑、农具及家具等用材。
+    </introduction>
+
+    <effect>
+        黑橄榄含钙质和维生素C，营养丰富，其中维生素C的含量是苹果的10倍，梨、桃的5倍。其含钙量也很高，且易被人体吸收。作为食材，它能散发出沁人心脾的香味，点缀整盘美食如黑金异彩。
+    </effect>
+
+    <nutrition>
+        根：舒筋活络，祛风祛湿。用于风湿腰腿痛，手足麻木。
+        叶：清热解毒，消肿止痛。用于感冒，上呼吸道炎，肺炎，多发性疖肿。
+    </nutrition>
+
+    <cuisine>
+        内服：煎汤，3-10g。外用：适量，煎水洗；或捣敷；或研末撒。
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201310/111100161006.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

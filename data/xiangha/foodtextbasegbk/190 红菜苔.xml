@@ -1,0 +1,59 @@
+<content>
+
+    <id>
+        190
+    </id>
+
+    <foodname>
+        红菜苔
+    </foodname>
+
+    <firstcategory>
+        蔬菜
+    </firstcategory>
+
+    <secondcategory>
+        茎叶花类
+    </secondcategory>
+
+    <alias>
+        芸菜苔
+    </alias>
+
+    <unsuit>
+    </unsuit>
+
+    <suit>
+    </suit>
+
+    <ingredient>
+
+    </ingredient>
+
+    <introduction>
+        红菜苔，色紫红、花金黄，是武汉地区的特产。据史籍记载，红菜苔在唐代是著名的蔬菜，历来是湖北地方向皇帝进贡的土特产，曾被封为“金殿玉菜”，与武昌鱼齐名。每年早春是菜苔盛产的时期，二月份是品尝这一时令蔬菜最好的时候。
+    </introduction>
+
+    <effect>
+        味甘、辛，性平。能活血散瘀，利肠道，止血。用于妇女产后，瘀血腹痛；吐血，痢疾便血；大便秘结。
+    </effect>
+
+    <nutrition>
+        菜苔的营养价值不可小看，都说“百菜不如白菜”，这二月的菜苔富含钙、磷、铁、胡萝卜素、维生素C等多种营养成分，多种维生素比大白菜、小白菜都高。
+        西方营养学认为，红菜苔中含有大量胡萝卜素，这种胡萝卜素的分子结构相当于2个分子的维生素A，进入机体后，在肝脏及小肠粘膜内经过酶的作用，其中50%变成维生素A，有补肝明目的作用，可治疗夜盲症。
+        另外，红菜苔所含维生素C比白菜苔多，胜于小白菜中其含量的2倍，红菜苔既能帮助身体机能提高抵抗力，又可以维持人体组织及细胞结构的正常代谢与功能。尤其是孕妇，更应该多吃红菜苔，在增强母体抵抗力的同时，还能促进胎儿的生长发育。
+    </nutrition>
+
+    <cuisine>
+        购买红菜苔时要多留心农药含量。买回来的菜苔最后在盐水里浸泡半个小时以上再食用。红菜苔可清炒、醋炒，亦可麻辣炒，最有名的就是红菜苔炒腊肉。
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201508/061853486002.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

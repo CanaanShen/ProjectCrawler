@@ -1,0 +1,70 @@
+<content>
+
+    <id>
+        397
+    </id>
+
+    <foodname>
+        西米
+    </foodname>
+
+    <firstcategory>
+        五谷杂粮
+    </firstcategory>
+
+    <secondcategory>
+        五谷类
+    </secondcategory>
+
+    <alias>
+        西谷米、沙谷米、沙弧米
+    </alias>
+
+    <unsuit>
+        患有糖尿病者忌食。
+    </unsuit>
+
+    <suit>
+        一般人群均可食用。尤适宜体质虚弱、产后病后恢复期、消化不良、神疲乏力者；肺气虚、肺结核、肺痿咳嗽者。
+    </suit>
+
+    <ingredient>
+        <element>
+            <elename>
+                热量（大卡）
+            </elename>
+            <elevalue>
+                358
+            </elevalue>
+        </element>
+    </ingredient>
+
+    <introduction>
+        西米，又叫做西谷米，最为传统的是从西谷椰树的木髓部提取的淀粉，经过手工加工制成。西谷米产于南洋群岛一带，是取棕榈科植物莎木的木髓部，用普通制淀粉法，经过粉碎、筛浆过滤、反复漂洗、沉淀、干燥等过程制取的淀粉。淀粉晒至半干燥时，摇成细粒，再行晒干，即为西谷米，质净色白者名真珠西谷，白净滑糯，营养颇丰。
+    </introduction>
+
+    <effect>
+        西米有健脾，补肺，化痰的功效，有治脾胃虚弱和消化不良的作用；西米还有使皮肤恢复天然润泽的功能。
+    </effect>
+
+    <nutrition>
+
+    </nutrition>
+
+    <cuisine>
+        西米煮法：（适用于即煮即食）
+        1.先放相当于西米4-5倍的清水煮到沸点。
+        2.然后将西米倒入煮沸的开水中，要不停地搅到西米，煮约10-15分钟直到发现西米已变得透明或西米粒内层无任何乳白色圆点，则表明西米已煮熟。
+        3.若有必要，在煮的过程中也可加水，也可在将要煮透前，停火，封盖，几分钟。
+        4.加糖、椰浆及杂果等配料后搅动，即可食用。
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201310/09114901589.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

@@ -1,0 +1,194 @@
+<content>
+
+    <id>
+        143
+    </id>
+
+    <foodname>
+        鱿鱼
+    </foodname>
+
+    <firstcategory>
+        水产
+    </firstcategory>
+
+    <secondcategory>
+        其他水产
+    </secondcategory>
+
+    <alias>
+        枪乌贼、柔鱼、竹快子、小管仔
+    </alias>
+
+    <unsuit>
+        高血脂、高胆固醇血症、动脉硬化及肝病患者慎食。
+    </unsuit>
+
+    <suit>
+        一般人群均可食用。尤适宜骨质疏松、缺铁性贫血、月经不调患者。
+    </suit>
+
+    <ingredient>
+        <element>
+            <elename>
+                热量（大卡）
+            </elename>
+            <elevalue>
+                75
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                蛋白质（克）
+            </elename>
+            <elevalue>
+                17
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                脂肪（克）
+            </elename>
+            <elevalue>
+                0.8
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                维生素A（微克）
+            </elename>
+            <elevalue>
+                16
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                维生素B2（毫克）
+            </elename>
+            <elevalue>
+                0.03
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                维生素E（毫克）
+            </elename>
+            <elevalue>
+                0.94
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                钙（毫克）
+            </elename>
+            <elevalue>
+                43
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                磷（毫克）
+            </elename>
+            <elevalue>
+                60
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                钾（毫克）
+            </elename>
+            <elevalue>
+                16
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                钠（毫克）
+            </elename>
+            <elevalue>
+                134.7
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                镁（毫克）
+            </elename>
+            <elevalue>
+                61
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                铁（毫克）
+            </elename>
+            <elevalue>
+                0.5
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                锌（毫克）
+            </elename>
+            <elevalue>
+                1.36
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                硒（微克）
+            </elename>
+            <elevalue>
+                13.65
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                铜（毫克）
+            </elename>
+            <elevalue>
+                0.2
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                锰（毫克）
+            </elename>
+            <elevalue>
+                0.06
+            </elevalue>
+        </element>
+    </ingredient>
+
+    <introduction>
+        鱿鱼属软体动物，是生活在海洋中的软体动物。在分类学上，鱿鱼是属于软体动物门头足纲二鳃亚纲十腕目的动物。鱿鱼体内具有二片鳃作为呼吸器官；身体分为头部、很短的颈部和躯干部。鱿鱼属软体动物类，是乌贼的一种，体圆锥形，体色苍白，有淡褐色斑，头大，前方生有触足10条，尾端的肉鳍呈三角形，常成群游弋于深约20米的海洋中。目前市场看到的鱿鱼有两种：一种是躯干部较肥大的鱿鱼，它的名称叫“枪乌贼”；一种是躯干部细长的鱿鱼，它的名称叫“柔鱼”，小的柔鱼俗名叫“小管仔”。
+    </introduction>
+
+    <effect>
+        1.防治贫血
+        鱿鱼富含钙、磷、铁元素，利于骨骼发育和造血，能有效治疗贫血。含有的多肽和硒等微量元素有抗病毒防辐射的作用。
+        2.预防带血综合症
+        降低血液中的胆固醇，缓解疲劳，恢复视力。
+        3.预防糖尿病
+        促进胰岛素的分泌，对糖尿病有预防的作用，促进肝脏的解毒作用，预防有酒精肝引起的肝脏功能损害，所以鱿鱼作为下酒菜是再合适不过的了。
+    </effect>
+
+    <nutrition>
+        1.鱿鱼含有丰富的蛋白质，及人体所必须的氨基酸，大量的牛磺酸。
+        2.鱿鱼还有少量的脂肪和碳水化合物，含有大量的胆固醇，鱿鱼中的微量元素以及钙、磷、硒、钾、钠含量都是较高的。
+    </nutrition>
+
+    <cuisine>
+        1.鱿鱼干要先用清水泡几个小时，再刮去体表上的粘液，然后用热碱水泡发。出锅前，放上非常稀的水淀粉，可以使鱿鱼更有滋味。
+        2.干鱿鱼发好后可以在炭火上烤后直接食用，也可汆汤、炒食和烩食。
+        3.鱿鱼须煮熟透后再食，皆因鲜鱿鱼中有一种多肽成分，若未煮透就食用，会导致肠运动失调。
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201310/101140352496.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

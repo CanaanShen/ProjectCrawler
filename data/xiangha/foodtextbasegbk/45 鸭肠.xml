@@ -1,0 +1,58 @@
+<content>
+
+    <id>
+        45
+    </id>
+
+    <foodname>
+        鸭肠
+    </foodname>
+
+    <firstcategory>
+        肉类
+    </firstcategory>
+
+    <secondcategory>
+        鸭肉
+    </secondcategory>
+
+    <alias>
+    </alias>
+
+    <unsuit>
+    </unsuit>
+
+    <suit>
+        一般人群均可食用。
+    </suit>
+
+    <ingredient>
+
+    </ingredient>
+
+    <introduction>
+        鸭肠即为鸭的肠。洗净滑腻污物用。
+    </introduction>
+
+    <effect>
+
+    </effect>
+
+    <nutrition>
+        鸭肠富含蛋白质、B族维生素、维生素C、维生素A和钙、铁等微量元素。对人体新陈代谢，神经、心脏、消化和视觉的维护都有良好的作用。
+    </nutrition>
+
+    <cuisine>
+        1.清洗鸭肠一定要先翻洗内侧，这样才能清洗干净;
+        2.煮鸭肠的时间不宜太长，断生即可，以免过老，影响口感。
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201403/272109027552.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

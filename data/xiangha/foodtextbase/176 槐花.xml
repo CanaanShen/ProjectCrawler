@@ -1,0 +1,171 @@
+<content>
+
+    <id>
+        176
+    </id>
+
+    <foodname>
+        槐花
+    </foodname>
+
+    <firstcategory>
+        蔬菜
+    </firstcategory>
+
+    <secondcategory>
+        茎叶花类
+    </secondcategory>
+
+    <alias>
+        金药树、护房树、豆槐、槐米、槐蕊
+    </alias>
+
+    <unsuit>
+        脾胃虚寒及阴虚发热而无实火者、糖尿病人、过敏性体质的人慎服；消化系统不好的人，尤其是中老年人不宜过量食用。
+    </unsuit>
+
+    <suit>
+    </suit>
+
+    <ingredient>
+        <element>
+            <elename>
+                热量（大卡）
+            </elename>
+            <elevalue>
+                78
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                蛋白质（克）
+            </elename>
+            <elevalue>
+                3.1
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                脂肪（克）
+            </elename>
+            <elevalue>
+                0.7
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                碳水化合物（克）
+            </elename>
+            <elevalue>
+                17
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                膳食纤维（克）
+            </elename>
+            <elevalue>
+                2.2
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                维生素A（微克）
+            </elename>
+            <elevalue>
+                67
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                胡萝卜素（微克）
+            </elename>
+            <elevalue>
+                400
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                维生素B1（毫克）
+            </elename>
+            <elevalue>
+                0.04
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                维生素B2（毫克）
+            </elename>
+            <elevalue>
+                0.18
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                烟酸（毫克）
+            </elename>
+            <elevalue>
+                6.6
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                维生素C（毫克）
+            </elename>
+            <elevalue>
+                30
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                钙（毫克）
+            </elename>
+            <elevalue>
+                83
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                磷（毫克）
+            </elename>
+            <elevalue>
+                69
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                铁（毫克）
+            </elename>
+            <elevalue>
+                3.6
+            </elevalue>
+        </element>
+    </ingredient>
+
+    <introduction>
+        广义的槐花指豆科植物槐的花及花蕾，但一般将开放的花朵称为“槐花”，也称“槐蕊”，花蕾则称为“槐米”。槐为落叶乔木，常植于屋边、路边，全国各地普遍栽培。一般在夏季花开放或花蕾形成时采收，以个大、紧缩，色黄绿，无梗叶者为佳，及时干燥，除去枝、梗及杂质、灰屑，作为药材时可生用、炒用或炒炭用（炒槐花可取净槐花，照清炒法炒至表面深黄色，槐花炭则取净槐花，照炒炭法炒至表面焦褐色），也可在花开放时，在树下铺布、席、塑料薄膜等，将花打落，收集晒干。但是当作为行道树时，槐花有沾染农药的可能，在采摘时需要谨慎。
+        槐花不但可食，也是一味良药。槐花味道清香甘甜，富含维生素和多种矿物质，同时还具有清热解毒、凉血润肺、降血压、预防中风的功效。
+    </introduction>
+
+    <effect>
+        味苦、性微寒，归肝、大肠经；入血敛降，体轻微散；具有凉血止血，清肝泻火的功效；主治肠风便血，痔血，血痢，尿血，血淋，崩漏，吐血，衄血，肝火头痛，目赤肿痛，喉痹，失音，痈疽疮疡。
+    </effect>
+
+    <nutrition>
+        槐花含芦丁（即芸香苷，Rytub）、槲皮素（Quercetin）、鞣质、槐花二醇（sophoradiol）、维生素A等物质。芦丁能改善毛细血管的功能，保持毛细血管正常的抵抗力，防止因毛细血管脆性过大，渗透性过高引起的出血、高血压、糖尿病，服之可预防出血。
+        所以槐花多作为为治疗便血的常用药，用于大肠湿热引起的痔出血、便血、血痢及血热引起的吐血、衄血。一般为煎服，10～15g，外用适量，脾胃虚寒及阴虚发热而无实火者慎服。
+    </nutrition>
+
+    <cuisine>
+        将其采摘后可以做汤、拌菜、焖饭，亦可做槐花糕、包饺子，日常生活中最常见的就是蒸槐花（又名槐花麦饭），中国不少地区都有这一习惯，做法很简单，将洗净的槐花加入面粉拌匀，再加入精盐、味精等调味料，拌匀后放入笼屉中蒸熟即可。此外，在制作粥、汤时也可加入槐花。
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201508/051948417765.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

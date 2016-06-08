@@ -1,0 +1,179 @@
+<content>
+
+    <id>
+        419
+    </id>
+
+    <foodname>
+        鱼腥草
+    </foodname>
+
+    <firstcategory>
+        药食
+    </firstcategory>
+
+    <secondcategory>
+        药食
+    </secondcategory>
+
+    <alias>
+        岑草、蕺儿菜、折耳菜、紫蕺、侧耳根、野花麦、九节莲、肺形草、臭菜、臭腥草
+    </alias>
+
+    <unsuit>
+        虚寒性体质及疔疮肿疡属阴寒，无红肿热痛者忌食。
+    </unsuit>
+
+    <suit>
+        一般人群均可食用。尤适宜流行性感冒患者、经常便秘、脾胃湿热、脘腹胀满、恶心呕吐、不思饮食者。
+    </suit>
+
+    <ingredient>
+        <element>
+            <elename>
+                碳水化合物（克）
+            </elename>
+            <elevalue>
+                0.3
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                膳食纤维（克）
+            </elename>
+            <elevalue>
+                0.3
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                维生素A（微克）
+            </elename>
+            <elevalue>
+                575
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                胡萝卜素（微克）
+            </elename>
+            <elevalue>
+                3450
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                维生素C（毫克）
+            </elename>
+            <elevalue>
+                70
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                钙（毫克）
+            </elename>
+            <elevalue>
+                123
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                磷（毫克）
+            </elename>
+            <elevalue>
+                38
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                钾（毫克）
+            </elename>
+            <elevalue>
+                718
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                钠（毫克）
+            </elename>
+            <elevalue>
+                2.6
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                镁（毫克）
+            </elename>
+            <elevalue>
+                71
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                铁（毫克）
+            </elename>
+            <elevalue>
+                9.8
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                锌（毫克）
+            </elename>
+            <elevalue>
+                0.99
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                铜（毫克）
+            </elename>
+            <elevalue>
+                0.55
+            </elevalue>
+        </element>
+        <element>
+            <elename>
+                锰（毫克）
+            </elename>
+            <elevalue>
+                1.71
+            </elevalue>
+        </element>
+    </ingredient>
+
+    <introduction>
+        鱼腥草，为三白草科多年生草本植物蕺菜的干燥水上部分。生长于沟边、溪边及潮湿的疏林下，产于我国长江流域以南各省。名见《名医别录》。唐苏颂说:"生湿地，山谷阴处亦能蔓生，叶如荞麦而肥，茎紫赤色，江左人好生食，关中谓之菹菜，叶有腥气，故俗称：鱼腥草。"其嫩茎叶，可炒食、凉拌或作汤，凉拌侧耳根是民间的一道传统佳肴。
+        相传当年越王勾践做了吴王的俘虏，卧薪尝胆，发誓一定要使越国强大起来。但回国的第一年就碰上了罕见的荒年，百姓无粮可吃。勾践亲自上山寻找可以食用的野菜，终于发现了一种。于是，越国上下竟然靠着这小小的野菜渡过了难关。因为这种野菜有鱼腥味，便被勾践命名为鱼腥草。
+    </introduction>
+
+    <effect>
+        味辛、性寒凉。能清热解毒、排痛消肿疗疮、利尿除湿、健胃消食。用治实热、热毒、湿邪、疾热为患的肺痈、疮疡肿毒、痔疮便血、脾胃积热等。
+        1.抗菌
+        现代研究表明，其特异气味主要来源于鱼腥草挥发油中的一种有效成分——鱼腥草素（癸酰乙醛）。鱼胆草素是鱼腥草的主要抗菌成分，对卡他球菌、流感杆菌、肺炎球菌、金黄色葡萄球菌等有明显抑制作用。
+        2.利尿
+        鱼腥草还含有槲皮甙等有效成分，具有抗病毒和利尿作用。
+        3.消炎
+        临床实践证明，鱼腥草对于上呼吸道感染、支气管炎、肺炎、慢性气管炎、慢性宫颈炎、百日咳等均有较好的疗效，对急性结膜炎、尿路感染等也有一定疗效。
+        4.增强免疫力
+        鱼腥草还能增强机体免疫功能，增加白细胞吞噬能力，具有镇痛、止咳、止血，促进组织再生，扩张毛细血管、增加血流量等方面的作用。
+    </effect>
+
+    <nutrition>
+        鱼腥草主含挥发油，癸酰乙醛鱼腥草素等多种成份，对各种致病杆菌、球菌、流感病毒、钩端螺旋体等有抑制抗菌作用，并能提高人体免疫调节功能。
+    </nutrition>
+
+    <cuisine>
+        在西双版纳，鱼腥草是一种比较常见的野生蔬菜，当地居民大多喜食之，常见的吃法有几种：一是将鱼腥草地下茎除去节上的毛根，洗净后切成2至3公分的小段（也可将嫩叶加入其中），放入醋、酱油、辣椒粉、味精等佐料凉拌生吃，清脆爽口，但腥味较重；二是将地下茎连同嫩茎叶一同煮汤、煎、炒或炖，清香宜人，入口宜化，略有腥味；三是腌渍加工成咸菜食用，酸香生脆，令人开胃。
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201306/071341317.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>

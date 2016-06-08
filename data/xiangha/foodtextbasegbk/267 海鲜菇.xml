@@ -1,0 +1,58 @@
+<content>
+
+    <id>
+        267
+    </id>
+
+    <foodname>
+        海鲜菇
+    </foodname>
+
+    <firstcategory>
+        蔬菜
+    </firstcategory>
+
+    <secondcategory>
+        菌菇类
+    </secondcategory>
+
+    <alias>
+        玉蕈、斑玉蕈、胶玉蘑、鸿喜菇、真姬菇、假松茸、蟹味蘑
+    </alias>
+
+    <unsuit>
+    </unsuit>
+
+    <suit>
+    </suit>
+
+    <ingredient>
+
+    </ingredient>
+
+    <introduction>
+        海鲜菇，隶属担子菌亚门、层菌纲、伞菌目、白蘑科、离褶菌族、玉蕈属，是北温带一种优良的食用菌，味比平菇鲜，肉比滑菇厚，质比香菇韧，口感极佳，还具有独特的蟹香味，在日本有"香在松茸、味在玉蕈"之说，具有很高的营养价值和药用价值。
+        其子实体群生至丛生，菌盖表面近白色至灰褐色，中央常有深色的大理石花纹。菌褶近白色，与菌柄圆弯生，密集至稍稀。目前栽培的有浅灰色和纯白色两个品系，白色品系又称“白玉菇”、“玉龙菇”，深受市场欢迎。多为工厂化栽培。
+    </introduction>
+
+    <effect>
+        抗癌、防癌、提高免疫力、预防衰老、延长寿命的功效
+    </effect>
+
+    <nutrition>
+        海鲜菇的蛋白质中氨基酸种类齐全，包括8种人体必需氨基酸，还含有数种多糖体，其子实体的热水和有机溶剂提取物有清除人体自由基的作用，所以常食海鲜菇有抗癌、防癌、提高免疫力、预防衰老、延长寿命的功效。
+    </nutrition>
+
+    <cuisine>
+        海鲜菇的食用方式多种多样，通常用来煲汤、炖鸡作为补品，亦可用来炖食或涮火锅。常见的海鲜菇食谱有西兰花炒海鲜菇、海鲜菇炒芦笋等。
+    </cuisine>
+
+    <pictureweburl>
+        http://s1.cdn.xiangha.com/shicai/201508/101409045271.jpg/MTUweDE1MA
+    </pictureweburl>
+
+    <picturelocalurl>
+
+    </picturelocalurl>
+
+</content>
